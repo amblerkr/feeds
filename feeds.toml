@@ -6,13 +6,6 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 
-[78avenue]
-title = "78Avenue ─ CLASS"
-url = "http://78avenue.com/product/list.html?cate_no=42"
-entrySelector = "div.xans-element-.xans-product.xans-product-normalpackage > div > ul"
-titleSelector = "div.description strong > a span:nth-child(2)"
-linkSelector = "div.description strong a"
-
 [vlive]
 title = "Star Board"
 url = "https://vlive.tv/channel/E1F3A7/board/4386"
