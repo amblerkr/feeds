@@ -24,7 +24,7 @@ waitUntil = "networkidle"
 
 [vlive_loona]
 title = "LOONA ─ Star Board"
-url = "https://www.vlive.tv/channel/E1F3A7/board/4386?lang=ko"
+url = "https://vlive.tv/channel/E1F3A7/board/4386"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
