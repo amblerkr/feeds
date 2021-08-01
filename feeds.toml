@@ -12,3 +12,12 @@ url = "http://78avenue.com/product/list.html?cate_no=42"
 entrySelector = "div.xans-element-.xans-product.xans-product-normalpackage > div > ul"
 titleSelector = "div.description strong > a span:nth-child(2)"
 linkSelector = "div.description strong a"
+
+[vlive]
+title = "Star Board"
+url = "https://vlive.tv/channel/E1F3A7/board/4386"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a"
+imageSelector = "span[class^='covered_image']"
+waitUntil = "networkidle"
