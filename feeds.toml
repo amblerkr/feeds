@@ -1,4 +1,4 @@
-[msbsound]
+[msbsound_naverpost]
 title = "MSBSOUND ─ Album Special"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=444106&memberNo=838758"
 entrySelector = "#el_list_container ul ul li"
@@ -24,7 +24,7 @@ waitUntil = "networkidle"
 
 [vlive_loona]
 title = "LOONA ─ Star Board"
-url = "https://vlive.tv/channel/E1F3A7/board/4386"
+url = "https://www.vlive.tv/channel/E1F3A7/board/4386?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
@@ -59,6 +59,13 @@ imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
 [geeknews]
+title = "GeekNews"
+url = "https://news.hada.io"
+entrySelector = ".topic"
+titleSelector = ".topictitle"
+linkSelector = ".topictitle a"
+
+[geeknews_b]
 title = "GeekNews"
 url = "https://news.hada.io"
 entrySelector = ".topic"
