@@ -16,10 +16,10 @@ imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
 [vlive_new]
-title = "Star Board"
+title = "V LIVE"
 url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
 entrySelector = "li"
-titleSelector = "strong"
+titleSelector = "a[title]"
 linkSelector = "a"
 imageSelector = "img"
 
