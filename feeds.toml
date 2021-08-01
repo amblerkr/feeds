@@ -9,6 +9,6 @@ contentSelector = "a > div img[src]"
 [78avenue]
 title = "78Avenue ─ CLASS"
 url = "http://78avenue.com/product/list.html?cate_no=42"
-entrySelector = "duct-normalpackage > div > ul"
+entrySelector = "div.xans-element-.xans-product.xans-product-normalpackage > div > ul"
 titleSelector = "div.description strong > a span:nth-child(2)"
 linkSelector = "div.description strong a"
