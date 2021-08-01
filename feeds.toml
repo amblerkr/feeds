@@ -48,3 +48,12 @@ titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
+
+[vlive_smtown]
+title = "SMTOWN ─ Media Board"
+url = "https://www.vlive.tv/channel/FD53B/board/3530"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[data-click]"
+imageSelector = "span[class^='covered_image']"
+waitUntil = "networkidle"
