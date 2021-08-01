@@ -1,41 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Star Board</title>
+        <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Aug 2021 14:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 14:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[0]]></title>
-            <link>https://www.vlive.tv/video/257912</link>
-            <guid>https://www.vlive.tv/video/257912</guid>
-            <pubDate>Sun, 01 Aug 2021 14:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/video/257912" class="thumb_area _live_thumb" data-seq="257912" title="🥒앱" data-ga-seq="257912" data-ga-name="🥒앱" data-ga-type="LIVE" data-ga-cname="BTOB" data-ga-cseq="28" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">
-			<div class="icon_box">
-				<span class="icon_live">LIVE</span></div>
-			<span class="thumb_border"></span>
-		</a>
-		<a href="/video/257912" class="video_tit" title="🥒앱" data-ga-seq="257912" data-ga-name="🥒앱" data-ga-type="LIVE" data-ga-cname="BTOB" data-ga-cseq="28" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">🥒앱</a>
-		<div class="video_date">
-			<span class="date">2분 전</span>			
-			<a href="/channel/FD737" target="_blank" class="name" data-ga-seq="28" data-ga-name="BTOB" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">BTOB</a>
-				</div>
-		
-		<div class="video_info">
-			<span class="play">
-				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>14,837</span>
-			</span>
-			<span class="like">
-				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>394,534</span> 
-			</span>
-		</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1]]></title>
+            <title><![CDATA[재생시간1:22]]></title>
             <link>https://www.vlive.tv/video/257910</link>
             <guid>https://www.vlive.tv/video/257910</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:34 GMT</pubDate>
@@ -46,24 +19,24 @@
 		</a>
 		<a href="/video/257910" class="video_tit" title="🥒앱" data-ga-seq="257910" data-ga-name="🥒앱" data-ga-type="VOD" data-ga-cname="BTOB" data-ga-cseq="28" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">🥒앱</a>
 		<div class="video_date">
-			<span class="date">2분 전</span>			
+			<span class="date">6분 전</span>			
 			<a href="/channel/FD737" target="_blank" class="name" data-ga-seq="28" data-ga-name="BTOB" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">BTOB</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>16,771</span>
+				<span>17,773</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>206,397</span> 
+				<span>210,873</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_57/1627828356151vBkMx_JPEG/2944c29c-f2d5-11eb-8f8d-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2]]></title>
+            <title><![CDATA[LIVE]]></title>
             <link>https://www.vlive.tv/video/257911</link>
             <guid>https://www.vlive.tv/video/257911</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:34 GMT</pubDate>
@@ -74,23 +47,23 @@
 		</a>
 		<a href="/video/257911" class="video_tit" title="🐥💚1000일 축하해💛" data-ga-seq="257911" data-ga-name="🐥💚1000일 축하해💛" data-ga-type="LIVE" data-ga-cname="드림노트 (DreamNote)" data-ga-cseq="919" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">🐥💚1000일 축하해💛</a>
 		<div class="video_date">
-			<span class="date">4분 전</span>			
+			<span class="date">8분 전</span>			
 			<a href="/channel/C5C72D" target="_blank" class="name" data-ga-seq="919" data-ga-name="드림노트 (DreamNote)" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">드림노트 (DreamNote)</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>512</span>
+				<span>741</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>15,005</span> 
+				<span>24,625</span> 
 			</span>
 		</div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[3]]></title>
+            <title><![CDATA[재생시간58:26]]></title>
             <link>https://www.vlive.tv/video/257904</link>
             <guid>https://www.vlive.tv/video/257904</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -101,24 +74,24 @@
 		</a>
 		<a href="/video/257904" class="video_tit" title="오늘은 주말밤섭 (게스트 있음)" data-ga-seq="257904" data-ga-name="오늘은 주말밤섭 (게스트 있음)" data-ga-type="VOD" data-ga-cname="N.CUS (엔쿠스)" data-ga-cseq="1452" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">오늘은 주말밤섭 (게스트 있음)</a>
 		<div class="video_date">
-			<span class="date">28분 전</span>			
+			<span class="date">31분 전</span>			
 			<a href="/channel/A47B57" target="_blank" class="name" data-ga-seq="1452" data-ga-name="N.CUS (엔쿠스)" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">N.CUS (엔쿠스)</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>2,048</span>
+				<span>2,062</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>56,734</span> 
+				<span>56,850</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_97/16278268445217uz87_JPEG/4a623a76-f2d1-11eb-93f2-a0369ff95ec0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4]]></title>
+            <title><![CDATA[재생시간1:37:45]]></title>
             <link>https://www.vlive.tv/video/257897</link>
             <guid>https://www.vlive.tv/video/257897</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -129,14 +102,14 @@
 		</a>
 		<a href="/video/257897" class="video_tit" title="세운 to me now #27" data-ga-seq="257897" data-ga-name="세운 to me now #27" data-ga-type="VOD" data-ga-cname="정세운(Jeong Sewoon)" data-ga-cseq="576" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">세운 to me now #27</a>
 		<div class="video_date">
-			<span class="date">46분 전</span>			
+			<span class="date">49분 전</span>			
 			<a href="/channel/DB347F" target="_blank" class="name" data-ga-seq="576" data-ga-name="정세운(Jeong Sewoon)" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">정세운(Jeong Sewoon)</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>5,028</span>
+				<span>5,047</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -146,7 +119,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_175/1627825760945UQqxj_JPEG/995ebe94-f2ce-11eb-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[5]]></title>
+            <title><![CDATA[재생시간52:24]]></title>
             <link>https://www.vlive.tv/video/257902</link>
             <guid>https://www.vlive.tv/video/257902</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -157,24 +130,24 @@
 		</a>
 		<a href="/video/257902" class="video_tit" title="8월을 시작하며" data-ga-seq="257902" data-ga-name="8월을 시작하며" data-ga-type="VOD" data-ga-cname="TOMORROW X TOGETHER" data-ga-cseq="1106" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">8월을 시작하며</a>
 		<div class="video_date">
-			<span class="date">52분 전</span>			
+			<span class="date">56분 전</span>			
 			<a href="/channel/BA18A3" target="_blank" class="name" data-ga-seq="1106" data-ga-name="TOMORROW X TOGETHER" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">TOMORROW X TOGETHER</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>367,871</span>
+				<span>369,574</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>28,789,086</span> 
+				<span>28,809,428</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_33/1627826905163iJXqe_JPEG/upload_7190663032296645185b7b951-aa9a-43d0-b078-4677a61f40c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6]]></title>
+            <title><![CDATA[LIVE]]></title>
             <link>https://www.vlive.tv/video/257909</link>
             <guid>https://www.vlive.tv/video/257909</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -192,17 +165,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>2,095</span>
+				<span>2,237</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>70,546</span> 
+				<span>76,162</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_96/162782476273708B5N_JPEG/14061313668358872280dc26ca-8bd0-4183-baf4-1e74c20cfb91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[7]]></title>
+            <title><![CDATA[재생시간45:23]]></title>
             <link>https://www.vlive.tv/video/257900</link>
             <guid>https://www.vlive.tv/video/257900</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -220,17 +193,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>190,987</span>
+				<span>191,759</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>17,057,928</span> 
+				<span>17,077,501</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_27/1627825519881e269i_JPEG/89ad980b-f2cb-11eb-a77c-a0369ff94ec8_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[8]]></title>
+            <title><![CDATA[재생시간1:09:10]]></title>
             <link>https://www.vlive.tv/video/256931</link>
             <guid>https://www.vlive.tv/video/256931</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -248,17 +221,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>6,349</span>
+				<span>6,385</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>2,349,672</span> 
+				<span>2,349,769</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210723_68/1627010592363QepCS_PNG/upload_4328014097294525205f82522-f37c-4f3f-a369-db697caca0ce.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[9]]></title>
+            <title><![CDATA[재생시간26:22]]></title>
             <link>https://www.vlive.tv/video/257901</link>
             <guid>https://www.vlive.tv/video/257901</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -276,7 +249,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>1,039</span>
+				<span>1,043</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -286,7 +259,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_64/1627821475919nNa96_JPEG/140609931888591416b688ea0b-3c0d-4c8e-ba02-f7c8f1aaf8d0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10]]></title>
+            <title><![CDATA[재생시간0:27]]></title>
             <link>https://www.vlive.tv/video/257905</link>
             <guid>https://www.vlive.tv/video/257905</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -304,7 +277,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>208</span>
+				<span>215</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -314,7 +287,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_168/16278231686414efLG_JPEG/1e77fbc8-f2c9-11eb-882d-48df37ae3dc4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11]]></title>
+            <title><![CDATA[LIVE]]></title>
             <link>https://www.vlive.tv/video/257903</link>
             <guid>https://www.vlive.tv/video/257903</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -332,17 +305,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>2,258</span>
+				<span>2,429</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>103,568</span> 
+				<span>109,480</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_60/1627822975244ltB8x_JPEG/14069863916167246629c67935-6060-4174-bbd3-1ba4613ea18d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[12]]></title>
+            <title><![CDATA[재생시간3:01]]></title>
             <link>https://www.vlive.tv/video/257814</link>
             <guid>https://www.vlive.tv/video/257814</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -360,7 +333,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>199</span>
+				<span>202</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -370,7 +343,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210731_114/1627724223136GUd94_JPEG/upload_43993822694813971ebc5388d-447d-4db2-9ab0-b43ff71bc1da.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[13]]></title>
+            <title><![CDATA[재생시간0:53]]></title>
             <link>https://www.vlive.tv/video/257842</link>
             <guid>https://www.vlive.tv/video/257842</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -388,17 +361,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>336</span>
+				<span>338</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>18,122</span> 
+				<span>19,382</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210731_180/1627737379410nGtGv_JPEG/416aec26-f200-11eb-a77c-a0369ff94ec8_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[14]]></title>
+            <title><![CDATA[재생시간13:41]]></title>
             <link>https://www.vlive.tv/video/257786</link>
             <guid>https://www.vlive.tv/video/257786</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -416,17 +389,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>1,472</span>
+				<span>1,495</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>32,860</span> 
+				<span>33,127</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210731_177/1627708964268Nil6L_JPEG/upload_71788693279443652677ab167-5695-4cee-b62f-9435169ac40f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[15]]></title>
+            <title><![CDATA[재생시간6:42]]></title>
             <link>https://www.vlive.tv/video/257755</link>
             <guid>https://www.vlive.tv/video/257755</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -454,7 +427,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210730_141/1627653256805o9ezl_PNG/1627652327808.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[16]]></title>
+            <title><![CDATA[재생시간19:25]]></title>
             <link>https://www.vlive.tv/video/257400</link>
             <guid>https://www.vlive.tv/video/257400</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -472,17 +445,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>6,129</span>
+				<span>6,176</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>242,588</span> 
+				<span>244,149</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210728_31/1627439549478EkQCk_JPEG/upload_71519250340896780f7802f1a-30c8-4350-89e2-0edf80f83033.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[17]]></title>
+            <title><![CDATA[재생시간15:04]]></title>
             <link>https://www.vlive.tv/video/257898</link>
             <guid>https://www.vlive.tv/video/257898</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -493,24 +466,24 @@
 		</a>
 		<a href="/video/257898" class="video_tit" title="민혁이랑 ☃️사람~🐵" data-ga-seq="257898" data-ga-name="민혁이랑 ☃️사람~🐵" data-ga-type="VOD" data-ga-cname="디크런치 (D_CRUNCH)" data-ga-cseq="975" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">민혁이랑 ☃️사람~🐵</a>
 		<div class="video_date">
-			<span class="date">1시간 전</span>			
+			<span class="date">2시간 전</span>			
 			<a href="/channel/C2479D" target="_blank" class="name" data-ga-seq="975" data-ga-name="디크런치 (D_CRUNCH)" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">디크런치 (D_CRUNCH)</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>656</span>
+				<span>658</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>32,492</span> 
+				<span>32,554</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_253/1627821424722fMM53_JPEG/d1ee025c-f2c4-11eb-9b63-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[18]]></title>
+            <title><![CDATA[재생시간3:47]]></title>
             <link>https://www.vlive.tv/video/257862</link>
             <guid>https://www.vlive.tv/video/257862</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -528,17 +501,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>581</span>
+				<span>595</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>4,207</span> 
+				<span>4,254</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_170/1627781311847Js9Fp_PNG/1627711173702.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[19]]></title>
+            <title><![CDATA[재생시간3:18]]></title>
             <link>https://www.vlive.tv/video/257861</link>
             <guid>https://www.vlive.tv/video/257861</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -556,7 +529,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>358</span>
+				<span>366</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -566,7 +539,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_229/1627781239772n7Ujs_PNG/1627711155097.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[20]]></title>
+            <title><![CDATA[재생시간3:44]]></title>
             <link>https://www.vlive.tv/video/257860</link>
             <guid>https://www.vlive.tv/video/257860</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -584,7 +557,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>250</span>
+				<span>255</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -594,7 +567,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_230/1627781177969azx19_PNG/1627710991691.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[21]]></title>
+            <title><![CDATA[재생시간3:00]]></title>
             <link>https://www.vlive.tv/video/257859</link>
             <guid>https://www.vlive.tv/video/257859</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -612,17 +585,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>259</span>
+				<span>267</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,452</span> 
+				<span>1,507</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_14/1627781108850n9rqL_PNG/1627710928942.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[22]]></title>
+            <title><![CDATA[재생시간2:50]]></title>
             <link>https://www.vlive.tv/video/257858</link>
             <guid>https://www.vlive.tv/video/257858</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -640,17 +613,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>149</span>
+				<span>154</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,692</span> 
+				<span>1,807</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_260/16277810487258VmRY_PNG/1627710825925.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[23]]></title>
+            <title><![CDATA[재생시간3:25]]></title>
             <link>https://www.vlive.tv/video/257857</link>
             <guid>https://www.vlive.tv/video/257857</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -668,7 +641,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>129</span>
+				<span>131</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -678,7 +651,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_219/1627780974754T4dWk_PNG/1627711076410.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[24]]></title>
+            <title><![CDATA[재생시간28:00]]></title>
             <link>https://www.vlive.tv/video/257896</link>
             <guid>https://www.vlive.tv/video/257896</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -696,17 +669,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>14,235</span>
+				<span>14,268</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,366,601</span> 
+				<span>1,366,838</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_217/1627820747800nL8yC_JPEG/2aee0bb6-f2c3-11eb-9d74-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[25]]></title>
+            <title><![CDATA[재생시간1:24:31]]></title>
             <link>https://www.vlive.tv/video/257891</link>
             <guid>https://www.vlive.tv/video/257891</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -724,17 +697,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>19,374</span>
+				<span>19,403</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>3,174,265</span> 
+				<span>3,174,662</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_92/1627820465990uNkkF_JPEG/upload_719001779512811343dcea117-834b-4885-9703-871f22acb166.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[26]]></title>
+            <title><![CDATA[재생시간17:34]]></title>
             <link>https://www.vlive.tv/video/257895</link>
             <guid>https://www.vlive.tv/video/257895</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -752,17 +725,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>580,518</span>
+				<span>581,415</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>26,782,036</span> 
+				<span>26,798,827</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_116/1627818131316KrxQg_JPEG/14069373026283531398128718-4ac7-400b-ab75-17d0f46679be.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[27]]></title>
+            <title><![CDATA[재생시간52:44]]></title>
             <link>https://www.vlive.tv/video/257892</link>
             <guid>https://www.vlive.tv/video/257892</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -780,17 +753,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>4,085</span>
+				<span>4,102</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>2,187,096</span> 
+				<span>2,189,866</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_25/1627815505993hxnpx_JPEG/2143328226281176156fce1e5-e128-4999-b3e0-f0aba4d1dfa9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[28]]></title>
+            <title><![CDATA[재생시간14:40]]></title>
             <link>https://www.vlive.tv/video/257893</link>
             <guid>https://www.vlive.tv/video/257893</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -808,7 +781,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>645</span>
+				<span>646</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -818,7 +791,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_114/1627816314786eab5j_JPEG/140691914730013065083cf02f-7ca1-49c4-a3e1-2212086ee469.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[29]]></title>
+            <title><![CDATA[재생시간1:07:59]]></title>
             <link>https://www.vlive.tv/video/257886</link>
             <guid>https://www.vlive.tv/video/257886</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -836,17 +809,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>9,747</span>
+				<span>9,760</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,472,435</span> 
+				<span>1,473,352</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_100/16278126816109HQt0_JPEG/140601055605650517d759516d-4f0a-4a2f-af06-d25e97f8ffde.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[30]]></title>
+            <title><![CDATA[재생시간1:26:54]]></title>
             <link>https://www.vlive.tv/video/257884</link>
             <guid>https://www.vlive.tv/video/257884</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -864,7 +837,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>1,713</span>
+				<span>1,716</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -874,7 +847,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_215/1627811016544w9cgt_JPEG/2142879282535374795ee91ad-b032-406a-91d5-aa289b17f9b8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[31]]></title>
+            <title><![CDATA[재생시간52:03]]></title>
             <link>https://www.vlive.tv/video/257887</link>
             <guid>https://www.vlive.tv/video/257887</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -892,17 +865,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>27,275</span>
+				<span>27,327</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>2,748,636</span> 
+				<span>2,749,294</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_154/1627816929563RSOjL_JPEG/f1ef10f4-f2b9-11eb-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[32]]></title>
+            <title><![CDATA[재생시간31:27]]></title>
             <link>https://www.vlive.tv/video/257889</link>
             <guid>https://www.vlive.tv/video/257889</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -920,17 +893,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>11,254</span>
+				<span>11,271</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,141,711</span> 
+				<span>1,141,820</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_21/1627818801418oYboB_JPEG/upload_440884030839576512084f9c5-a58e-4d57-ac6a-4aa138a82d8e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[33]]></title>
+            <title><![CDATA[재생시간19:42]]></title>
             <link>https://www.vlive.tv/video/257890</link>
             <guid>https://www.vlive.tv/video/257890</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -948,7 +921,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>476</span>
+				<span>477</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -958,7 +931,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_33/1627814750601VpHOx_JPEG/140690281534480911fad1c1a3-b5fe-4f52-8a11-a24a1abca68f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[34]]></title>
+            <title><![CDATA[재생시간1:26:30]]></title>
             <link>https://www.vlive.tv/video/257883</link>
             <guid>https://www.vlive.tv/video/257883</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -976,17 +949,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>19,255</span>
+				<span>19,272</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,693,590</span> 
+				<span>1,694,099</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_73/1627815230622VgOoY_JPEG/7da655b9-f2b4-11eb-9845-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[35]]></title>
+            <title><![CDATA[재생시간30:20]]></title>
             <link>https://www.vlive.tv/video/257885</link>
             <guid>https://www.vlive.tv/video/257885</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1004,7 +977,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>16,018</span>
+				<span>16,025</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -1014,7 +987,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_137/1627818465503bu1BL_JPEG/upload_718981835536469349a6ad722-989d-4d79-a45a-c34b6ca8da82.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[36]]></title>
+            <title><![CDATA[재생시간1:28:34]]></title>
             <link>https://www.vlive.tv/video/257882</link>
             <guid>https://www.vlive.tv/video/257882</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1032,17 +1005,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>12,110</span>
+				<span>12,141</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,665,530</span> 
+				<span>1,665,789</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_22/1627814418791unO0C_JPEG/8f93fbdc-f2b3-11eb-9845-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[37]]></title>
+            <title><![CDATA[재생시간1:38:40]]></title>
             <link>https://www.vlive.tv/video/257827</link>
             <guid>https://www.vlive.tv/video/257827</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1060,17 +1033,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>3,263</span>
+				<span>3,266</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>20,268,760</span> 
+				<span>20,273,870</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210731_159/1627730216465wNzhF_JPEG/upload_718098602252461351f5348d8-49b2-4472-a008-d7248b4ad8bf.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[38]]></title>
+            <title><![CDATA[재생시간12:46]]></title>
             <link>https://www.vlive.tv/video/257864</link>
             <guid>https://www.vlive.tv/video/257864</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1088,7 +1061,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>1,381</span>
+				<span>1,385</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -1098,7 +1071,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_154/1627787598527NA0Nb_JPEG/upload_4405719444670115331da3a7a-5b9f-48a4-905d-3739b016d11c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[39]]></title>
+            <title><![CDATA[재생시간45:53]]></title>
             <link>https://www.vlive.tv/video/257881</link>
             <guid>https://www.vlive.tv/video/257881</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1116,17 +1089,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>17,751</span>
+				<span>17,773</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>2,609,955</span> 
+				<span>2,612,046</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_298/1627811452962erjg6_JPEG/401453ba-f2ad-11eb-b6bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[40]]></title>
+            <title><![CDATA[재생시간1:06:13]]></title>
             <link>https://www.vlive.tv/video/257877</link>
             <guid>https://www.vlive.tv/video/257877</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1144,17 +1117,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>127,670</span>
+				<span>127,722</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>6,568,730</span> 
+				<span>6,570,008</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_39/1627809605609a9K0Y_JPEG/0e50e798-f2a9-11eb-b6bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[41]]></title>
+            <title><![CDATA[재생시간1:00:54]]></title>
             <link>https://www.vlive.tv/video/257876</link>
             <guid>https://www.vlive.tv/video/257876</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1172,7 +1145,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>10,960</span>
+				<span>10,969</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -1182,7 +1155,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_184/1627808935149NUmGh_JPEG/1eaa9d8e-f2a7-11eb-80a9-a0369ff95678_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[42]]></title>
+            <title><![CDATA[재생시간3:38]]></title>
             <link>https://www.vlive.tv/video/257878</link>
             <guid>https://www.vlive.tv/video/257878</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1200,17 +1173,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>30,931</span>
+				<span>30,999</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>1,699,627</span> 
+				<span>1,703,723</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_172/1627807251680QGW48_PNG/1627805562932.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[43]]></title>
+            <title><![CDATA[재생시간2:58]]></title>
             <link>https://www.vlive.tv/video/257810</link>
             <guid>https://www.vlive.tv/video/257810</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1228,17 +1201,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>7,021</span>
+				<span>7,056</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>158,680</span> 
+				<span>158,691</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210731_64/1627722843319aaXHF_JPEG/upload_71802559447771667baf01532-94db-4be8-90d2-ecdc5eda9e94.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[44]]></title>
+            <title><![CDATA[재생시간0:27]]></title>
             <link>https://www.vlive.tv/video/257880</link>
             <guid>https://www.vlive.tv/video/257880</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1256,17 +1229,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>7,518</span>
+				<span>7,532</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>38,148</span> 
+				<span>38,175</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_290/1627808329396dVY5A_JPEG/a32cb0f3-f2a6-11eb-882d-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[45]]></title>
+            <title><![CDATA[재생시간15:26]]></title>
             <link>https://www.vlive.tv/video/257875</link>
             <guid>https://www.vlive.tv/video/257875</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1284,17 +1257,17 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>45,290</span>
+				<span>45,309</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>2,352,458</span> 
+				<span>2,352,505</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_263/1627805441068a3z0D_JPEG/a9fc2d6b-f29f-11eb-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[46]]></title>
+            <title><![CDATA[재생시간54:14]]></title>
             <link>https://www.vlive.tv/video/257874</link>
             <guid>https://www.vlive.tv/video/257874</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1322,7 +1295,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210801_192/1627804942426sN6Ay_JPEG/63d30426-f29e-11eb-b6bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[47]]></title>
+            <title><![CDATA[재생시간1:29:08]]></title>
             <link>https://www.vlive.tv/video/257453</link>
             <guid>https://www.vlive.tv/video/257453</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1340,7 +1313,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>4,126</span>
+				<span>4,129</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -1350,7 +1323,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20210728_103/1627464773197Gcgd0_JPEG/upload_7154444110522796895105a8e-2b81-4555-a304-7d1d41bb072c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[48]]></title>
+            <title><![CDATA[재생시간43:57]]></title>
             <link>https://www.vlive.tv/video/257872</link>
             <guid>https://www.vlive.tv/video/257872</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1361,24 +1334,24 @@
 		</a>
 		<a href="/video/257872" class="video_tit" title="😄" data-ga-seq="257872" data-ga-name="😄" data-ga-type="VOD" data-ga-cname="THE BOYZ" data-ga-cseq="528" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">😄</a>
 		<div class="video_date">
-			<span class="date">6시간 전</span>			
+			<span class="date">7시간 전</span>			
 			<a href="/channel/DE341F" target="_blank" class="name" data-ga-seq="528" data-ga-name="THE BOYZ" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">THE BOYZ</a>
 				</div>
 		
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>138,076</span>
+				<span>138,105</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
-				<span>7,170,447</span> 
+				<span>7,171,238</span> 
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_157/1627818087889VDoyQ_JPEG/a81c3c18-f29a-11eb-a613-505dac8c38f5_04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[49]]></title>
+            <title><![CDATA[재생시간37:43]]></title>
             <link>https://www.vlive.tv/video/257869</link>
             <guid>https://www.vlive.tv/video/257869</guid>
             <pubDate>Sun, 01 Aug 2021 14:35:35 GMT</pubDate>
@@ -1396,7 +1369,7 @@
 		<div class="video_info">
 			<span class="play">
 				<em class="ico ico_play"><span class="blind">재생수</span></em>
-				<span>2,737</span>
+				<span>2,743</span>
 			</span>
 			<span class="like">
 				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
@@ -1404,6 +1377,34 @@
 			</span>
 		</div>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210801_71/1627799640094PXwR7_JPEG/140588010087796300ea040e99-cab4-4ce3-8f64-8e6a388ad6ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재생시간10:04]]></title>
+            <link>https://www.vlive.tv/video/257873</link>
+            <guid>https://www.vlive.tv/video/257873</guid>
+            <pubDate>Sun, 01 Aug 2021 14:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/video/257873" class="thumb_area" data-seq="257873" title="해피씬데이🐹❤️근데 이제 보이스만 곁들인..🥺" data-ga-seq="257873" data-ga-name="해피씬데이🐹❤️근데 이제 보이스만 곁들인..🥺" data-ga-type="VOD" data-ga-cname="STAYC" data-ga-cseq="1675" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">
+			<div class="icon_box">
+				<span class="time"><span class="blind">재생시간</span>10:04</span></div>
+			<img src="https://v-phinf.pstatic.net/20210801_62/1627802000591Y9V6L_JPEG/d8318784-f297-11eb-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" alt="해피씬데이🐹❤️근데 이제 보이스만 곁들인..🥺" onerror="vlive.tv.common.imageLoadError(this);" loading="lazy" width="228" height="128"><span class="thumb_border"></span>
+		</a>
+		<a href="/video/257873" class="video_tit" title="해피씬데이🐹❤️근데 이제 보이스만 곁들인..🥺" data-ga-seq="257873" data-ga-name="해피씬데이🐹❤️근데 이제 보이스만 곁들인..🥺" data-ga-type="VOD" data-ga-cname="STAYC" data-ga-cseq="1675" data-ga-ctype="BASIC" data-ga-product="NONE" onclick="vlive.tv.common.videoGa(this);">해피씬데이🐹❤️근데 이제 보이스만 곁들인..🥺</a>
+		<div class="video_date">
+			<span class="date">7시간 전</span>			
+			<a href="/channel/968D15" target="_blank" class="name" data-ga-seq="1675" data-ga-name="STAYC" data-ga-type="BASIC" onclick="vlive.tv.common.chGa(this);">STAYC</a>
+				</div>
+		
+		<div class="video_info">
+			<span class="play">
+				<em class="ico ico_play"><span class="blind">재생수</span></em>
+				<span>10,098</span>
+			</span>
+			<span class="like">
+				<em class="ico ico_like"><span class="blind">좋아요 수</span></em>
+				<span>492,671</span> 
+			</span>
+		</div>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210801_62/1627802000591Y9V6L_JPEG/d8318784-f297-11eb-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
