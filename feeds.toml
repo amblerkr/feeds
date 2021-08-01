@@ -9,7 +9,7 @@ contentSelector = "a > div img[src]"
 [78avenue]
 title = "78Avenue ─ CLASS"
 url = "http://78avenue.com/product/list.html?cate_no=42"
-entrySelector = "//*[@id="contents"]/div[3]/div/ul/li"
+entrySelector = "//*[@id='contents']/div[3]/div/ul/li"
 titleSelector = "//*div[2]/strong/a/span[2]"
 linkSelector = "//*div[2]/strong/a/@href"
 contentSelector = "//*div[1]/div/span/img/@src"
