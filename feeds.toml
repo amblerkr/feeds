@@ -4,4 +4,12 @@ url = "https://post.naver.com/my/series/detail.naver?seriesNo=444106&memberNo=83
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
-contentSelector = "a div img[src]"
+contentSelector = "a > div img[src]"
+
+[78avenue]
+title = "78Avenue ─ CLASS"
+url = "http://78avenue.com/product/list.html?cate_no=42"
+entrySelector = "//*[@id="contents"]/div[3]/div/ul/li"
+titleSelector = "//*div[2]/strong/a/span[2]"
+linkSelector = "//*div[2]/strong/a/@href"
+contentSelector = "//*div[1]/div/span/img/@src"
