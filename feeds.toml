@@ -1,13 +1,7 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[msbsound]
+title = "MSBSOUND ─ Album Special"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=444106&memberNo=838758"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+contentSelector = "a div img[src]"
