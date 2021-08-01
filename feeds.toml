@@ -58,3 +58,11 @@ titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
+
+[naverlive]
+title = "NAVER LIVE"
+url = "https://live.naver.com/"
+entrySelector = "#list-item-hot li"
+titleSelector = "div.item-box div.detail-info a"
+linkSelector = "a"
+imageSelector = "img"
