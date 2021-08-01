@@ -21,3 +21,23 @@ titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
+
+
+[vlive_loona]
+title = "[V LIVE] LOONA ─ Star Board"
+url = "https://vlive.tv/channel/E1F3A7/board/4386"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[data-click]"
+imageSelector = "span[class^='covered_image']"
+waitUntil = "networkidle"
+
+
+[vlive_rv]
+title = "[V LIVE] Red Velvet ─ Star Board"
+url = "https://vlive.tv/channel/DCF447/board/4540"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[data-click]"
+imageSelector = "span[class^='covered_image']"
+waitUntil = "networkidle"
