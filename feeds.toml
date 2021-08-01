@@ -35,7 +35,7 @@ waitUntil = "networkidle"
 
 [vlive_aespa_notice]
 title = "aespa ─ MY"
-url = "https://www.vlive.tv/channel/97CCED/board/7375"
+url = "https://vlive.tv/channel/97CCED/board/7375"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
@@ -44,7 +44,7 @@ waitUntil = "networkidle"
 
 [vlive_smtown]
 title = "SMTOWN ─ Media Board"
-url = "https://www.vlive.tv/channel/FD53B/board/3530"
+url = "https://vlive.tv/channel/FD53B/board/3530"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
