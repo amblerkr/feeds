@@ -4,7 +4,7 @@ url = "https://post.naver.com/my/series/detail.naver?seriesNo=444106&memberNo=83
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
-imageSelector = "a > div img[src]"
+image selector = "img"
 
 [78avenue]
 title = "78Avenue ─ CLASS"
@@ -23,7 +23,7 @@ imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
 [vlive_loona]
-title = "[V LIVE] LOONA ─ Star Board"
+title = "LOONA ─ Star Board"
 url = "https://vlive.tv/channel/E1F3A7/board/4386"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
@@ -32,7 +32,7 @@ imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
 [vlive_rv]
-title = "[V LIVE] Red Velvet ─ Star Board"
+title = "Red Velvet ─ Star Board"
 url = "https://vlive.tv/channel/DCF447/board/4540"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
@@ -41,7 +41,7 @@ imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
 [vlive_aespa_notice]
-title = "[V LIVE] aespa ─ MY"
+title = "aespa ─ MY"
 url = "https://www.vlive.tv/channel/97CCED/board/7375"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
