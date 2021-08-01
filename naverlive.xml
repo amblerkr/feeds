@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>NAVER LIVE</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 01 Aug 2021 16:31:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://live.naver.com/</link>
+            <guid>https://live.naver.com/</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="badge badge_bg--green">
+									<span>#어디서든</span>
+								</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://live.naver.com/</link>
+            <guid>https://live.naver.com/</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="badge badge_bg--green">
+									<span>#생생하게</span>
+								</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://live.naver.com/</link>
+            <guid>https://live.naver.com/</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="badge badge_bg--green">
+									<span>#소통각</span>
+								</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://live.naver.com/#</link>
+            <guid>https://live.naver.com/#</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" onclick="nclk(this, 'lnb.hot', '', '');return false;">
+								<span class="menu ico-after ico-live">HOT</span>
+							</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://live.naver.com/#</link>
+            <guid>https://live.naver.com/#</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" onclick="nclk(this, 'lnb.store', '', '');return false;">
+								<span class="menu">후원/유료</span>
+							</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://live.naver.com/#</link>
+            <guid>https://live.naver.com/#</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" onclick="nclk(this, 'lnb.vod', '', '');return false;">
+								<span class="menu">다시보기</span>
+							</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://live.naver.com/#</link>
+            <guid>https://live.naver.com/#</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" onclick="nclk(this, 'lnb.schedule', '', '');return false;">
+								<span class="menu">전체일정</span>
+							</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://live.naver.com/#</link>
+            <guid>https://live.naver.com/#</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" onclick="nclk(this, 'channel.liverec', '', '');return false;" class="ico-before ico-check">최신 업로드 순</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://live.naver.com/#</link>
+            <guid>https://live.naver.com/#</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#" onclick="nclk(this, 'channel.livehits', '', '');return false;" class="ico-before ico-check">인기순</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[9]]></title>
+            <link>https://tv.naver.com/theater</link>
+            <guid>https://tv.naver.com/theater</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'fot.navertv', '', '');" class="lnk-logo">
+								<img class="_lazyImage" src="https://ssl.pstatic.net/static/grafolio/event/m/200709_live_performance/img/img_performace_logo.png" alt="네이버 공연 라이브">
+							</a>]]></content:encoded>
+            <enclosure url="https://ssl.pstatic.net/static/grafolio/event/m/200709_live_performance/img/img_performace_logo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[10]]></title>
+            <link>https://channels.vlive.tv/EC8255</link>
+            <guid>https://channels.vlive.tv/EC8255</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://channels.vlive.tv/EC8255" onclick="nclk(this, 'fot.vclassic', '', '');" class="lnk-logo">
+								<img class="_lazyImage" src="https://ssl.pstatic.net/static/grafolio/event/m/200709_live_performance/img/img_vclassic_logo.png" alt="V 클래식">
+							</a>]]></content:encoded>
+            <enclosure url="https://ssl.pstatic.net/static/grafolio/event/m/200709_live_performance/img/img_vclassic_logo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[11]]></title>
+            <link>https://channels.vlive.tv/EDE229</link>
+            <guid>https://channels.vlive.tv/EDE229</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://channels.vlive.tv/EDE229" onclick="nclk(this, 'fot.vmusical', '', '');" class="lnk-logo">
+								<img class="_lazyImage" src="https://ssl.pstatic.net/static/grafolio/event/m/200709_live_performance/img/img_vmusic_logo.png" alt="V 뮤지컬">
+							</a>]]></content:encoded>
+            <enclosure url="https://ssl.pstatic.net/static/grafolio/event/m/200709_live_performance/img/img_vmusic_logo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[12]]></title>
+            <link>https://www.navercorp.com/naver/proposalGuide</link>
+            <guid>https://www.navercorp.com/naver/proposalGuide</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://www.navercorp.com/naver/proposalGuide" onclick="nclk(this, 'fot.proposal', '', '');">
+						제휴제안
+					</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[13]]></title>
+            <link>https://policy.naver.com/policy/privacy.html</link>
+            <guid>https://policy.naver.com/policy/privacy.html</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://policy.naver.com/policy/privacy.html" onclick="nclk(this, 'fot.perinfo', '', '');">
+						개인정보처리방침
+					</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[14]]></title>
+            <link>https://policy.naver.com/policy/service.html</link>
+            <guid>https://policy.naver.com/policy/service.html</guid>
+            <pubDate>Sun, 01 Aug 2021 16:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://policy.naver.com/policy/service.html" onclick="nclk(this, 'fot.liveuse', '', '');">
+						이용약관
+					</a>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
