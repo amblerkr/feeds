@@ -57,17 +57,3 @@ titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
-
-[geeknews]
-title = "GeekNews"
-url = "https://news.hada.io"
-entrySelector = ".topic"
-titleSelector = ".topictitle"
-linkSelector = ".topictitle a"
-
-[geeknews_b]
-title = "GeekNews"
-url = "https://news.hada.io"
-entrySelector = ".topic"
-titleSelector = ".topictitle"
-linkSelector = ".topictitle a"
