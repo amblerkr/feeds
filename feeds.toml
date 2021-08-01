@@ -15,6 +15,14 @@ linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
+[vlive_new]
+title = "Star Board"
+url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
+entrySelector = "li"
+titleSelector = "strong"
+linkSelector = "a"
+imageSelector = "img"
+
 [vlive_loona]
 title = "LOONA ─ Star Board"
 url = "https://vlive.tv/channel/E1F3A7/board/4386"
