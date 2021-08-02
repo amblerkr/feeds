@@ -1,54 +1,10 @@
-[msbsound_naverpost]
-title = "MSBSOUND ─ Album Special"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=444106&memberNo=838758"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-
 [vlive]
-title = "Star Board"
-url = "https://vlive.tv/channel/E1F3A7/board/4386"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
-
-[vlive_new]
 title = "V LIVE"
 url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
 entrySelector = "li[class^='video_list_cont _video']"
-titleSelector = "a[title]"
+titleSelector = "a.video_tit"
 linkSelector = "a"
 imageSelector = "img"
-
-[vlive_loona]
-title = "LOONA ─ Star Board"
-url = "https://vlive.tv/channel/E1F3A7/board/4386"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
-
-[vlive_rv]
-title = "Red Velvet ─ Star Board"
-url = "https://vlive.tv/channel/DCF447/board/4540"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
-
-[vlive_aespa_notice]
-title = "aespa ─ MY"
-url = "https://vlive.tv/channel/97CCED/board/7375"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
 
 [vlive_smtown]
 title = "SMTOWN ─ Media Board"
@@ -59,10 +15,20 @@ linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 waitUntil = "networkidle"
 
-[naverlive]
-title = "NAVER LIVE"
-url = "https://live.naver.com/"
-entrySelector = "#list-item-hot > li"
-titleSelector = "span[class^='badge_small badge_bg']"
-linkSelector = "a"
-imageSelector = "img"
+[vlive_redvelvet]
+title = "Red Velvet ─ Star Board"
+url = "https://vlive.tv/channel/DCF447/board/4540"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[data-click]"
+imageSelector = "span[class^='covered_image']"
+waitUntil = "networkidle"
+
+[vlive_aespa_notice]
+title = "aespa ─ Notice"
+url = "https://vlive.tv/channel/97CCED/board/7374"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[data-click]"
+imageSelector = "span[class^='covered_image']"
+waitUntil = "networkidle"
