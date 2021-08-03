@@ -28,6 +28,15 @@ waitUntil = "networkidle"
 
 [ticketlink]
 title = "티켓링크"
+url = "http://www.ticketlink.co.kr/help/notice"
+entrySelector = "#nTableBody > tr"
+titleSelector = "td.tl.p_reative > a"
+linkSelector = "td.tl.p_reative > a"
+contentSelector = "td[class='open_info']"
+waitUntil = "networkidle"
+
+[ticketlink_m]
+title = "티켓링크"
 url = "http://m.ticketlink.co.kr/help/notice"
 entrySelector = "#detail_content > li"
 titleSelector = "h3"
