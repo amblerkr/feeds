@@ -5,7 +5,7 @@ entrySelector = "tbody > tr"
 titleSelector = "td.subject a"
 linkSelector = "td.subject a"
 contentSelector = "td[class='date']"
-waitForSelector = ".board"
+waitUntil = "networkidle"
 
 [interpark_m]
 title = "인터파크 티켓 모바일"
