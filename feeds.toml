@@ -1,10 +1,11 @@
 [interpark]
 title = "인터파크 티켓"
 url = "http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&pageno=0&stext=&KindOfGoods=&Genre=&sort="
-entrySelector = "//table/tbody/tr"
-titleSelector = ".//td[@class='subject']/a/text()"
-linkSelector = ".//td[@class='subject']/a/@href"
-contentSelector = ".//td[@class='date']/text()"
+entrySelector = "tr td"
+titleSelector = "td.subject a"
+linkSelector = "a"
+contentSelector = "td[class='date']"
+waitUntil = "networkidle"
 
 [ticketlink]
 title = "티켓링크"
