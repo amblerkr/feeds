@@ -7,6 +7,15 @@ linkSelector = "td.subject a"
 contentSelector = "td[class='date']"
 waitUntil = "networkidle"
 
+[interpark_m]
+title = "인터파크 티켓 모바일"
+url = "http://mticket.interpark.com/Notice/"
+entrySelector = "div[class='list'] div.item"
+titleSelector = "p[class='label']"
+linkSelector = "a"
+contentSelector = "dl[class='ticketOpen'] > dd"
+waitUntil = "networkidle"
+
 [ticketlink]
 title = "티켓링크"
 url = "http://m.ticketlink.co.kr/help/notice"
