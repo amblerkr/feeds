@@ -33,7 +33,6 @@ entrySelector = "#nTableBody > tr"
 titleSelector = "td.tl.p_reative > a"
 linkSelector = "td a"
 contentSelector = "td[class='open_info']"
-waitUntil = "networkidle"
 
 [ticketlink_m]
 title = "티켓링크 모바일"
