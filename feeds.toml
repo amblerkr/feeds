@@ -33,6 +33,7 @@ entrySelector = "tbody[id='nTableBody'] tr"
 titleSelector = "td.tl.p_reative > a"
 linkSelector = "td a"
 contentSelector = "td[class='open_info']"
+waitForSelector = ".basic_tbl"
 
 [ticketlink_m]
 title = "티켓링크 모바일"
