@@ -6,6 +6,15 @@ titleSelector = "h3"
 linkSelector = "a"
 contentSelector = "a > dl > dd:nth-child(2)"
 
+[wemakeprice]
+title = "위메프 공연티켓"
+url = "https://ticket.wemakeprice.com/opennotice"
+entrySelector = "#notiList > tr td"
+titleSelector = "div[title]"
+linkSelector = "a"
+contentSelector = "span[date strong]"
+imageSelector = "div.img > img"
+
 [vlive]
 title = "V LIVE"
 url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
