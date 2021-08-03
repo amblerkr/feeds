@@ -22,10 +22,9 @@ title = "예스24 티켓"
 url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
 entrySelector = "tbody > tr"
 titleSelector = "a > em"
-linkSelector = "tr > td a"
+linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
-
 
 [ticketlink]
 title = "티켓링크"
