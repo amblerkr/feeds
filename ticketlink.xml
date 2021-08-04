@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-04T07:21:02.765Z</updated>
+    <updated>2021-08-04T08:24:38.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 소피아 클라식의 낭만주의 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52898</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52898"/>
+        <updated>2021-08-04T08:24:33.421Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.05(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉​​ 프리뷰 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52897</id>
         <link href="http://www.ticketlink.co.kr/help/notice/52897"/>
         <updated>2021-08-04T07:20:57.543Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52884"/>
         <updated>2021-08-03T23:46:06.377Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.06(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［부산］2021 김연자 라이브 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52883</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52883"/>
-        <updated>2021-08-03T23:46:06.379Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.05(목) 05:00]]></content>
     </entry>
 </feed>
