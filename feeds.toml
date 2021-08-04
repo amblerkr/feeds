@@ -59,30 +59,3 @@ entrySelector = "li[class^='video_list_cont _video']"
 titleSelector = "a.video_tit"
 linkSelector = "a"
 imageSelector = "img"
-
-[vlive_smtown]
-title = "SMTOWN ─ Media Board"
-url = "https://vlive.tv/channel/FD53B/board/3530"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
-
-[vlive_redvelvet]
-title = "Red Velvet ─ Star Board"
-url = "https://vlive.tv/channel/DCF447/board/4540"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
-
-[vlive_aespa_notice]
-title = "aespa ─ Notice"
-url = "https://vlive.tv/channel/97CCED/board/7374"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
