@@ -26,6 +26,15 @@ linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
 
+[yes24_m]
+title = "예스24 티켓 모바일"
+url = "http://m.ticket.yes24.com/Notice/List.aspx?type=1"
+entrySelector = "#BoardList > li"
+titleSelector = "a > div.brd_name.limit_2ln"
+linkSelector = "a[class='lnk_brd']"
+contentSelector = "em[class='txt']"
+waitUntil = "networkidle"
+
 [ticketlink]
 title = "티켓링크"
 url = "http://www.ticketlink.co.kr/help/notice"
