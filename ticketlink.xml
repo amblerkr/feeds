@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-04T22:21:15.175Z</updated>
+    <updated>2021-08-05T01:06:03.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[댄스씨어터 창 〈굿(Exorcism)_마른오구〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52899</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52899"/>
+        <updated>2021-08-05T01:06:00.866Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.09(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 소피아 클라식의 낭만주의 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52898</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52885"/>
         <updated>2021-08-03T23:46:06.377Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.02(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주문화예술회관 기획공연 11시 음악산책 5 - 조진주, 소리너머​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52884</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52884"/>
-        <updated>2021-08-03T23:46:06.377Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.06(금) 01:00]]></content>
     </entry>
 </feed>
