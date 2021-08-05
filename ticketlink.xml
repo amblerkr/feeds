@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-05T01:06:03.417Z</updated>
+    <updated>2021-08-05T02:29:45.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 51년의 독립전쟁 석주에서 육사까지 - 안동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52901</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52901"/>
+        <updated>2021-08-05T02:29:44.032Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.06(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극〈2호선 세입자〉- 영주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52900</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52900"/>
+        <updated>2021-08-05T02:29:44.034Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.05(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댄스씨어터 창 〈굿(Exorcism)_마른오구〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52899</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52887"/>
         <updated>2021-08-03T23:46:06.372Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.03(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이가족뮤지컬 〈신데렐라〉 - 당진​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52886</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52886"/>
-        <updated>2021-08-03T23:46:06.373Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.03(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 안동시립합창단 제21회 정기공연 - Opera Collage (안동) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52885</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52885"/>
-        <updated>2021-08-03T23:46:06.377Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.02(월) 04:00]]></content>
     </entry>
 </feed>

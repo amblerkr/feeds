@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Aug 2021 01:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 02:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈와일드 그레이〉 6차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40398</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40398</guid>
+            <pubDate>Thu, 05 Aug 2021 02:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21003704_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[SUPER ROOKIE CONCERT 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40397</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.08.06
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006594_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[안단테 더 포에트리_부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40386</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40386</guid>
-            <pubDate>Tue, 03 Aug 2021 19:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006942_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
