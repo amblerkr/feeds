@@ -1,3 +1,12 @@
+[melon]
+title = "멜론 티켓"
+url = "https://ticket.melon.com/csoon/index.htm#orderType=0&pageIndex=1&schGcode=GENRE_ALL&schText=&schDt="
+entrySelector = "div ul[class='list_ticket_cont'] li"
+titleSelector = "a[class='tit']"
+linkSelector = "a[class='tit']"
+contentSelector = "span[class='date']"
+waitUntil = "networkidle"
+
 [interpark]
 title = "인터파크 티켓"
 url = "http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&pageno=0&stext=&KindOfGoods=&Genre=&sort="
