@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-06T05:18:23.422Z</updated>
+    <updated>2021-08-06T06:27:15.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [풍월주] 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11068</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11068"/>
+        <updated>2021-08-06T06:27:14.561Z</updated>
+        <content type="html"><![CDATA[2021.08.12(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [리틀잭] 마지막 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11067</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11047"/>
         <updated>2021-08-05T21:19:44.715Z</updated>
         <content type="html"><![CDATA[2021.07.28(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [홀연했던 사나이] - 부를 얻는 데이 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11046</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11046"/>
-        <updated>2021-08-05T21:19:44.717Z</updated>
-        <content type="html"><![CDATA[2021.07.27(화) 14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-06T05:18:23.430Z</updated>
+    <updated>2021-08-06T06:27:15.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [풍월주] 프리뷰 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11068&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11068&amp;order=1"/>
+        <updated>2021-08-06T06:27:12.822Z</updated>
+        <content type="html"><![CDATA[2021-08-12(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [리틀잭] 마지막 티켓 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11067&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11054&amp;order=1"/>
         <updated>2021-08-04T11:17:43.713Z</updated>
         <content type="html"><![CDATA[2021-07-28(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [일리아드] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11053&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11053&amp;order=1"/>
-        <updated>2021-08-04T11:17:43.719Z</updated>
-        <content type="html"><![CDATA[2021-07-27(화) 16:00]]></content>
     </entry>
 </feed>
