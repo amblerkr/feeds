@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-05T23:20:47.735Z</updated>
+    <updated>2021-08-06T01:08:45.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52904"/>
         <updated>2021-08-05T05:18:30.159Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.09(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “​비밀의 문”​ - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52903</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52903"/>
+        <updated>2021-08-06T01:08:43.560Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.13(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 연극〈​분장실〉 ​​3차 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52890"/>
         <updated>2021-08-03T23:46:06.326Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.05(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gubong 8090 썸머콘서트 - 포항 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52889</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52889"/>
-        <updated>2021-08-03T23:46:06.327Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.03(화) 05:00]]></content>
     </entry>
 </feed>
