@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-09T05:18:34.751Z</updated>
+    <updated>2021-08-09T06:26:38.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．1 〈우예린〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5375</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5375"/>
+        <updated>2021-08-09T06:26:37.129Z</updated>
+        <content type="html"><![CDATA[2021.08.11(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．1 〈우예린〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5374</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5374"/>
+        <updated>2021-08-09T06:26:37.133Z</updated>
+        <content type="html"><![CDATA[2021.08.11(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［시간변경안내］뮤지컬 〈헤드윅〉 2차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5373</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5365"/>
         <updated>2021-08-05T20:05:42.080Z</updated>
         <content type="html"><![CDATA[2021.08.06(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌4［엔분의일 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5364</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5364"/>
-        <updated>2021-08-05T20:05:42.080Z</updated>
-        <content type="html"><![CDATA[2021.08.12(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제나탱고＆허주 온라인콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5363</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5363"/>
-        <updated>2021-08-05T20:05:42.081Z</updated>
-        <content type="html"><![CDATA[2021.08.09(월) 14:00]]></content>
     </entry>
 </feed>
