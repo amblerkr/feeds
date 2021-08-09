@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-09T02:29:27.717Z</updated>
+    <updated>2021-08-09T03:23:31.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Blue Time] KIM HYUN JOONG Monthly Concert 'Prism Time'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52916</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52916"/>
+        <updated>2021-08-09T03:23:25.690Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.11(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]브리즈와 함께하는 뮤지컬 갈라콘서트 노을 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52914</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52901"/>
         <updated>2021-08-05T02:29:44.032Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.06(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극〈2호선 세입자〉- 영주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52900</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52900"/>
-        <updated>2021-08-05T02:29:44.034Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.05(목) 06:00]]></content>
     </entry>
 </feed>
