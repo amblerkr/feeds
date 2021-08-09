@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-09T08:24:00.493Z</updated>
+    <updated>2021-08-09T09:22:43.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 프리뷰 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11070&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11070&amp;order=1"/>
+        <updated>2021-08-09T09:22:41.113Z</updated>
+        <content type="html"><![CDATA[2021-08-13(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 나훈아 AGAIN 테스형 공연 일정 변경 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11069&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11057&amp;order=1"/>
         <updated>2021-08-07T14:17:52.814Z</updated>
         <content type="html"><![CDATA[2021-07-30(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 프리뷰 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11056&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11056&amp;order=1"/>
-        <updated>2021-08-07T14:17:52.817Z</updated>
-        <content type="html"><![CDATA[2021-08-10(화) 11:00]]></content>
     </entry>
 </feed>

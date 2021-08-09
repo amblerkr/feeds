@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-09T08:24:00.464Z</updated>
+    <updated>2021-08-09T09:22:43.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[2021.08.10(화) 12:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[［2021，요아리의 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5370</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5370"/>
+        <updated>2021-08-09T09:22:41.302Z</updated>
+        <content type="html"><![CDATA[2021.08.11(수) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[［2021 BLUE CONCERT with NADA］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5369</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5369"/>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5366"/>
         <updated>2021-08-05T20:05:42.079Z</updated>
         <content type="html"><![CDATA[2021.08.06(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정권 단독콘서트 〈그 여름，우리〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5365</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5365"/>
-        <updated>2021-08-05T20:05:42.080Z</updated>
-        <content type="html"><![CDATA[2021.08.06(금) 13:00]]></content>
     </entry>
 </feed>
