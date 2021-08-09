@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-09T06:26:38.611Z</updated>
+    <updated>2021-08-09T08:24:00.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 나훈아 AGAIN 테스형 공연 일정 변경 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11069&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11069&amp;order=1"/>
+        <updated>2021-08-09T08:23:58.535Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [풍월주] 프리뷰 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11068&amp;order=1</id>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11056&amp;order=1"/>
         <updated>2021-08-07T14:17:52.817Z</updated>
         <content type="html"><![CDATA[2021-08-10(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이먼스 이어 단독공연 [Setting Fires] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11054&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11054&amp;order=1"/>
-        <updated>2021-08-07T14:17:52.817Z</updated>
-        <content type="html"><![CDATA[2021-07-28(수) 18:00]]></content>
     </entry>
 </feed>
