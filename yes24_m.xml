@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-10T04:27:26.869Z</updated>
+    <updated>2021-08-10T06:26:53.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [미인] 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11073&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11073&amp;order=1"/>
+        <updated>2021-08-10T06:26:50.795Z</updated>
+        <content type="html"><![CDATA[2021-08-17(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 ‘뮤지컬 [오늘 처음 만드는 뮤지컬] ’티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11072&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11072&amp;order=1"/>
+        <updated>2021-08-10T06:26:50.795Z</updated>
+        <content type="html"><![CDATA[2021-08-17(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오리엔탈의 빛, 쿠사마야요이 특별전 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11071&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11060&amp;order=1"/>
         <updated>2021-08-07T14:17:52.809Z</updated>
         <content type="html"><![CDATA[2021-07-30(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필름콘서트 `해리 포터와 아즈카반의 죄수™` 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11059&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11059&amp;order=1"/>
-        <updated>2021-08-07T14:17:52.810Z</updated>
-        <content type="html"><![CDATA[2021-08-04(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 마이클 리 & 라민 카림루 콘서트 티켓 오픈!]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11058&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11058&amp;order=1"/>
-        <updated>2021-08-07T14:17:52.814Z</updated>
-        <content type="html"><![CDATA[2021-08-04(수) 14:00]]></content>
     </entry>
 </feed>

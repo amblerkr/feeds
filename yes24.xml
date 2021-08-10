@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-10T04:27:26.816Z</updated>
+    <updated>2021-08-10T06:26:53.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [미인] 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11073</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11073"/>
+        <updated>2021-08-10T06:26:52.269Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 ‘뮤지컬 [오늘 처음 만드는 뮤지컬] ’티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11072</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11072"/>
+        <updated>2021-08-10T06:26:52.269Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오리엔탈의 빛, 쿠사마야요이 특별전 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11071</id>
@@ -126,18 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11052"/>
         <updated>2021-08-10T01:07:31.734Z</updated>
         <content type="html"><![CDATA[2021.07.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 원호 팬미팅〈오호호 트립〉공연 연기 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11051</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11051"/>
-        <updated>2021-08-10T01:07:31.734Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [카포네 트릴로지] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11050</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11050"/>
-        <updated>2021-08-10T01:07:31.736Z</updated>
-        <content type="html"><![CDATA[2021.07.30(금) 13:00]]></content>
     </entry>
 </feed>
