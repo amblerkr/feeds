@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Aug 2021 16:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 17:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -711,6 +711,22 @@
             <content:encoded><![CDATA[2021.08.11(수) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[동명💛야식 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/259082</link>
+            <guid>https://www.vlive.tv/video/259082</guid>
+            <pubDate>Wed, 11 Aug 2021 15:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210812_130/1628702376810XHHhH_JPEG/7a5bb131-fac6-11eb-9d7e-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[masa!!! (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/259024</link>
+            <guid>https://www.vlive.tv/video/259024</guid>
+            <pubDate>Wed, 11 Aug 2021 17:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210811_214/16286714713329KcYW_JPEG/upload_4494100758641838699e31214-ff94-41b9-9998-45ea7867bc4d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김우진 'Ready Now' Official MV (Performance Ver.) (V LIVE)]]></title>
             <link>https://www.vlive.tv/video/259076</link>
             <guid>https://www.vlive.tv/video/259076</guid>
@@ -725,13 +741,6 @@
             <pubDate>Wed, 11 Aug 2021 14:18:58 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210811_161/1628688736243FiC1h_JPEG/14147711541394317841fb5223-d2cc-40cc-80df-3b53dc9e0952.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동명💛야식 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/259082</link>
-            <guid>https://www.vlive.tv/video/259082</guid>
-            <pubDate>Wed, 11 Aug 2021 15:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🦄 (V LIVE)]]></title>
@@ -1100,14 +1109,6 @@
             <pubDate>Wed, 11 Aug 2021 10:25:23 GMT</pubDate>
             <content:encoded><![CDATA[STAYC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210811_251/16286761502662yOhz_JPEG/cd21b07e-fa8a-11eb-b778-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['폭발하기 5초 전(5 Seconds Before Explosion)' MV Shooting Behind (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/259041</link>
-            <guid>https://www.vlive.tv/video/259041</guid>
-            <pubDate>Wed, 11 Aug 2021 10:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210811_219/1628675540044z18x7_JPEG/upload_72755204139166651c46dab7d-511b-49ae-915e-affa059fc348.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
