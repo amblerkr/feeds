@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-11T04:27:40.661Z</updated>
+    <updated>2021-08-11T05:18:31.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 ‘뮤지컬 [해적]’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11077</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11077"/>
+        <updated>2021-08-11T05:18:30.817Z</updated>
+        <content type="html"><![CDATA[2021.08.18(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조성진 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11076</id>
@@ -134,11 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11056"/>
         <updated>2021-08-10T01:07:31.719Z</updated>
         <content type="html"><![CDATA[2021.08.10(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유진투자증권 시스템 작업에 따른 결제 서비스 중단 안내(8/1)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11055</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11055"/>
-        <updated>2021-08-10T01:07:31.725Z</updated>
     </entry>
 </feed>

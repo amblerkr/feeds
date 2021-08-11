@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-11T04:27:40.671Z</updated>
+    <updated>2021-08-11T05:18:31.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 나태주 BLUE SUMMER 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52931</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52931"/>
+        <updated>2021-08-11T05:18:28.567Z</updated>
+        <content type="html"><![CDATA[2021.08.13(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 마스터즈시리즈I 임헌정&대구시립국악단 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52930</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52917"/>
         <updated>2021-08-09T06:26:35.994Z</updated>
         <content type="html"><![CDATA[2021.08.16(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Blue Time] KIM HYUN JOONG Monthly Concert 'Prism Time'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52916</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52916"/>
-        <updated>2021-08-09T03:23:25.209Z</updated>
-        <content type="html"><![CDATA[2021.08.11(수) 03:00]]></content>
     </entry>
 </feed>
