@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-11T02:30:20.623Z</updated>
+    <updated>2021-08-11T04:27:40.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 마스터즈시리즈I 임헌정&대구시립국악단 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52930</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52930"/>
+        <updated>2021-08-11T04:27:37.772Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.12(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공포 연극〈괴담〉티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52929</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52916"/>
         <updated>2021-08-09T03:23:25.690Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.11(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​트레이스 유〉​ 프리뷰 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52915</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52915"/>
-        <updated>2021-08-09T05:18:32.139Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.12(목) 02:00]]></content>
     </entry>
 </feed>
