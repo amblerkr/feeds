@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-11T07:19:29.637Z</updated>
+    <updated>2021-08-11T08:24:08.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11079&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11079&amp;order=1"/>
         <updated>2021-08-11T07:19:26.072Z</updated>
-        <content type="html"><![CDATA[2021-08-16(월) 14:00]]></content>
+        <content type="html"><![CDATA[2021-08-17(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제137회 클래식품격콘서트 [오페라 속 희노애락] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11078&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11078&amp;order=1"/>
+        <updated>2021-08-11T08:24:05.193Z</updated>
+        <content type="html"><![CDATA[2021-08-17(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 ‘뮤지컬 [해적]’ 티켓 오픈 안내]]></title>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11070&amp;order=1"/>
         <updated>2021-08-11T04:27:38.174Z</updated>
         <content type="html"><![CDATA[2021-08-13(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 나훈아 AGAIN 테스형 공연 일정 변경 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11069&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11069&amp;order=1"/>
-        <updated>2021-08-11T04:27:38.175Z</updated>
     </entry>
 </feed>
