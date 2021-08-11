@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-10T19:17:15.667Z</updated>
+    <updated>2021-08-11T01:05:40.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅱ - 에스메 콰르텟 (Esme Quartet) 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11074</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11074"/>
+        <updated>2021-08-11T01:05:40.226Z</updated>
+        <content type="html"><![CDATA[2021.08.12(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [미인] 1차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11073</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11053"/>
         <updated>2021-08-10T01:07:31.729Z</updated>
         <content type="html"><![CDATA[2021.07.27(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미인] 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11052</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11052"/>
-        <updated>2021-08-10T01:07:31.734Z</updated>
-        <content type="html"><![CDATA[2021.07.30(금) 14:00]]></content>
     </entry>
 </feed>
