@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-11T08:24:08.480Z</updated>
+    <updated>2021-08-11T10:25:31.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5380"/>
         <updated>2021-08-11T05:18:29.589Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2021 에클레시아 BLUE CONCERT］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5379</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5379"/>
+        <updated>2021-08-11T10:25:28.424Z</updated>
+        <content type="html"><![CDATA[2021.08.12(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉 2차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5371"/>
         <updated>2021-08-11T04:27:38.661Z</updated>
         <content type="html"><![CDATA[2021.08.10(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021，요아리의 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5370</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5370"/>
-        <updated>2021-08-11T04:27:38.666Z</updated>
-        <content type="html"><![CDATA[2021.08.11(수) 18:00]]></content>
     </entry>
 </feed>
