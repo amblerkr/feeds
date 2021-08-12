@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-12T04:27:51.941Z</updated>
+    <updated>2021-08-12T05:18:29.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Beyond LIVE - 2PM ONLINE FANMEETING [Dear. HOTTEST] 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 [사랑했어요] 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11081&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11081&amp;order=1"/>
+        <updated>2021-08-12T05:18:25.183Z</updated>
+        <content type="html"><![CDATA[2021-08-17(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - 2PM ONLINE FANMEETING 〈Dear. HOTTEST〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11080&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11080&amp;order=1"/>
         <updated>2021-08-12T01:04:09.803Z</updated>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11072&amp;order=1"/>
         <updated>2021-08-11T04:27:38.155Z</updated>
         <content type="html"><![CDATA[2021-08-17(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오리엔탈의 빛, 쿠사마야요이 특별전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11071&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11071&amp;order=1"/>
-        <updated>2021-08-11T04:27:38.174Z</updated>
-        <content type="html"><![CDATA[2021-08-11(수) 09:00]]></content>
     </entry>
 </feed>

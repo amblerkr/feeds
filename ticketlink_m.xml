@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-12T04:27:51.958Z</updated>
+    <updated>2021-08-12T05:18:29.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연일정 변경] 노래인생 60년 기념 이미자 음악회 - 부산 티켓 재오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52938</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52938"/>
+        <updated>2021-08-12T05:18:24.978Z</updated>
+        <content type="html"><![CDATA[2021.08.13(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원더티켓 - 수호나무가 있는 마을 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52937</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52937"/>
+        <updated>2021-08-12T05:18:25.121Z</updated>
+        <content type="html"><![CDATA[2021.08.18(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오색오감 'Great Astor' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52936</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52924"/>
         <updated>2021-08-10T07:19:12.082Z</updated>
         <content type="html"><![CDATA[2021.08.12(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리비지니스 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52923</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52923"/>
-        <updated>2021-08-10T06:26:50.685Z</updated>
-        <content type="html"><![CDATA[2021.08.11(수) 00:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 나와 할아버지 - 의성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52922</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52922"/>
-        <updated>2021-08-10T06:26:50.692Z</updated>
-        <content type="html"><![CDATA[2021.08.18(수) 05:00]]></content>
     </entry>
 </feed>

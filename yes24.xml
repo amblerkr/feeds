@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-12T04:27:51.904Z</updated>
+    <updated>2021-08-12T05:18:29.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Beyond LIVE - 2PM ONLINE FANMEETING [Dear. HOTTEST] 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 [사랑했어요] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11081</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11081"/>
+        <updated>2021-08-12T05:18:27.512Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE - 2PM ONLINE FANMEETING 〈Dear. HOTTEST〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11080</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11080"/>
         <updated>2021-08-12T01:04:11.908Z</updated>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11060"/>
         <updated>2021-08-10T01:07:31.719Z</updated>
         <content type="html"><![CDATA[2021.07.30(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필름콘서트 `해리 포터와 아즈카반의 죄수™` 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11059</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11059"/>
-        <updated>2021-08-10T01:07:31.719Z</updated>
-        <content type="html"><![CDATA[2021.08.04(수) 14:00]]></content>
     </entry>
 </feed>
