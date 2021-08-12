@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-12T01:04:12.154Z</updated>
+    <updated>2021-08-12T02:29:24.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오색오감 'Great Astor' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52936</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52936"/>
+        <updated>2021-08-12T02:29:21.563Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.12(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 더 콘서트I : 오페라 갈라 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52935</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52922"/>
         <updated>2021-08-10T06:26:50.798Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.18(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닥터그린과 오염대장 크롤리 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52921</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52921"/>
-        <updated>2021-08-10T06:26:50.801Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.11(수) 01:00]]></content>
     </entry>
 </feed>
