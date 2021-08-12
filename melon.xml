@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-12T05:18:29.821Z</updated>
+    <updated>2021-08-12T06:27:08.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박정훈＇52Hz＇단독 쇼케이스 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5385</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5385"/>
+        <updated>2021-08-12T06:27:06.858Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌4［김현우 단독 콘서트＂DREAM LAND＂］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5381</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5373"/>
         <updated>2021-08-11T04:27:38.655Z</updated>
         <content type="html"><![CDATA[2021.08.12(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈마리 앙투아네트〉 4차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5372</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5372"/>
-        <updated>2021-08-11T04:27:38.658Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 14:00]]></content>
     </entry>
 </feed>
