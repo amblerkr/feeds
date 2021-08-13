@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-13T07:19:35.576Z</updated>
+    <updated>2021-08-13T08:23:48.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 순천시립합창단 제88회정기연주회 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52946</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52946"/>
+        <updated>2021-08-13T08:23:44.269Z</updated>
+        <content type="html"><![CDATA[2021.08.16(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아가랑 콘서트 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52945</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52932"/>
         <updated>2021-08-11T07:19:24.722Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 나태주 BLUE SUMMER 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52931</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52931"/>
-        <updated>2021-08-11T05:18:28.567Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 02:00]]></content>
     </entry>
 </feed>

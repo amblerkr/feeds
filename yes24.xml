@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-13T07:19:35.521Z</updated>
+    <updated>2021-08-13T08:23:47.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창작가무극 <다윈 영의 악의 기원> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11082</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11082"/>
+        <updated>2021-08-13T08:23:43.709Z</updated>
+        <content type="html"><![CDATA[2021.08.27(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [사랑했어요] 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11081</id>
@@ -134,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11061"/>
         <updated>2021-08-13T07:15:45.592Z</updated>
         <content type="html"><![CDATA[2021.08.04(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 오싹한 연극 [마더] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11060</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11060"/>
-        <updated>2021-08-13T07:15:45.592Z</updated>
-        <content type="html"><![CDATA[2021.07.30(금) 09:00]]></content>
     </entry>
 </feed>
