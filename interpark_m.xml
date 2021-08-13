@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Aug 2021 06:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 07:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 에일리 전국투어 콘서트 ＇SHOW TOK＇ - 성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40461</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40461</guid>
+            <pubDate>Fri, 13 Aug 2021 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.18
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081105351710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 〈브릴리언트 : 찬란하게 빛나던〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40460</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40460</guid>
+            <pubDate>Fri, 13 Aug 2021 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006743_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2021 연극 〈렁스〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40459</link>
@@ -77,25 +95,7 @@
             <pubDate>Thu, 12 Aug 2021 05:18:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20210812020234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈사랑했어요〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40451</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40451</guid>
-            <pubDate>Thu, 12 Aug 2021 05:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005942_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한스 짐머 영화음악 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40450</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40450</guid>
-            <pubDate>Thu, 12 Aug 2021 05:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081013265134.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006980_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

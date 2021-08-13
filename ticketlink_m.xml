@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-13T06:44:43.718Z</updated>
+    <updated>2021-08-13T07:15:47.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52944"/>
         <updated>2021-08-13T06:26:34.638Z</updated>
         <content type="html"><![CDATA[2021.08.17(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 에일리 전국투어 콘서트 `SHOW TOK` - 성남​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52943</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52943"/>
+        <updated>2021-08-13T07:15:43.095Z</updated>
+        <content type="html"><![CDATA[2021.08.18(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한국무용 손혜영의 춤 - 대구​​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52931"/>
         <updated>2021-08-11T05:18:28.567Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 마스터즈시리즈I 임헌정&대구시립국악단 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52930</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52930"/>
-        <updated>2021-08-11T04:27:37.480Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 05:00]]></content>
     </entry>
 </feed>
