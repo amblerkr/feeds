@@ -69,3 +69,13 @@ titleSelector = "a.video_tit"
 linkSelector = "a"
 imageSelector = "img"
 contentSelector = "a[class='name']"
+
+
+[musinsa]
+title = "무신사 ─ 패션 뉴스"
+url = "https://magazine.musinsa.com/?m=news"
+entrySelector = "li[class^='video_list_cont _video']"
+titleSelector = "p[class='title'] a"
+linkSelector = "p[class='title'] a "
+imageSelector = "div.articleImg > a > img"
+contentSelector = "div.description > a > p"
