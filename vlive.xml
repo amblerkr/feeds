@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Aug 2021 23:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 01:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] D.P. l 디피 메인 예고편]]></title>
+            <link>https://www.vlive.tv/video/259194</link>
+            <guid>https://www.vlive.tv/video/259194</guid>
+            <pubDate>Fri, 13 Aug 2021 01:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210812_296/1628765736663lvpvN_JPEG/1628747327092.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트로트 퀸' 송가인에게 트로트 열풍은 따로 필요 없지 [최지예의 에필로그]]]></title>
             <link>https://www.vlive.tv/video/259244</link>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 12 Aug 2021 13:26:29 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210812_88/16287727832702SPVU_JPEG/6f43f94a-fb6b-11eb-86ec-48df37ae3fca_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스엔TV] 김윤아(KIMYUNA), '아름다운 눈웃음' (제천국제음악영화제)]]></title>
-            <link>https://www.vlive.tv/video/259199</link>
-            <guid>https://www.vlive.tv/video/259199</guid>
-            <pubDate>Thu, 12 Aug 2021 12:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210812_165/1628768459188JBLhu_JPEG/1628764486017.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
