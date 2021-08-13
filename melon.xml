@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-13T01:05:31.905Z</updated>
+    <updated>2021-08-13T03:23:01.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의문의 생일파티 초대장－생일이 아닌 모든 사람들을 위하여 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5386</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5386"/>
+        <updated>2021-08-13T03:22:59.770Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정훈＇52Hz＇단독 쇼케이스 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5385</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5385"/>
         <updated>2021-08-12T08:23:40.527Z</updated>
         <content type="html"><![CDATA[2021.08.17(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리어코스티 소극장 장기 콘서트 〈EDITION＃4〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5382</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5382"/>
+        <updated>2021-08-13T03:22:59.771Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌4［김현우 단독 콘서트＂DREAM LAND＂］티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5375"/>
         <updated>2021-08-12T08:23:40.622Z</updated>
         <content type="html"><![CDATA[2021.08.11(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol．1 〈우예린〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5374</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5374"/>
-        <updated>2021-08-12T08:23:40.634Z</updated>
-        <content type="html"><![CDATA[2021.08.11(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［시간변경안내］뮤지컬 〈헤드윅〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5373</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5373"/>
-        <updated>2021-08-12T08:23:40.635Z</updated>
-        <content type="html"><![CDATA[2021.08.12(목) 14:00]]></content>
     </entry>
 </feed>
