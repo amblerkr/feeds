@@ -4,11 +4,20 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Aug 2021 05:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 06:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[김주택 팬미팅 티켓오픈 안내]]></title>
+            <title><![CDATA[2021 연극 〈렁스〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40459</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40459</guid>
+            <pubDate>Fri, 13 Aug 2021 06:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.20
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004226_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[바리톤 김주택 팬미팅 ＇Upfly＇ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40458</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40458</guid>
             <pubDate>Fri, 13 Aug 2021 05:18:48 GMT</pubDate>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.08.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081013265134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리니티 모차르트 이펙트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40449</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40449</guid>
-            <pubDate>Thu, 12 Aug 2021 01:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.27
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081011045196.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

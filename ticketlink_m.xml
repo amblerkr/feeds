@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-13T05:18:48.145Z</updated>
+    <updated>2021-08-13T06:26:38.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장마 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52944</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52944"/>
+        <updated>2021-08-13T06:26:34.638Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한국무용 손혜영의 춤 - 대구​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52942</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52929"/>
         <updated>2021-08-11T02:30:15.906Z</updated>
         <content type="html"><![CDATA[2021.08.11(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅴ, Russian Dance 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52928</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52928"/>
-        <updated>2021-08-10T09:21:40.572Z</updated>
-        <content type="html"><![CDATA[2021.08.11(수) 08:00]]></content>
     </entry>
 </feed>
