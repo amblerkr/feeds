@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-13T03:23:01.243Z</updated>
+    <updated>2021-08-13T04:27:46.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5385"/>
         <updated>2021-08-12T08:23:40.527Z</updated>
         <content type="html"><![CDATA[2021.08.17(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이씨유X제로식스＂ADDICTED＂티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5383</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5383"/>
+        <updated>2021-08-13T04:27:44.788Z</updated>
+        <content type="html"><![CDATA[2021.08.13(금) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌리어코스티 소극장 장기 콘서트 〈EDITION＃4〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5376"/>
         <updated>2021-08-12T08:23:40.622Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol．1 〈우예린〉－ 온라인 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5375</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5375"/>
-        <updated>2021-08-12T08:23:40.622Z</updated>
-        <content type="html"><![CDATA[2021.08.11(수) 11:00]]></content>
     </entry>
 </feed>
