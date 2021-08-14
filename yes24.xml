@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-14T05:19:10.887Z</updated>
+    <updated>2021-08-14T06:27:09.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스프링 어웨이크닝] 3차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11083</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11083"/>
+        <updated>2021-08-14T06:26:11.307Z</updated>
+        <content type="html"><![CDATA[2021.08.17(화) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창작가무극 <다윈 영의 악의 기원> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11082</id>
@@ -134,12 +141,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11064</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11064"/>
         <updated>2021-08-13T07:15:45.591Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 한여름 밤의 꿈 - 부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11061</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11061"/>
-        <updated>2021-08-13T07:15:45.592Z</updated>
-        <content type="html"><![CDATA[2021.08.04(수) 14:00]]></content>
     </entry>
 </feed>
