@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-14T03:24:29.593Z</updated>
+    <updated>2021-08-14T05:19:10.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈아이스크림 왕국의 뽀로로와 친구들〉 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52949</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52949"/>
+        <updated>2021-08-14T05:18:51.742Z</updated>
+        <content type="html"><![CDATA[2021.08.16(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈스프링 어웨이크닝〉 3차​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52948</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/52935</id>
         <link href="http://m.ticketlink.co.kr/help/notice/52935"/>
         <updated>2021-08-11T08:24:04.733Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 더 콘서트I : 영화&뮤지컬 갈라 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52934</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52934"/>
-        <updated>2021-08-11T07:19:24.722Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 05:00]]></content>
     </entry>
 </feed>
