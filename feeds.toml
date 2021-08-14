@@ -79,3 +79,14 @@ linkSelector = "div.articleImg > a"
 imageSelector = "div[class='articleImg'] a img"
 contentSelector = "div[class='description'] a p"
 waitUntil = "networkidle"
+
+[kindiechart]
+title = "K-INDIE CHART"
+url = "http://mirrorballmusic.co.kr/k-indie-chart/"
+entrySelector = "div[class='category-post-list'] article"
+titleSelector = "h1[class='post-title blue']"
+linkSelector = "div a[class='btn-view-chart']"
+imageSelector = "div[class='post-thumb'] img"
+contentSelector = "h2[class='sub-title']"
+waitUntil = "networkidle"
+
