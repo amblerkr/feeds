@@ -90,3 +90,12 @@ imageSelector = "div[class='post-thumb'] img"
 contentSelector = "h2[class='sub-title']"
 waitUntil = "networkidle"
 
+[snek]
+title = "SNEK"
+url = "https://www.snek.ai/account/mypage/164644"
+entrySelector = "ul > li[class='write-item']"
+titleSelector = "span[class='write-title']"
+linkSelector = "li[class='write-item'] > a"
+imageSelector = "div[class='write-thumbnail']"
+contentSelector = "span[class='write-title']"
+waitUntil = "networkidle"
