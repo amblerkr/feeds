@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Aug 2021 13:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 13:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아주 잠깐!ㅋㅋㅋ]]></title>
+            <link>https://www.vlive.tv/video/259523</link>
+            <guid>https://www.vlive.tv/video/259523</guid>
+            <pubDate>Sun, 15 Aug 2021 13:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210815_153/1629034042451Ft0PB_JPEG/681905252895177222a2dc1ba-9410-487e-8e9c-9ce097f32270.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원상이 생일이댜ㅏ]]></title>
             <link>https://www.vlive.tv/video/259512</link>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 14 Aug 2021 15:24:01 GMT</pubDate>
             <content:encoded><![CDATA[LOUD (라우드)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210814_256/1628874076331wRQeV_JPEG/upload_72953732725461153db05546a-5fd7-457f-857e-b88145c710b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비하인드] 5R 참가자들의 SNS 콘텐츠 촬영 현장 비하인드!]]></title>
-            <link>https://www.vlive.tv/video/259414</link>
-            <guid>https://www.vlive.tv/video/259414</guid>
-            <pubDate>Sat, 14 Aug 2021 15:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[LOUD (라우드)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210814_120/1628873668733I8OLO_JPEG/d79efdfc-fc56-11eb-86ec-48df37ae3fca_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
