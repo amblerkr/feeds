@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Aug 2021 05:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 07:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.vlive.tv/video/259497</guid>
             <pubDate>Sun, 15 Aug 2021 05:18:44 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210815_110/1629007261404jndjp_JPEG/cb5010d9-fd8d-11eb-b6bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠도 안 깨고 하는 라이브😯]]></title>
@@ -21,6 +22,14 @@
             <pubDate>Sun, 15 Aug 2021 05:18:44 GMT</pubDate>
             <content:encoded><![CDATA[에이스 (A.C.E)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210815_239/1629002773529hCPQE_JPEG/141791084526014021b93af9cc-e856-4188-a797-14fbb343f893.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥프루브와 함께하는 로하스 박람회]]></title>
+            <link>https://www.vlive.tv/video/259496</link>
+            <guid>https://www.vlive.tv/video/259496</guid>
+            <pubDate>Sun, 15 Aug 2021 07:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[강나라]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210815_272/1629002871865931s0_JPEG/1418784008422604956845aba5-a8ed-4661-98d5-a0cb8188d0ac.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sunday Khanun is comming]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sat, 14 Aug 2021 13:24:13 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210814_159/1628921311852s0ISd_JPEG/1628840535867.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지훈(PARKJIHOON) 'Gallery' Dance Practice]]></title>
-            <link>https://www.vlive.tv/video/259295</link>
-            <guid>https://www.vlive.tv/video/259295</guid>
-            <pubDate>Sat, 14 Aug 2021 13:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[PARK JI HOON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210813_139/1628837010200B0JIu_JPEG/upload_729167399856171848c83bb7e-61e0-4012-abcf-3cd3abb6184b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
