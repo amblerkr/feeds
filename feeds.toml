@@ -98,3 +98,13 @@ titleSelector = "span[class='write-title']"
 linkSelector = "li.write-item a"
 imageSelector = "div[class='write-thumbnail']"
 waitUntil = "networkidle"
+
+[msbsound_releases]
+title = "MAGIC STRAWBERRY SOUND ─ Releases"
+url = "http://www.msbsound.com/releases/"
+entrySelector = "figure[class='effect-sadie']"
+titleSelector = "h2[class='work-title']"
+linkSelector = "div[class='table-cell'] a[class='mask-link']"
+imageSelector = "figure[class='effect-sadie'] img"
+contentSelector = "div[class='table-cell']  p[class='entry-meta']"
+waitUntil = "networkidle"
