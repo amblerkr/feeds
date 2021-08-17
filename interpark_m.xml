@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 08:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈와일드 그레이〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40476</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40476</guid>
+            <pubDate>Tue, 17 Aug 2021 08:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.20
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21003704_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈V 에버 애프터〉 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40475</link>
@@ -35,13 +44,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004791_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈별들 사이로〉 티켓 오픈 안내 티켓오픈 안내]]></title>
+            <title><![CDATA[연극 〈별들 사이로〉 티켓 오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40472</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40472</guid>
             <pubDate>Tue, 17 Aug 2021 05:19:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007315_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[콘서트 〈오선지 걸어가는 작곡가〉 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.08.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081316284846.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자이언티＆원슈타인 콘서트 - 창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40466</guid>
-            <pubDate>Tue, 17 Aug 2021 03:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.23
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081012481596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
