@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-17T05:21:06.268Z</updated>
+    <updated>2021-08-17T07:22:06.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 1차 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11089&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11089&amp;order=1"/>
+        <updated>2021-08-17T07:20:18.425Z</updated>
+        <content type="html"><![CDATA[2021-08-20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11088&amp;order=1</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[2021-08-18(수) 11:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[연극 [일리아드] 마지막 티켓 오픈]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11084&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11084&amp;order=1"/>
+        <updated>2021-08-17T07:20:18.434Z</updated>
+        <content type="html"><![CDATA[2021-08-19(목) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 [스프링 어웨이크닝] 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11083&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11083&amp;order=1"/>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11080&amp;order=1"/>
         <updated>2021-08-12T08:23:38.624Z</updated>
         <content type="html"><![CDATA[2021-08-17(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <신데렐라> 오픈 리허설 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11079&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11079&amp;order=1"/>
-        <updated>2021-08-12T08:23:38.682Z</updated>
-        <content type="html"><![CDATA[2021-08-17(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제137회 클래식품격콘서트 [오페라 속 희노애락] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11078&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11078&amp;order=1"/>
-        <updated>2021-08-12T08:23:38.712Z</updated>
-        <content type="html"><![CDATA[2021-08-17(화) 10:00]]></content>
     </entry>
 </feed>

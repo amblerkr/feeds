@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-17T05:21:06.245Z</updated>
+    <updated>2021-08-17T07:22:06.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 1차 티켓 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11089</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11089"/>
+        <updated>2021-08-17T07:20:07.460Z</updated>
+        <content type="html"><![CDATA[2021.08.20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [시카고] - 수원 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11088</id>
@@ -32,6 +39,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11085"/>
         <updated>2021-08-17T02:29:24.467Z</updated>
         <content type="html"><![CDATA[2021.08.18(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [일리아드] 마지막 티켓 오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11084</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11084"/>
+        <updated>2021-08-17T07:20:07.485Z</updated>
+        <content type="html"><![CDATA[2021.08.19(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스프링 어웨이크닝] 3차 티켓 오픈 안내]]></title>
@@ -130,18 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11070"/>
         <updated>2021-08-17T02:29:24.474Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 나훈아 AGAIN 테스형 공연 일정 변경 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11069</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11069"/>
-        <updated>2021-08-17T02:29:24.475Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [풍월주] 프리뷰 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11068</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11068"/>
-        <updated>2021-08-17T02:29:24.480Z</updated>
-        <content type="html"><![CDATA[2021.08.12(목) 15:00]]></content>
     </entry>
 </feed>
