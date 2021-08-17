@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-17T08:26:14.350Z</updated>
+    <updated>2021-08-17T10:25:42.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5389"/>
         <updated>2021-08-17T05:18:44.102Z</updated>
         <content type="html"><![CDATA[2021.08.20(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［핑크판타지와 함께하는 시크릿데이트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5388</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5388"/>
+        <updated>2021-08-17T10:23:21.546Z</updated>
+        <content type="html"><![CDATA[2021.08.19(목) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CONNECT：전유동X황푸하X천용성 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5381"/>
         <updated>2021-08-13T10:23:42.946Z</updated>
         <content type="html"><![CDATA[2021.08.19(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 BALLADS：3명의 시 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5380</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5380"/>
-        <updated>2021-08-13T10:23:42.947Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 19:00]]></content>
     </entry>
 </feed>
