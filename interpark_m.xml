@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 01:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 02:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스프링 어웨이크닝〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40465</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40465</guid>
+            <pubDate>Tue, 17 Aug 2021 02:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.17
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004531_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬〈시카고〉- 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40464</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40464</guid>
+            <pubDate>Tue, 17 Aug 2021 02:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021071610425589.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 서울예술단 창작뮤지컬 〈다윈 영의 악의 기원〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40463</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.09.01
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081118102985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만선 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40454</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40454</guid>
-            <pubDate>Fri, 13 Aug 2021 01:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더티켓 - 수호나무가 있는 마을 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40452</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40452</guid>
-            <pubDate>Fri, 13 Aug 2021 15:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006980_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

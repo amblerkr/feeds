@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 01:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 02:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/259610</link>
+            <guid>https://www.vlive.tv/video/259610</guid>
+            <pubDate>Tue, 17 Aug 2021 02:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210817_139/1629165557397rCrDP_JPEG/upload_73245241069594463dbc5ad87-030b-4055-b197-4ecb2fbca474.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://www.vlive.tv/video/259126</link>
@@ -14,6 +22,22 @@
             <pubDate>Tue, 17 Aug 2021 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210812_172/16287457915228530p_JPEG/upload_728255056783145664430369a-9dcf-4d80-a814-e3ae6a9f6f79.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://www.vlive.tv/video/259114</link>
+            <guid>https://www.vlive.tv/video/259114</guid>
+            <pubDate>Tue, 17 Aug 2021 02:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210812_116/1628744800943xgEyf_JPEG/upload_7282450506846662997cba9bb-fe2f-443e-9c16-12fad9caa296.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티저] 취향저격 당신의 숙소를 홈페이지에서 신청하세요!, MBC 210901 방송]]></title>
+            <link>https://www.vlive.tv/video/259607</link>
+            <guid>https://www.vlive.tv/video/259607</guid>
+            <pubDate>Tue, 17 Aug 2021 02:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210817_154/1629163067250f9jW5_JPEG/upload_73242772023108816fb219d60-d148-42cd-8426-2c749da78258.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 패션MD=뭐든지 다한다!?😎 최연소 팀장님의 유니크한 출근길 풍경은?, MBC 210817 방송]]></title>
@@ -382,30 +406,6 @@
             <pubDate>Mon, 16 Aug 2021 11:27:56 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210816_52/1629107813655YwVM5_JPEG/ee8c570f-fe77-11eb-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6시55분에 가야하는 서호의 저녁 냠냠 브이앱]]></title>
-            <link>https://www.vlive.tv/video/259570</link>
-            <guid>https://www.vlive.tv/video/259570</guid>
-            <pubDate>Mon, 16 Aug 2021 09:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210816_162/1629107385958jdfoP_JPEG/f42f7943-fe76-11eb-a72a-246e963a464c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASTRO 아스트로 - 'SWITCH ON' COMMENTARY FILM]]></title>
-            <link>https://www.vlive.tv/video/259565</link>
-            <guid>https://www.vlive.tv/video/259565</guid>
-            <pubDate>Mon, 16 Aug 2021 09:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210816_7/1629104186661wmMSL_JPEG/1629102998642.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV]]></title>
-            <link>https://www.vlive.tv/video/259569</link>
-            <guid>https://www.vlive.tv/video/259569</guid>
-            <pubDate>Mon, 16 Aug 2021 09:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210816_55/1629104494518FfW5w_JPEG/1629103996248.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
