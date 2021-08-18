@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-18T04:30:09.535Z</updated>
+    <updated>2021-08-18T05:20:44.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5392"/>
         <updated>2021-08-17T11:17:22.763Z</updated>
         <content type="html"><![CDATA[2021.08.18(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최예근 단독공연［근의 공식］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5391</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5391"/>
+        <updated>2021-08-18T05:18:17.923Z</updated>
+        <content type="html"><![CDATA[2021.08.19(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［전주］뮤지컬 〈시카고〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5384"/>
         <updated>2021-08-13T10:23:42.934Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이씨유X제로식스＂ADDICTED＂티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5383</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5383"/>
-        <updated>2021-08-13T10:23:42.937Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 13:00]]></content>
     </entry>
 </feed>

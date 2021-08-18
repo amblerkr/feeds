@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 04:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 05:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈메리셸리〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40484</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40484</guid>
+            <pubDate>Wed, 18 Aug 2021 05:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005370_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈분장실〉 VER 2 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40483</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40483</guid>
+            <pubDate>Wed, 18 Aug 2021 05:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.19
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081718385120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈카라마조프가의 형제들〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40482</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40482</guid>
+            <pubDate>Wed, 18 Aug 2021 05:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.23
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081617244972.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 군포 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40481</link>
@@ -41,7 +68,7 @@
             <pubDate>Wed, 18 Aug 2021 02:29:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.19
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081713510037.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈와일드 그레이〉 마지막 티켓오픈 안내]]></title>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.08.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20210817035051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈일리아드〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40473</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40473</guid>
-            <pubDate>Tue, 17 Aug 2021 07:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004791_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈별들 사이로〉 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40472</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40472</guid>
-            <pubDate>Tue, 17 Aug 2021 05:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.18
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007315_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 〈오선지 걸어가는 작곡가〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40471</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40471</guid>
-            <pubDate>Tue, 17 Aug 2021 05:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021080801313043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
