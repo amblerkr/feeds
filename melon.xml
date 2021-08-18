@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-18T02:31:04.278Z</updated>
+    <updated>2021-08-18T04:30:09.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OuiOui 위위 소극장 공연［HARU］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5393</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5393"/>
+        <updated>2021-08-18T04:27:43.788Z</updated>
+        <content type="html"><![CDATA[2021.08.23(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박소영 ＆ 오현용 〈O Lieb〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5392</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5383"/>
         <updated>2021-08-13T10:23:42.937Z</updated>
         <content type="html"><![CDATA[2021.08.13(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리어코스티 소극장 장기 콘서트 〈EDITION＃4〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5382</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5382"/>
-        <updated>2021-08-13T10:23:42.938Z</updated>
-        <content type="html"><![CDATA[2021.08.17(화) 20:00]]></content>
     </entry>
 </feed>
