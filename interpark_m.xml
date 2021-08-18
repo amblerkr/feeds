@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 06:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 07:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.2 〈이설아〉 - 온라인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40487</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40487</guid>
+            <pubDate>Wed, 18 Aug 2021 07:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081714580302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.2 〈이설아〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40486</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40486</guid>
+            <pubDate>Wed, 18 Aug 2021 07:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081714590968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40485</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.08.19
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈와일드 그레이〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40476</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40476</guid>
-            <pubDate>Tue, 17 Aug 2021 08:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.20
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21003704_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40475</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40475</guid>
-            <pubDate>Tue, 17 Aug 2021 07:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007215_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
