@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-19T04:29:50.471Z</updated>
+    <updated>2021-08-19T05:20:37.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11093</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11093"/>
+        <updated>2021-08-19T05:18:47.400Z</updated>
+        <content type="html"><![CDATA[2021.08.25(수) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [박열] 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11091</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11073"/>
         <updated>2021-08-17T02:29:24.471Z</updated>
         <content type="html"><![CDATA[2021.08.17(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 ‘뮤지컬 [오늘 처음 만드는 뮤지컬] ’티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11072</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11072"/>
-        <updated>2021-08-17T02:29:24.472Z</updated>
-        <content type="html"><![CDATA[2021.08.17(화) 15:00]]></content>
     </entry>
 </feed>
