@@ -4,9 +4,25 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Aug 2021 16:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 17:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[masa]]></title>
+            <link>https://www.vlive.tv/video/259957</link>
+            <guid>https://www.vlive.tv/video/259957</guid>
+            <pubDate>Thu, 19 Aug 2021 17:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210820_272/1629392146482petuM_JPEG/upload_456617355284133322d1a5efd-3bff-4266-ba62-aac3a3b5ab0a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다들 내가 자는쥴 알았겠지?!]]></title>
+            <link>https://www.vlive.tv/video/259956</link>
+            <guid>https://www.vlive.tv/video/259956</guid>
+            <pubDate>Thu, 19 Aug 2021 16:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210820_157/1629391472830eQ4ri_JPEG/dffc8994-010b-11ec-9845-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[4X4] 새벽 연습 라이브]]></title>
             <link>https://www.vlive.tv/video/259954</link>
@@ -46,13 +62,6 @@
             <pubDate>Thu, 19 Aug 2021 15:25:27 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210820_214/16293875347856f4jv_JPEG/a733e15f-0102-11ec-a77c-a0369ff94ec8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다들 내가 자는쥴 알았겠지?!]]></title>
-            <link>https://www.vlive.tv/video/259956</link>
-            <guid>https://www.vlive.tv/video/259956</guid>
-            <pubDate>Thu, 19 Aug 2021 16:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[#OMRR 안녕안녕 💛🐝Good Evening 👋🏻]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Thu, 19 Aug 2021 10:24:23 GMT</pubDate>
             <content:encoded><![CDATA[Kassy]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210819_164/1629367226380IHLOk_JPEG/51419664902436958fb8e838a-4ed7-4ee8-bb89-02c7afd9ca4d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BAE173] 헬스즈으~💪]]></title>
-            <link>https://www.vlive.tv/video/259903</link>
-            <guid>https://www.vlive.tv/video/259903</guid>
-            <pubDate>Thu, 19 Aug 2021 10:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[BAE173]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210819_285/1629363477844Cs2Ga_JPEG/1422389948355115805454797c-821e-4f1b-88dc-fd63ecdc278f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
