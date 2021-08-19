@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-18T23:23:04.011Z</updated>
+    <updated>2021-08-19T04:29:50.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산구문화예술회관 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52962</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52962"/>
+        <updated>2021-08-19T04:28:27.414Z</updated>
+        <content type="html"><![CDATA[2021.08.20(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “​비밀의 문”​ - 전주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52961</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52961"/>
+        <updated>2021-08-19T04:28:27.414Z</updated>
+        <content type="html"><![CDATA[2021.08.25(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제3회 실험극페스티벌 in 골목실험극장 “햄릿, 공성전” 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52960</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52946"/>
         <updated>2021-08-13T08:23:44.269Z</updated>
         <content type="html"><![CDATA[2021.08.16(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아가랑 콘서트 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52945</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52945"/>
-        <updated>2021-08-13T06:44:39.826Z</updated>
-        <content type="html"><![CDATA[2021.08.17(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장마 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52944</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52944"/>
-        <updated>2021-08-13T06:26:34.638Z</updated>
-        <content type="html"><![CDATA[2021.08.17(화) 01:00]]></content>
     </entry>
 </feed>
