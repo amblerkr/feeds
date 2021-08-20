@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-20T05:21:34.603Z</updated>
+    <updated>2021-08-20T06:28:54.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 3차 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5402</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5402"/>
+        <updated>2021-08-20T06:26:15.709Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, OP석 추가 오픈 안내 (Musical Hadestown)]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5401</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5401"/>
+        <updated>2021-08-20T06:26:15.712Z</updated>
+        <content type="html"><![CDATA[2021.08.24(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루아멜 단독콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5399</id>
@@ -25,6 +39,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5397"/>
         <updated>2021-08-19T04:27:31.007Z</updated>
         <content type="html"><![CDATA[2021.08.23(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ether mini Festival 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5396</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5396"/>
+        <updated>2021-08-20T06:26:15.726Z</updated>
+        <content type="html"><![CDATA[2021.08.23(월) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온스타인웨이 Vol．2 〈이설아〉 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5392"/>
         <updated>2021-08-17T11:17:22.763Z</updated>
         <content type="html"><![CDATA[2021.08.18(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예근 단독공연［근의 공식］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5391</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5391"/>
-        <updated>2021-08-18T05:18:17.923Z</updated>
-        <content type="html"><![CDATA[2021.08.19(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［전주］뮤지컬 〈시카고〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5390</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5390"/>
-        <updated>2021-08-17T05:18:44.102Z</updated>
-        <content type="html"><![CDATA[2021.08.20(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 〈브릴리언트：찬란하게 빛나던〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5389</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5389"/>
-        <updated>2021-08-17T05:18:44.102Z</updated>
-        <content type="html"><![CDATA[2021.08.20(금) 11:00]]></content>
     </entry>
 </feed>

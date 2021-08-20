@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-20T05:21:34.600Z</updated>
+    <updated>2021-08-20T06:28:54.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈하데스타운〉최초 한국 공연, 3차 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11095</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11095"/>
+        <updated>2021-08-20T06:26:51.046Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈하데스타운〉최초 한국 공연, OP석 추가 오픈 안내 (Musical Hadestown)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11094</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11094"/>
+        <updated>2021-08-20T06:26:51.046Z</updated>
+        <content type="html"><![CDATA[2021.08.24(화) 14:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2021.08.24(화) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11093</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11076"/>
         <updated>2021-08-17T02:29:24.471Z</updated>
         <content type="html"><![CDATA[2021.08.19(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트_앙코르 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11075</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11075"/>
-        <updated>2021-08-17T02:29:24.471Z</updated>
-        <content type="html"><![CDATA[2021.08.13(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅱ - 에스메 콰르텟 (Esme Quartet) 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11074</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11074"/>
-        <updated>2021-08-17T02:29:24.471Z</updated>
-        <content type="html"><![CDATA[2021.08.12(목) 14:00]]></content>
     </entry>
 </feed>

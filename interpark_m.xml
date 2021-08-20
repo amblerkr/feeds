@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 05:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 06:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈하데스타운〉 최초 한국 공연 (MUSICAL HADESTOWN) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40503</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40503</guid>
+            <pubDate>Fri, 20 Aug 2021 06:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005196_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬〈하데스타운〉 최초 한국 공연 (MUSICAL HADESTOWN) 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40502</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40502</guid>
+            <pubDate>Fri, 20 Aug 2021 06:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005196_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈템플〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40501</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40501</guid>
+            <pubDate>Fri, 20 Aug 2021 06:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.25
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007125_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈카포네 트릴로지〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40500</link>
@@ -68,33 +95,6 @@
             <pubDate>Thu, 19 Aug 2021 07:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005676_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아날로그 정통 체력극 〈신바람 난 삼대〉 9월 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40493</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40493</guid>
-            <pubDate>Thu, 19 Aug 2021 07:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 속 음악 : 아마데우스 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40492</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40492</guid>
-            <pubDate>Thu, 19 Aug 2021 07:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007413_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40491</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40491</guid>
-            <pubDate>Thu, 19 Aug 2021 04:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005689_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
