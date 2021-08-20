@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-20T01:05:05.284Z</updated>
+    <updated>2021-08-20T02:31:33.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[판타지액션 어린이뮤지컬]더퀸 선덕여왕의 귀환 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52969</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52969"/>
+        <updated>2021-08-20T02:30:02.453Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.23(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민속악연주단 선풍 창단 20주년 기념공연 ‘도’ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52968</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52955"/>
         <updated>2021-08-17T10:24:12.356Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.19(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 코리안심포니오케스트라와 만나는 영화음악 〈시네마 클래식 데이〉]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52954</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52954"/>
-        <updated>2021-08-17T10:24:12.357Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.20(금) 05:00]]></content>
     </entry>
 </feed>
