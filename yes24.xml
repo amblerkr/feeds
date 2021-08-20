@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-20T04:31:49.309Z</updated>
+    <updated>2021-08-20T05:21:34.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11093"/>
         <updated>2021-08-19T05:18:47.400Z</updated>
         <content type="html"><![CDATA[2021.08.25(수) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [카포네 트릴로지] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11092</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11092"/>
+        <updated>2021-08-20T05:19:33.302Z</updated>
+        <content type="html"><![CDATA[2021.08.27(금) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [박열] 3차 티켓 오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11074"/>
         <updated>2021-08-17T02:29:24.471Z</updated>
         <content type="html"><![CDATA[2021.08.12(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미인] 1차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11073</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11073"/>
-        <updated>2021-08-17T02:29:24.471Z</updated>
-        <content type="html"><![CDATA[2021.08.17(화) 14:00]]></content>
     </entry>
 </feed>
