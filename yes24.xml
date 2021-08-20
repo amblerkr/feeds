@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-20T06:28:54.417Z</updated>
+    <updated>2021-08-20T07:22:17.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 판소리 뮤지컬 〈활극 심청〉티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11096</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11096"/>
+        <updated>2021-08-20T07:20:26.052Z</updated>
+        <content type="html"><![CDATA[2021.08.23(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈하데스타운〉최초 한국 공연, 3차 티켓 오픈! (Musical Hadestown)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11095</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11077"/>
         <updated>2021-08-17T02:29:24.470Z</updated>
         <content type="html"><![CDATA[2021.08.18(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성진 피아노 리사이틀 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11076</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11076"/>
-        <updated>2021-08-17T02:29:24.471Z</updated>
-        <content type="html"><![CDATA[2021.08.19(목) 16:00]]></content>
     </entry>
 </feed>
