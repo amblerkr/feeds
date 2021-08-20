@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-20T08:25:58.487Z</updated>
+    <updated>2021-08-20T09:23:45.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리빈뮤직 싱어송라이터 김필선 단독 공연 〈김필선〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5403</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5403"/>
+        <updated>2021-08-20T09:21:17.586Z</updated>
+        <content type="html"><![CDATA[2021.08.23(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 3차 티켓 오픈! (Musical Hadestown)]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5402</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5393"/>
         <updated>2021-08-18T04:27:43.788Z</updated>
         <content type="html"><![CDATA[2021.08.23(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소영 ＆ 오현용 〈O Lieb〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5392</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5392"/>
-        <updated>2021-08-17T11:17:22.763Z</updated>
-        <content type="html"><![CDATA[2021.08.18(수) 20:00]]></content>
     </entry>
 </feed>
