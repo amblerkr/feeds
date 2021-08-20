@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-19T23:23:19.869Z</updated>
+    <updated>2021-08-20T01:05:05.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민속악연주단 선풍 창단 20주년 기념공연 ‘도’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52968</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52968"/>
+        <updated>2021-08-20T01:03:32.449Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.23(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sibyl : 시빌 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52967</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52954"/>
         <updated>2021-08-17T10:24:12.357Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 포항시립교향악단 제180회 정기연주회 - 포항​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52953</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52953"/>
-        <updated>2021-08-17T10:24:12.357Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.18(수) 02:00]]></content>
     </entry>
 </feed>
