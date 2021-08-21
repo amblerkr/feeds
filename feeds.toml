@@ -108,3 +108,13 @@ linkSelector = "div[class='table-cell'] a[class='mask-link']"
 imageSelector = "img.attachment-1x1.size-1x1.wp-post-image"
 contentSelector = "div[class='table-cell']  p[class='entry-meta']"
 waitUntil = "networkidle"
+
+[flo_newtrack]
+title = "FLO ─ New Track"
+url = "https://www.music-flo.com/new/track?sortType=KPOP"
+entrySelector = "div.section_content_wrap > table > tbody > tr"
+titleSelector = "div.txt_area > button > p > strong"
+linkSelector = "div.txt_area > a"
+imageSelector = "div.thumb > a > img"
+contentSelector = "span.artist_link_w > span > span:nth-child(1) > a"
+waitUntil = "networkidle"
