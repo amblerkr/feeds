@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-23T06:28:56.083Z</updated>
+    <updated>2021-08-23T07:22:44.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연, 3차 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52985</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52985"/>
+        <updated>2021-08-23T07:21:04.014Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 최지은 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52984</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/52971"/>
         <updated>2021-08-20T05:20:11.116Z</updated>
         <content type="html"><![CDATA[2021.08.27(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2020 뮤지컬〈미오 프라텔로〉공연실황 녹화 중계 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52970</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52970"/>
-        <updated>2021-08-20T05:20:11.117Z</updated>
-        <content type="html"><![CDATA[2021.08.24(화) 05:00]]></content>
     </entry>
 </feed>
