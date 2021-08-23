@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-23T04:29:49.784Z</updated>
+    <updated>2021-08-23T06:28:56.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11098&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11098&amp;order=1"/>
         <updated>2021-08-23T04:28:40.298Z</updated>
-        <content type="html"><![CDATA[2021-08-24(화) 14:00]]></content>
+        <content type="html"><![CDATA[2021-08-24(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대구〈일상으로의초대〉- 적재,정승환,이석훈,하동균...티켓오픈 안내]]></title>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[2021-08-27(금) 13:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 [박열] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11091&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11091&amp;order=1"/>
-        <updated>2021-08-18T10:24:23.909Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 3차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11090&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11090&amp;order=1"/>
@@ -74,5 +67,12 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11089&amp;order=1"/>
         <updated>2021-08-17T07:20:18.425Z</updated>
         <content type="html"><![CDATA[2021-08-20(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [시카고] - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11088&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11088&amp;order=1"/>
+        <updated>2021-08-23T06:27:00.594Z</updated>
+        <content type="html"><![CDATA[2021-08-20(금) 16:00]]></content>
     </entry>
 </feed>

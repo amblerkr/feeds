@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-23T04:29:49.755Z</updated>
+    <updated>2021-08-23T06:28:56.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 최지은 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52984</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52984"/>
+        <updated>2021-08-23T06:27:09.254Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.24(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주문화예술회관 기획공연 포커스 6 〈서사무엘 UNITY〉​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/52983</id>
@@ -25,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52981"/>
         <updated>2021-08-23T01:57:31.985Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.23(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 〈혜영에게〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/52980</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/52980"/>
+        <updated>2021-08-23T06:27:09.255Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.24(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드보르작 탄생 180주년 기념연주회 - 부산 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52970"/>
         <updated>2021-08-20T05:20:01.208Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민속악연주단 선풍 창단 20주년 기념공연 ‘도’ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52968</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52968"/>
-        <updated>2021-08-20T01:03:32.449Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.23(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sibyl : 시빌 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52967</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52967"/>
-        <updated>2021-08-19T10:24:06.102Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.24(화) 00:00]]></content>
     </entry>
 </feed>
