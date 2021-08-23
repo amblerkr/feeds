@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-22T23:22:53.200Z</updated>
+    <updated>2021-08-23T01:02:10.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드보르작 탄생 180주년 기념연주회 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/52979</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/52979"/>
+        <updated>2021-08-23T01:00:34.127Z</updated>
+        <content type="html"><![CDATA[2021.08.23(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 그 여자의 소설 - 경산시립극단 (경산)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/52978</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/52964</id>
         <link href="http://m.ticketlink.co.kr/help/notice/52964"/>
         <updated>2021-08-19T07:20:49.375Z</updated>
-        <content type="html"><![CDATA[2021.08.20(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 군포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52963</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52963"/>
-        <updated>2021-08-19T07:20:49.376Z</updated>
         <content type="html"><![CDATA[2021.08.20(금) 01:00]]></content>
     </entry>
 </feed>
