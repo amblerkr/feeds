@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-24T01:05:39.553Z</updated>
+    <updated>2021-08-24T02:30:16.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노래인생 60년 기념 이미자 음악회 - 울산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11101</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11101"/>
+        <updated>2021-08-24T02:28:43.347Z</updated>
+        <content type="html"><![CDATA[2021.08.27(금) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스프링 어웨이크닝] 4차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11100</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11081"/>
         <updated>2021-08-17T02:29:24.470Z</updated>
         <content type="html"><![CDATA[2021.08.17(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - 2PM ONLINE FANMEETING 〈Dear. HOTTEST〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11080</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11080"/>
-        <updated>2021-08-17T02:29:24.470Z</updated>
-        <content type="html"><![CDATA[2021.08.17(화) 14:00]]></content>
     </entry>
 </feed>
