@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 23:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 01:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스프링 어웨이크닝〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40520</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40520</guid>
+            <pubDate>Tue, 24 Aug 2021 01:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.27
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004531_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40519</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40519</guid>
+            <pubDate>Tue, 24 Aug 2021 01:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.27
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004941_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터쇼(Mr.SHOW) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40518</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40518</guid>
+            <pubDate>Tue, 24 Aug 2021 01:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082015420341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 Soundberry Theater 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40517</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.08.24
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005353_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[대구 〈일상으로의초대〉 - 적재,정승환,이석훈,하동균.... 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40509</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40509</guid>
-            <pubDate>Fri, 20 Aug 2021 09:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.26
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082015450416.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 키썸 콘서트 “FALLING IN SUM” - 온라인 생중계 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40508</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40508</guid>
-            <pubDate>Fri, 20 Aug 2021 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007467_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 키썸 콘서트 “FALLING IN SUM” 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40507</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40507</guid>
-            <pubDate>Fri, 20 Aug 2021 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007463_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
