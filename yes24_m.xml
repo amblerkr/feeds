@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-24T02:30:16.871Z</updated>
+    <updated>2021-08-24T05:21:13.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11105&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11105&amp;order=1"/>
+        <updated>2021-08-24T05:19:15.293Z</updated>
+        <content type="html"><![CDATA[2021-08-31(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 장윤정콘서트 - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11104&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11104&amp;order=1"/>
+        <updated>2021-08-24T05:19:15.294Z</updated>
+        <content type="html"><![CDATA[2021-08-26(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 장윤정콘서트 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11103&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11103&amp;order=1"/>
+        <updated>2021-08-24T05:19:15.295Z</updated>
+        <content type="html"><![CDATA[2021-08-26(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [벚꽃 피는 집] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11102&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11102&amp;order=1"/>
+        <updated>2021-08-24T05:19:15.298Z</updated>
+        <content type="html"><![CDATA[2021-08-26(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노래인생 60년 기념 이미자 음악회 - 울산 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11101&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11096&amp;order=1"/>
         <updated>2021-08-20T07:20:36.398Z</updated>
         <content type="html"><![CDATA[2021-08-23(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈하데스타운〉최초 한국 공연, 3차 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11095&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11095&amp;order=1"/>
-        <updated>2021-08-20T06:27:02.767Z</updated>
-        <content type="html"><![CDATA[2021-08-30(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈하데스타운〉최초 한국 공연, OP석 추가 오픈 안내 (Musical Hadestown)]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11094&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11094&amp;order=1"/>
-        <updated>2021-08-20T06:27:02.769Z</updated>
-        <content type="html"><![CDATA[2021-08-24(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단 〈지젤〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11093&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11093&amp;order=1"/>
-        <updated>2021-08-19T05:18:57.594Z</updated>
-        <content type="html"><![CDATA[2021-08-25(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [카포네 트릴로지] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11092&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11092&amp;order=1"/>
-        <updated>2021-08-20T05:19:52.582Z</updated>
-        <content type="html"><![CDATA[2021-08-27(금) 13:00]]></content>
     </entry>
 </feed>
