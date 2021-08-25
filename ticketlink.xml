@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-25T09:22:53.134Z</updated>
+    <updated>2021-08-25T10:27:10.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Power, Passion and Music - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53010</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53010"/>
+        <updated>2021-08-25T10:25:29.021Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.26(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 국립합창단의 흥겨운 합창여행 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53007</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52994"/>
         <updated>2021-08-24T05:19:23.414Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.26(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 임다예 플루트 리사이틀 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52993</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52993"/>
-        <updated>2021-08-24T02:29:11.783Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.25(수) 01:00]]></content>
     </entry>
 </feed>
