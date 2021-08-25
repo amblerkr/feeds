@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 05:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 07:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021벤 단독콘서트［White Rose］ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40539</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40539</guid>
+            <pubDate>Wed, 25 Aug 2021 07:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.01
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082317470597.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마티네 콘서트Ⅱ 〈피아니스트 송영민과 떠나는 세계음악여행〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40538</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40538</guid>
+            <pubDate>Wed, 25 Aug 2021 07:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.08
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082415501589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈세종, 1446〉 - 하남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40537</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40537</guid>
+            <pubDate>Wed, 25 Aug 2021 07:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.31
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 39 그_냥 단독 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40536</link>
@@ -68,34 +95,7 @@
             <pubDate>Tue, 24 Aug 2021 07:20:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.26
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082017101121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈개와 고양이의 시간〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40529</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40529</guid>
-            <pubDate>Tue, 24 Aug 2021 05:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.31
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006977_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40528</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40528</guid>
-            <pubDate>Tue, 24 Aug 2021 05:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082409104582.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국지역난방공사와 함께하는 조성진 피아노 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40527</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40527</guid>
-            <pubDate>Tue, 24 Aug 2021 05:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082318041802.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007671_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

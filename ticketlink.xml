@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-25T05:21:32.195Z</updated>
+    <updated>2021-08-25T07:22:24.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립합창단의 흥겨운 합창여행 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53007</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53007"/>
+        <updated>2021-08-25T07:20:40.664Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.26(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 에노스 트리오 일곱번째 이야기 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53006</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53006"/>
+        <updated>2021-08-25T07:20:40.667Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.26(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 영남필하모니오케스트라 14회 정기연주회 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53005</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53005"/>
         <updated>2021-08-25T05:19:43.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.25(수) 08:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.25(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 울산 앵콜티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/52993"/>
         <updated>2021-08-24T02:29:11.783Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변진섭 더 발라드 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52992</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52992"/>
-        <updated>2021-08-23T10:24:28.940Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 ‘알라딘과 자스민공주’ - 안산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/52991</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/52991"/>
-        <updated>2021-08-23T10:24:28.940Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.24(화) 06:00]]></content>
     </entry>
 </feed>
