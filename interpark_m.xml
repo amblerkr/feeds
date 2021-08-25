@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Aug 2021 21:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 01:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 울산 앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40535</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40535</guid>
+            <pubDate>Wed, 25 Aug 2021 01:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082416304088.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 대구 앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40534</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40534</guid>
+            <pubDate>Wed, 25 Aug 2021 01:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082416281455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈경종수정실록〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40533</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.08.26
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082011561970.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장윤정 라이브 콘서트 - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40525</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40525</guid>
-            <pubDate>Tue, 24 Aug 2021 05:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.26
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081913523243.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장윤정 라이브 콘서트 - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40524</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40524</guid>
-            <pubDate>Tue, 24 Aug 2021 05:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021081914382510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
