@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-26T04:30:12.217Z</updated>
+    <updated>2021-08-26T08:26:19.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손열음 피아노 리사이틀 〈손열음, 카푸스틴 and…〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11106&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11106&amp;order=1"/>
+        <updated>2021-08-26T08:24:22.899Z</updated>
+        <content type="html"><![CDATA[2021-08-27(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 1차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11105&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11097&amp;order=1"/>
         <updated>2021-08-20T09:22:02.391Z</updated>
         <content type="html"><![CDATA[2021-08-26(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 판소리 뮤지컬 〈활극 심청〉티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11096&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11096&amp;order=1"/>
-        <updated>2021-08-20T07:20:36.398Z</updated>
-        <content type="html"><![CDATA[2021-08-23(월) 15:00]]></content>
     </entry>
 </feed>
