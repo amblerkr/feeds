@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-26T08:26:19.826Z</updated>
+    <updated>2021-08-26T09:23:20.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국지역난방공사와 함께하는 조성진 피아노 리사이틀 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11107</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11107"/>
+        <updated>2021-08-26T09:21:15.098Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손열음 피아노 리사이틀 〈손열음, 카푸스틴 and…〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11106</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11087"/>
         <updated>2021-08-17T05:19:15.032Z</updated>
         <content type="html"><![CDATA[2021.08.20(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시카고] - 인천 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11086</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11086"/>
-        <updated>2021-08-17T05:19:15.034Z</updated>
-        <content type="html"><![CDATA[2021.08.20(금) 14:00]]></content>
     </entry>
 </feed>

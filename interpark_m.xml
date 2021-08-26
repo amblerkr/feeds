@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Aug 2021 08:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 09:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DUO CONCERT 2 - 정민성 박기훈 from 라포엠 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40551</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40551</guid>
+            <pubDate>Thu, 26 Aug 2021 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.03
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082613533001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤시즌 콘서트 2021 - Reprise 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40550</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40550</guid>
+            <pubDate>Thu, 26 Aug 2021 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.27
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007690_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장 - 광주 앵콜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40549</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.08.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082419442905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을愛이천 스테이지 정승환X이진아 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40540</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40540</guid>
-            <pubDate>Wed, 25 Aug 2021 09:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007518_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021벤 단독콘서트［White Rose］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40539</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40539</guid>
-            <pubDate>Wed, 25 Aug 2021 07:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082317470597.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
