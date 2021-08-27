@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 04:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 05:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈보도지침〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40554</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40554</guid>
+            <pubDate>Fri, 27 Aug 2021 05:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006453_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Ensemble Stars!! DREAM LIVE -BRAND NEW STARS!!- Live Streaming 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40553</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.08.30
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007744_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[손열음 피아노 리사이틀 〈손열음, 카푸스틴 and…〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40544</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40544</guid>
-            <pubDate>Thu, 26 Aug 2021 03:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.27
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007444_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

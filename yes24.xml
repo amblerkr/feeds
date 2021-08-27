@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-08-27T04:29:45.092Z</updated>
+    <updated>2021-08-27T05:20:48.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [보도지침] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11110</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11110"/>
+        <updated>2021-08-27T05:18:41.071Z</updated>
+        <content type="html"><![CDATA[2021.09.02(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 에일리전국투어 콘서트 [SHOW TOK] - 대구 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11109</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11090"/>
         <updated>2021-08-17T10:23:53.494Z</updated>
         <content type="html"><![CDATA[2021.08.19(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 1차 티켓 오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11089</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11089"/>
-        <updated>2021-08-17T07:20:07.460Z</updated>
-        <content type="html"><![CDATA[2021.08.20(금) 14:00]]></content>
     </entry>
 </feed>
