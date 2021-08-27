@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-26T23:24:05.435Z</updated>
+    <updated>2021-08-27T02:34:03.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 에일리전국투어 콘서트 [SHOW TOK] - 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11109&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11109&amp;order=1"/>
+        <updated>2021-08-27T02:32:05.293Z</updated>
+        <content type="html"><![CDATA[2021-09-02(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라워 바이 네이키드 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11108&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11108&amp;order=1"/>
+        <updated>2021-08-27T02:32:05.295Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국지역난방공사와 함께하는 조성진 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11107&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11100&amp;order=1"/>
         <updated>2021-08-23T10:24:21.055Z</updated>
         <content type="html"><![CDATA[2021-08-27(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11099&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11099&amp;order=1"/>
-        <updated>2021-08-23T10:24:21.056Z</updated>
-        <content type="html"><![CDATA[2021-08-27(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [박열] 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11098&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11098&amp;order=1"/>
-        <updated>2021-08-23T04:28:40.298Z</updated>
-        <content type="html"><![CDATA[2021-08-24(화) 15:00]]></content>
     </entry>
 </feed>

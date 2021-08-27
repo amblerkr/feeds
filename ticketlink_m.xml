@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-26T23:24:05.432Z</updated>
+    <updated>2021-08-27T02:34:03.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 제40회 대구음악제-탱고의 열정과 음악​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53014</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53014"/>
+        <updated>2021-08-27T02:32:24.986Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 컬러풀 재즈 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53013</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53000"/>
         <updated>2021-08-24T07:21:00.422Z</updated>
         <content type="html"><![CDATA[2021.08.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​알사탕〉 - 안성​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/52999</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/52999"/>
-        <updated>2021-08-24T07:21:00.423Z</updated>
-        <content type="html"><![CDATA[2021.08.30(월) 02:00]]></content>
     </entry>
 </feed>
