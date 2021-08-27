@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 02:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 03:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ensemble Stars!! DREAM LIVE -BRAND NEW STARS!!- Live Streaming 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40553</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40553</guid>
+            <pubDate>Fri, 27 Aug 2021 03:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007602_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2021 에일리 전국투어 콘서트 ＇SHOW TOK＇- 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40552</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.08.27
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007444_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－고양 앵콜 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40543</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40543</guid>
-            <pubDate>Thu, 26 Aug 2021 01:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007691_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
