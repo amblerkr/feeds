@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-08-27T05:20:48.671Z</updated>
+    <updated>2021-08-27T08:25:31.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FROM THE FIRST PAGE：THE ‘MAJORS’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5416</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5416"/>
+        <updated>2021-08-27T08:23:37.762Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[귀호강페스티벌 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5415</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[온스타인웨이 Vol．3 〈재주소년〉－ 온라인 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5407</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5407"/>
-        <updated>2021-08-23T06:26:11.508Z</updated>
-        <content type="html"><![CDATA[2021.08.25(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol．3 〈재주소년〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5406</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5406"/>
         <updated>2021-08-23T06:26:11.508Z</updated>
         <content type="html"><![CDATA[2021.08.25(수) 11:00]]></content>
     </entry>
