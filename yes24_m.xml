@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-08-30T01:06:28.277Z</updated>
+    <updated>2021-08-30T03:24:24.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더 포레스텔라 2021] - 부산 일정변경 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11112&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11112&amp;order=1"/>
+        <updated>2021-08-30T03:22:27.733Z</updated>
+        <content type="html"><![CDATA[2021-09-08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [풍월주] 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11111&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11103&amp;order=1"/>
         <updated>2021-08-24T05:19:15.295Z</updated>
         <content type="html"><![CDATA[2021-08-26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [벚꽃 피는 집] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11102&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11102&amp;order=1"/>
-        <updated>2021-08-24T05:19:15.298Z</updated>
-        <content type="html"><![CDATA[2021-08-26(목) 11:00]]></content>
     </entry>
 </feed>

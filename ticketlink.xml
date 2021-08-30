@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-30T01:06:28.278Z</updated>
+    <updated>2021-08-30T03:24:24.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈​더 포레스텔라 2021〉​ - 부산 일정변경​  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53022</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53022"/>
+        <updated>2021-08-30T03:22:35.763Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 ‘식구를 찾아서’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53021</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53021"/>
+        <updated>2021-08-30T03:22:35.764Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.30(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [나의 어린왕자에게] - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53020</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53005"/>
         <updated>2021-08-25T05:19:43.205Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.25(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 울산 앵콜티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53004</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53004"/>
-        <updated>2021-08-30T01:04:45.476Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.30(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 대구 앵콜 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53003</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53003"/>
-        <updated>2021-08-30T01:04:45.477Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.30(월) 00:00]]></content>
     </entry>
 </feed>
