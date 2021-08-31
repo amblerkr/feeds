@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-30T21:20:31.876Z</updated>
+    <updated>2021-08-31T01:08:20.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53026</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53026"/>
+        <updated>2021-08-31T01:06:40.931Z</updated>
+        <content type="html"><![CDATA[2021.09.09(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 음악극 - 마법사의 제자 (안동)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53025</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53009</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53009"/>
         <updated>2021-08-26T01:02:15.904Z</updated>
-        <content type="html"><![CDATA[2021.08.30(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 고양 앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53008</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53008"/>
-        <updated>2021-08-26T01:02:15.905Z</updated>
         <content type="html"><![CDATA[2021.08.30(월) 00:00]]></content>
     </entry>
 </feed>
