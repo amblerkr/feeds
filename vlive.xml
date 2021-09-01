@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 15:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 16:35:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4X4새벽연습 라이브]]></title>
+            <link>https://www.vlive.tv/video/261429</link>
+            <guid>https://www.vlive.tv/video/261429</guid>
+            <pubDate>Wed, 01 Sep 2021 16:34:13 GMT</pubDate>
+            <content:encoded><![CDATA[4X4 STUDIO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210902_291/1630512070482RxjF8_JPEG/113823546264197883c69d59df-d831-4454-875c-bb0301242381.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기야 나 퇴근했어]]></title>
             <link>https://www.vlive.tv/video/261424</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 01 Sep 2021 09:21:40 GMT</pubDate>
             <content:encoded><![CDATA[LOVELYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210831_60/16304071627081xWEk_JPEG/upload_46676719637172214c5543005-622a-4cef-9d1d-a1654d718a0e.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[희선 |  전소미 - 'DUMB DUMB' Dance Cover]]></title>
-            <link>https://www.vlive.tv/video/261376</link>
-            <guid>https://www.vlive.tv/video/261376</guid>
-            <pubDate>Wed, 01 Sep 2021 10:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[마이돌걸즈 / MyDollGirls]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210901_285/1630489921538GwBXP_JPEG/upload_4675952403285582408193407-3e33-47d9-8aeb-07f8e983aa73.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
