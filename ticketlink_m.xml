@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-01T02:34:51.921Z</updated>
+    <updated>2021-09-01T03:24:40.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀸의 보헤미안랩소디 WITH 오케스트라 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53040</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53040"/>
+        <updated>2021-09-01T03:23:10.172Z</updated>
+        <content type="html"><![CDATA[2021.09.09(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2021, 요아리의 단독 콘서트] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53039</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53039"/>
+        <updated>2021-09-01T03:23:10.172Z</updated>
+        <content type="html"><![CDATA[2021.09.01(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 안산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53038</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53025"/>
         <updated>2021-08-30T11:18:27.148Z</updated>
         <content type="html"><![CDATA[2021.09.01(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 탱고의 전설 Astor Piazzolla탄생 100주년 기념음악회 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53024</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53024"/>
-        <updated>2021-08-30T08:25:19.165Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나눔콘서트 with 기프트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53023</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53023"/>
-        <updated>2021-08-30T08:25:19.166Z</updated>
-        <content type="html"><![CDATA[2021.09.02(목) 03:00]]></content>
     </entry>
 </feed>
