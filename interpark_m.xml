@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 07:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40592</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40592</guid>
+            <pubDate>Wed, 01 Sep 2021 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.07
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090114022538.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WOS 비르투오소 챔버 - 2021 월드오케스트라시리즈 - 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40591</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.09.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［안산］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40582</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40582</guid>
-            <pubDate>Wed, 01 Sep 2021 02:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021083111452971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
