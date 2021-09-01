@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-01T05:22:20.501Z</updated>
+    <updated>2021-09-01T06:27:34.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅵ 비발디와 피아졸라의 사계 '가을, 겨울' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53041</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53041"/>
+        <updated>2021-09-01T06:26:40.502Z</updated>
+        <content type="html"><![CDATA[2021.09.01(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퀸의 보헤미안랩소디 WITH 오케스트라 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53040</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53027"/>
         <updated>2021-08-31T03:22:39.571Z</updated>
         <content type="html"><![CDATA[2021.09.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 음악극 - 마법사의 제자 (안동)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53025</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53025"/>
-        <updated>2021-08-30T11:18:27.148Z</updated>
-        <content type="html"><![CDATA[2021.09.01(수) 04:00]]></content>
     </entry>
 </feed>
