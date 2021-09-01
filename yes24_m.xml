@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-01T03:24:40.696Z</updated>
+    <updated>2021-09-01T04:30:38.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1"/>
+        <updated>2021-09-01T04:28:38.782Z</updated>
+        <content type="html"><![CDATA[2021-09-03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11116&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11108&amp;order=1"/>
         <updated>2021-08-27T02:32:05.295Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국지역난방공사와 함께하는 조성진 피아노 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11107&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11107&amp;order=1"/>
-        <updated>2021-08-26T09:21:26.389Z</updated>
-        <content type="html"><![CDATA[2021-08-30(월) 14:00]]></content>
     </entry>
 </feed>
