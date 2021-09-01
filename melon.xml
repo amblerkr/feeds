@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-01T04:30:38.553Z</updated>
+    <updated>2021-09-01T05:22:20.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리즘브레이크 vol．10：예서 x 우자 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5427</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5427"/>
+        <updated>2021-09-01T05:19:14.008Z</updated>
+        <content type="html"><![CDATA[2021.09.03(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021，BLUE CONCERT！with WYNN 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5426</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5418"/>
         <updated>2021-08-30T03:21:47.852Z</updated>
         <content type="html"><![CDATA[2021.09.03(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021，미기！BIRTHDAY CONCERT！］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5417</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5417"/>
-        <updated>2021-08-30T03:21:47.852Z</updated>
-        <content type="html"><![CDATA[2021.09.01(수) 18:00]]></content>
     </entry>
 </feed>
