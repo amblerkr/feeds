@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-01T01:15:01.979Z</updated>
+    <updated>2021-09-01T02:34:51.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 안산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53038</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53038"/>
+        <updated>2021-09-01T02:33:15.451Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.03(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 11시 음악산책 6 - 김가온, Thanksgving Day 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53037</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53023"/>
         <updated>2021-08-30T08:25:11.664Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.02(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈​더 포레스텔라 2021〉​ - 부산 일정변경​  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53022</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53022"/>
-        <updated>2021-08-30T03:22:35.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.02(목) 05:00]]></content>
     </entry>
 </feed>
