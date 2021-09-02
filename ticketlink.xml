@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-02T07:23:29.418Z</updated>
+    <updated>2021-09-02T08:26:55.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  대구문화예술회관 기획공연 올해의 아티스트 〈양성필 대금독주회: 양식의 전환〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53048</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53048"/>
+        <updated>2021-09-02T08:25:50.123Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.03(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 명인전 〈김영자의 판소리 완창: 강산제 심청가〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53047</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53034"/>
         <updated>2021-08-31T10:24:06.191Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<더 포레스텔라 2021> 앙코르 (9.18-19) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53033</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53033"/>
-        <updated>2021-08-31T07:20:46.863Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 08:00]]></content>
     </entry>
 </feed>
