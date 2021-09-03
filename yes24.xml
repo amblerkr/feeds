@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-03T02:32:43.838Z</updated>
+    <updated>2021-09-03T05:22:06.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [사랑했어요] 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11121</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11121"/>
+        <updated>2021-09-03T05:19:57.725Z</updated>
+        <content type="html"><![CDATA[2021.09.08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존 윌리엄스 영화음악 콘서트_부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11120</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11120"/>
         <updated>2021-09-03T02:30:35.690Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [어린왕자] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11119</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11119"/>
+        <updated>2021-09-03T05:19:57.726Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
     </entry>
     <entry>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11102"/>
         <updated>2021-08-24T05:19:03.709Z</updated>
         <content type="html"><![CDATA[2021.08.26(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노래인생 60년 기념 이미자 음악회 - 울산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11101</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11101"/>
-        <updated>2021-08-24T02:28:43.347Z</updated>
-        <content type="html"><![CDATA[2021.08.27(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스프링 어웨이크닝] 4차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11100</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11100"/>
-        <updated>2021-08-23T10:24:09.972Z</updated>
-        <content type="html"><![CDATA[2021.08.27(금) 15:00]]></content>
     </entry>
 </feed>
