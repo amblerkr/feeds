@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-03T01:07:28.729Z</updated>
+    <updated>2021-09-03T02:32:43.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 윌리엄스 영화음악 콘서트_부산 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11120</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11120"/>
+        <updated>2021-09-03T02:30:35.690Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (9/5, 9/11, 9/12, 9/19, 9/20)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11100"/>
         <updated>2021-08-23T10:24:09.972Z</updated>
         <content type="html"><![CDATA[2021.08.27(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11099</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11099"/>
-        <updated>2021-08-23T10:24:09.972Z</updated>
-        <content type="html"><![CDATA[2021.08.27(금) 16:00]]></content>
     </entry>
 </feed>

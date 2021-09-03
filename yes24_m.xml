@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-03T01:07:28.839Z</updated>
+    <updated>2021-09-03T02:32:43.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 윌리엄스 영화음악 콘서트_부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11120&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11120&amp;order=1"/>
+        <updated>2021-09-03T02:30:46.046Z</updated>
+        <content type="html"><![CDATA[2021-09-10(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11109&amp;order=1"/>
         <updated>2021-09-01T19:15:41.182Z</updated>
         <content type="html"><![CDATA[2021-09-02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라워 바이 네이키드 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11108&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11108&amp;order=1"/>
-        <updated>2021-09-01T19:15:41.183Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
 </feed>
