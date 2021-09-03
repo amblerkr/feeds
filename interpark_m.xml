@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 14:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 15:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090219131428.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누리 콜렉티브 바로크 시리즈 〈텔레만니아〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40602</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40602</guid>
-            <pubDate>Fri, 03 Sep 2021 05:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021083113584220.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈사랑했어요〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40601</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40601</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2021.09.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090210063264.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 뮤지컬 〈광화문 연가〉 - 대구 OP석 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40598</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40598</guid>
+            <pubDate>Fri, 03 Sep 2021 15:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007221_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
