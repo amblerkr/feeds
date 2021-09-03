@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-03T08:26:55.002Z</updated>
+    <updated>2021-09-03T10:26:12.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉포유 〈렉처스테이지III 댄서스테이지〉 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53051</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53051"/>
+        <updated>2021-09-03T10:24:29.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.06(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 앙상블 M.S.G의 이야기와 음악이 있는 독일 여행 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53050</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53037"/>
         <updated>2021-08-31T10:24:06.186Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 포크 콘서트 - 김광석과 친구들 (안동) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53036</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53036"/>
-        <updated>2021-08-31T10:24:06.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 04:00]]></content>
     </entry>
 </feed>
