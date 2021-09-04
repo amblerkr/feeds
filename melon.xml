@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-03T23:23:17.927Z</updated>
+    <updated>2021-09-04T03:24:18.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5435"/>
         <updated>2021-09-03T02:30:03.186Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2021，태사자，Promise Fanmeeting］ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5434</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5434"/>
+        <updated>2021-09-04T03:21:53.245Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 오시안（OCYAN）단독 공연 〈OCEAN〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5426"/>
         <updated>2021-09-01T03:21:52.415Z</updated>
         <content type="html"><![CDATA[2021.09.03(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［Desert Eagle］실리카겔 단독공연 2021 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5425</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5425"/>
-        <updated>2021-08-31T10:23:20.468Z</updated>
-        <content type="html"><![CDATA[2021.09.02(목) 14:00]]></content>
     </entry>
 </feed>
