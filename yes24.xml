@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-06T01:15:35.948Z</updated>
+    <updated>2021-09-06T05:21:34.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2021 뮤지컬 [광화문 연가] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11123</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11123"/>
+        <updated>2021-09-06T05:19:31.731Z</updated>
+        <content type="html"><![CDATA[2021.09.08(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 혜공 선예매 취소 후 재예매 및 연장 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11122</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11122"/>
+        <updated>2021-09-06T05:19:31.741Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 11:00<a class="noti-btn-pop" presaletit1="추가예매" presaletit2="" presaletime1="2021.09.10(금) 14:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [사랑했어요] 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11121</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11104"/>
         <updated>2021-08-24T05:19:03.708Z</updated>
         <content type="html"><![CDATA[2021.08.26(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 장윤정 라이브 콘서트 - 전주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11103</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11103"/>
-        <updated>2021-08-24T05:19:03.708Z</updated>
-        <content type="html"><![CDATA[2021.08.26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [벚꽃 피는 집] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11102</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11102"/>
-        <updated>2021-08-24T05:19:03.709Z</updated>
-        <content type="html"><![CDATA[2021.08.26(목) 11:00]]></content>
     </entry>
 </feed>
