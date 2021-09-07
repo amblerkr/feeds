@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-07T04:30:05.034Z</updated>
+    <updated>2021-09-07T05:21:47.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11131&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11131&amp;order=1"/>
         <updated>2021-09-07T02:30:50.824Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11130&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11130&amp;order=1"/>
+        <updated>2021-09-07T05:19:46.223Z</updated>
+        <content type="html"><![CDATA[2021-09-14(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제23회 정동진독립영화제 티켓오픈안내]]></title>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11122&amp;order=1"/>
         <updated>2021-09-06T05:19:42.290Z</updated>
         <content type="html"><![CDATA[2021-09-10(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [사랑했어요] 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11121&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11121&amp;order=1"/>
-        <updated>2021-09-04T12:32:34.015Z</updated>
-        <content type="html"><![CDATA[2021-09-08(수) 14:00]]></content>
     </entry>
 </feed>
