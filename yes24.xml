@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-07T01:06:29.165Z</updated>
+    <updated>2021-09-07T02:32:46.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] [일상으로의 초대] 실내뮤직페스티벌 연기 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11131</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11131"/>
+        <updated>2021-09-07T02:30:40.546Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11129</id>
@@ -135,12 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11111"/>
         <updated>2021-08-27T08:24:05.864Z</updated>
         <content type="html"><![CDATA[2021.09.02(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [보도지침] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11110</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11110"/>
-        <updated>2021-08-27T05:18:41.071Z</updated>
-        <content type="html"><![CDATA[2021.09.02(목) 14:00]]></content>
     </entry>
 </feed>
