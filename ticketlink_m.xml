@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-07T02:32:46.081Z</updated>
+    <updated>2021-09-07T03:24:46.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 임동민 & 임동혁 meet 디토오케스트라 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53063</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53063"/>
+        <updated>2021-09-07T03:23:21.973Z</updated>
+        <content type="html"><![CDATA[2021.09.08(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈메리셸리〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53062</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53049</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53049"/>
         <updated>2021-09-02T09:21:57.705Z</updated>
-        <content type="html"><![CDATA[2021.09.03(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  대구문화예술회관 기획공연 올해의 아티스트 〈양성필 대금독주회: 양식의 전환〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53048</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53048"/>
-        <updated>2021-09-02T08:25:59.836Z</updated>
         <content type="html"><![CDATA[2021.09.03(금) 05:00]]></content>
     </entry>
 </feed>
