@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-06T23:23:55.575Z</updated>
+    <updated>2021-09-07T01:06:29.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2021 대구 대백프라자) 가족뮤지컬 아기돼지삼형제 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53060</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53060"/>
+        <updated>2021-09-07T01:04:48.951Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53059</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53046"/>
         <updated>2021-09-02T06:26:06.546Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 사랑, 그리고 희망을 노래하는 힐링콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53045</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53045"/>
-        <updated>2021-09-02T06:26:06.549Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.03(금) 02:00]]></content>
     </entry>
 </feed>

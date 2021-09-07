@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-06T23:23:55.553Z</updated>
+    <updated>2021-09-07T01:06:29.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제23회 정동진독립영화제 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11129&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11129&amp;order=1"/>
+        <updated>2021-09-07T01:04:40.449Z</updated>
+        <content type="html"><![CDATA[2021-09-13(월) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 랜선 패밀리콘서트 [에델 라인클랑 첫번째 팬미팅] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11128&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11128&amp;order=1"/>
+        <updated>2021-09-07T01:04:40.451Z</updated>
+        <content type="html"><![CDATA[2021-09-09(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 [피맛골연가 미니콘서트] 티켓오픈 연기 공지 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11127&amp;order=1</id>
@@ -59,19 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11120&amp;order=1"/>
         <updated>2021-09-04T12:32:34.017Z</updated>
         <content type="html"><![CDATA[2021-09-10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [어린왕자] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11119&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11119&amp;order=1"/>
-        <updated>2021-09-04T12:32:34.017Z</updated>
-        <content type="html"><![CDATA[2021-09-10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1"/>
-        <updated>2021-09-04T12:32:34.018Z</updated>
-        <content type="html"><![CDATA[2021-09-03(금) 14:00]]></content>
     </entry>
 </feed>
