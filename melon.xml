@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-07T05:21:47.375Z</updated>
+    <updated>2021-09-07T06:27:42.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5440"/>
         <updated>2021-09-07T05:19:04.295Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．5 〈전태원〉 － 온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5439</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5439"/>
+        <updated>2021-09-07T06:25:09.932Z</updated>
+        <content type="html"><![CDATA[2021.09.09(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 한수애 블루 팬미팅 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5429"/>
         <updated>2021-09-02T09:20:59.109Z</updated>
         <content type="html"><![CDATA[2021.09.03(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－데이먼스 이어 단독 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5428</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5428"/>
-        <updated>2021-09-02T03:21:47.316Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 20:00]]></content>
     </entry>
 </feed>
