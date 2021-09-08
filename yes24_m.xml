@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-07T23:23:43.636Z</updated>
+    <updated>2021-09-08T03:24:27.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WILD WILD [Fantastic Nightmare] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11132&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11132&amp;order=1"/>
+        <updated>2021-09-08T03:22:35.009Z</updated>
+        <content type="html"><![CDATA[2021-09-15(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] [일상으로의 초대] 실내뮤직페스티벌 연기 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11131&amp;order=1</id>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11123&amp;order=1"/>
         <updated>2021-09-07T15:23:27.575Z</updated>
         <content type="html"><![CDATA[2021-09-08(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 혜공 선예매 취소 후 재예매 및 연장 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11122&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11122&amp;order=1"/>
-        <updated>2021-09-07T15:23:27.576Z</updated>
-        <content type="html"><![CDATA[2021-09-10(금) 11:00]]></content>
     </entry>
 </feed>

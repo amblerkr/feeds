@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 23:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 03:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카라마조프가의 형제들 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40635</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40635</guid>
+            <pubDate>Wed, 08 Sep 2021 03:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.13
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007451_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엑스칼리버〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40634</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40634</guid>
+            <pubDate>Wed, 08 Sep 2021 03:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005816_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 국립정동극장예술단 〈소춘대유희_백년광대〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40633</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40633</guid>
+            <pubDate>Wed, 08 Sep 2021 03:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008046_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂- 수원 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40632</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.09.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090212302279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈분장실〉- VER 2 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40625</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40625</guid>
-            <pubDate>Tue, 07 Sep 2021 05:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007379_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈메리셸리〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40624</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40624</guid>
-            <pubDate>Tue, 07 Sep 2021 02:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005370_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40623</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40623</guid>
-            <pubDate>Tue, 07 Sep 2021 01:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090318223580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

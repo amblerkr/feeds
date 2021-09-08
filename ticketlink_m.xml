@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-07T23:23:43.637Z</updated>
+    <updated>2021-09-08T03:24:27.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈분장실〉 VER 2 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53068</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53068"/>
+        <updated>2021-09-08T03:22:53.238Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보헤미안 렙소디 with  오케스트라 티켓오픈일 변경 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53067</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53067"/>
+        <updated>2021-09-08T03:22:53.239Z</updated>
+        <content type="html"><![CDATA[2021.09.14(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 국악콘서트 서풍 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53066</id>
@@ -39,13 +53,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53062"/>
         <updated>2021-09-07T02:31:08.873Z</updated>
         <content type="html"><![CDATA[2021.09.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2021 대구 대백프라자) 가족뮤지컬 아기돼지삼형제 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53060</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53060"/>
-        <updated>2021-09-07T01:04:57.006Z</updated>
-        <content type="html"><![CDATA[2021.09.08(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산​​​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53052"/>
         <updated>2021-09-06T05:19:58.432Z</updated>
         <content type="html"><![CDATA[2021.09.08(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 봉포유 〈렉처스테이지III 댄서스테이지〉 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53051</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53051"/>
-        <updated>2021-09-07T10:24:49.504Z</updated>
-        <content type="html"><![CDATA[2021.09.06(월) 01:00]]></content>
     </entry>
 </feed>
