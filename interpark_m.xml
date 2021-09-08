@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 08:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 09:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 Soundberry Theater #2 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40642</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40642</guid>
+            <pubDate>Wed, 08 Sep 2021 09:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008143_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 빨래 - 이천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40641</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.09.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090518253059.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rock ＆ 樂 Concert Vol.37 윤딴딴 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40631</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40631</guid>
-            <pubDate>Tue, 07 Sep 2021 06:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.15
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
