@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-09T08:27:34.741Z</updated>
+    <updated>2021-09-09T10:26:39.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5447"/>
         <updated>2021-09-09T03:22:11.847Z</updated>
         <content type="html"><![CDATA[2021.09.09(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［달수빈의 핑크빛 나눔 팬미팅 with 한국소아암재단］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5446</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5446"/>
+        <updated>2021-09-09T10:24:00.219Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－백아 단독 콘서트 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5439"/>
         <updated>2021-09-07T06:25:09.932Z</updated>
         <content type="html"><![CDATA[2021.09.09(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈디어 마들렌〉 트라이아웃 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5437</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5437"/>
-        <updated>2021-09-07T08:24:37.885Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
     </entry>
 </feed>
