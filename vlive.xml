@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 17:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 19:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오랜만에🌙]]></title>
+            <link>https://www.vlive.tv/video/262416</link>
+            <guid>https://www.vlive.tv/video/262416</guid>
+            <pubDate>Thu, 09 Sep 2021 19:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[정승환(Jung Seung Hwan)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210910_296/1631214266188gaich_JPEG/5454dd04-11a0-11ec-8f8d-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I miss you 💛🐝]]></title>
             <link>https://www.vlive.tv/video/262415</link>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 09 Sep 2021 10:25:07 GMT</pubDate>
             <content:encoded><![CDATA[Golden Child]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_150/1631165565130uu6gO_JPEG/upload_752451453372022773fec51f4-60bb-4515-82ba-bc8c3ee0383b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은상 (Lee Eun Sang) 'Lemonade' DANCE PRACTICE]]></title>
-            <link>https://www.vlive.tv/video/262214</link>
-            <guid>https://www.vlive.tv/video/262214</guid>
-            <pubDate>Thu, 09 Sep 2021 10:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210908_256/163108902997832xeb_PNG/1631088791418.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
