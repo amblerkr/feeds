@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-09T05:21:58.839Z</updated>
+    <updated>2021-09-09T07:23:39.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 '렛잇고2' - 안산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53085</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53085"/>
+        <updated>2021-09-09T07:22:00.597Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 '렛잇고2' - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53084</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53084"/>
+        <updated>2021-09-09T07:22:00.601Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈무용 유망안무가전 춤〉 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53083</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53070"/>
         <updated>2021-09-08T05:17:40.655Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [회신] 윤동주 귀하 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53069</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53069"/>
-        <updated>2021-09-08T04:29:05.376Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈분장실〉 VER 2 2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53068</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53068"/>
-        <updated>2021-09-08T03:22:53.238Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 06:00]]></content>
     </entry>
 </feed>
