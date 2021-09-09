@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 01:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 02:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈올모스트 메인〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40645</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40645</guid>
+            <pubDate>Thu, 09 Sep 2021 02:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구 〈일상으로의 초대〉 실내뮤직페스티벌 재오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40644</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.09.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005816_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 국립정동극장예술단 〈소춘대유희_백년광대〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40633</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40633</guid>
-            <pubDate>Wed, 08 Sep 2021 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008046_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-09T01:11:55.138Z</updated>
+    <updated>2021-09-09T02:34:07.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 포항음악제 「기억의 시작」 티켓오픈 안내​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53079</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53079"/>
+        <updated>2021-09-09T02:32:38.393Z</updated>
+        <content type="html"><![CDATA[2021.09.14(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 수성아트피아 명픔 시리즈 Ⅳ​ 〈​신박듀오 피아노 리사이틀​〉​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53077</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53064"/>
         <updated>2021-09-07T05:20:05.530Z</updated>
         <content type="html"><![CDATA[2021.09.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 임동민 & 임동혁 meet 디토오케스트라 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53063</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53063"/>
-        <updated>2021-09-07T03:23:21.973Z</updated>
-        <content type="html"><![CDATA[2021.09.08(수) 01:00]]></content>
     </entry>
 </feed>
