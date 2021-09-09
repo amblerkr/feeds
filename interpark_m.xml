@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 07:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 08:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 하동균 단독 콘서트 ‘Here I am’ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40657</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40657</guid>
+            <pubDate>Thu, 09 Sep 2021 08:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090916032023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈쓰릴 미〉 5차(마지막) 티켓 오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40656</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40656</guid>
+            <pubDate>Thu, 09 Sep 2021 08:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.14
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004941_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40655</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.09.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구 〈일상으로의 초대〉 실내뮤직페스티벌 재오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40644</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40644</guid>
-            <pubDate>Thu, 09 Sep 2021 01:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007630_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 Soundberry Theater #2 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40642</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40642</guid>
-            <pubDate>Wed, 08 Sep 2021 09:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008143_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
