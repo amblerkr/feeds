@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-09T02:34:07.782Z</updated>
+    <updated>2021-09-09T03:24:59.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［1st 노수빈의 ‘잔잔한 콘서트’］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5448</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5448"/>
+        <updated>2021-09-09T03:22:11.846Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로웨이스트 공연－일회용품이 사라지는 그날까지 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5447</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5447"/>
+        <updated>2021-09-09T03:22:11.847Z</updated>
+        <content type="html"><![CDATA[2021.09.09(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－백아 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5445</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5445"/>
+        <updated>2021-09-09T03:22:11.847Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TUNE UP STAGE［Dear Autumn］튠업 스테이지［디어 어텀］ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5444</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5436"/>
         <updated>2021-09-06T09:20:56.102Z</updated>
         <content type="html"><![CDATA[2021.09.07(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존 윌리엄스 영화음악 콘서트－부산（John Williams Film Music Concert）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5435</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5435"/>
-        <updated>2021-09-03T02:30:03.186Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021，태사자，Promise Fanmeeting］ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5434</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5434"/>
-        <updated>2021-09-04T03:21:53.245Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 오시안（OCYAN）단독 공연 〈OCEAN〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5433</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5433"/>
-        <updated>2021-09-03T10:23:37.583Z</updated>
-        <content type="html"><![CDATA[2021.09.07(화) 20:00]]></content>
     </entry>
 </feed>
