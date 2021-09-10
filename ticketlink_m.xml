@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-10T04:30:41.453Z</updated>
+    <updated>2021-09-10T06:27:45.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈​카포네 트릴로지〉​ 3차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53089</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53089"/>
+        <updated>2021-09-10T06:26:08.939Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 주현미 콘서트 - 성남 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53088</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53075"/>
         <updated>2021-09-08T08:25:10.245Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(공포연극) 나라카 - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53074</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53074"/>
-        <updated>2021-09-08T07:21:09.918Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 08:00]]></content>
     </entry>
 </feed>
