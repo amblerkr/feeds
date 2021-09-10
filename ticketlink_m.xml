@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-09T23:23:43.159Z</updated>
+    <updated>2021-09-10T01:12:56.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[2021.09.14(화) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[공지] NHN티켓링크 이용약관 개정에 대한 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53078</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53078"/>
+        <updated>2021-09-10T01:11:19.161Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/53078" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN티켓링크 이용약관 개정에 대한 안내</h3></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2021 수성아트피아 명픔 시리즈 Ⅳ​ 〈​신박듀오 피아노 리사이틀​〉​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53077</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53077"/>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53073"/>
         <updated>2021-09-08T06:26:16.362Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈아가사 AGATHA〉 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53072</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53072"/>
-        <updated>2021-09-08T06:26:16.362Z</updated>
-        <content type="html"><![CDATA[2021.09.13(월) 06:00]]></content>
     </entry>
 </feed>
