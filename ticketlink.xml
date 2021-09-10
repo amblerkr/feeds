@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-10T07:22:54.426Z</updated>
+    <updated>2021-09-10T08:26:51.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 '알라딘과 자스민공주' - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53092</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53092"/>
+        <updated>2021-09-10T08:25:05.499Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.13(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 포항음악제 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53091</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53078"/>
         <updated>2021-09-10T01:11:09.515Z</updated>
         <content type="html"><![CDATA[<td>기타</td><td class="tl p_reative"><a href="/help/notice/53078">[공지] NHN티켓링크 이용약관 개정에 대한 안내</a></td><td>2021.09.08</td><td class="ff_tahoma fs11">33</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 수성아트피아 명픔 시리즈 Ⅳ​ 〈​신박듀오 피아노 리사이틀​〉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53077</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53077"/>
-        <updated>2021-09-08T10:25:05.058Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content>
     </entry>
 </feed>
