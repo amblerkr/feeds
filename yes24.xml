@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-10T01:12:56.173Z</updated>
+    <updated>2021-09-10T02:34:08.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제138회 클래식품격콘서트 [가을의 노래] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11137</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11137"/>
+        <updated>2021-09-10T02:32:08.932Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11136</id>
@@ -133,12 +140,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118"/>
         <updated>2021-09-02T03:22:16.128Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11117</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11117"/>
-        <updated>2021-09-01T04:28:23.641Z</updated>
-        <content type="html"><![CDATA[2021.09.03(금) 14:00]]></content>
     </entry>
 </feed>

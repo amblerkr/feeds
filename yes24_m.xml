@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-10T01:12:56.181Z</updated>
+    <updated>2021-09-10T02:34:08.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남심포니오케스트라 제138회 클래식품격콘서트 [가을의 노래] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11137&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11137&amp;order=1"/>
+        <updated>2021-09-10T02:32:19.111Z</updated>
+        <content type="html"><![CDATA[2021-09-16(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHS 단독 공연 [00 : ZERO-ZERO] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11136&amp;order=1</id>
@@ -65,12 +72,5 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11127&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11127&amp;order=1"/>
         <updated>2021-09-09T04:28:33.796Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [스프링 어웨이크닝] 5차(마지막) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11126&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11126&amp;order=1"/>
-        <updated>2021-09-09T04:28:33.798Z</updated>
-        <content type="html"><![CDATA[2021-09-10(금) 15:00]]></content>
     </entry>
 </feed>
