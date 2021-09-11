@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-11T04:30:30.867Z</updated>
+    <updated>2021-09-11T07:21:45.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53093</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53093"/>
+        <updated>2021-09-11T07:20:08.245Z</updated>
+        <content type="html"><![CDATA[2021.09.13(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 '알라딘과 자스민공주' - 청주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53092</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53079"/>
         <updated>2021-09-09T02:32:38.393Z</updated>
         <content type="html"><![CDATA[2021.09.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] NHN티켓링크 이용약관 개정에 대한 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53078</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53078"/>
-        <updated>2021-09-10T01:11:19.161Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/53078" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN티켓링크 이용약관 개정에 대한 안내</h3></a>]]></content>
     </entry>
 </feed>
