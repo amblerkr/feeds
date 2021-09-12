@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-12T13:25:18.882Z</updated>
+    <updated>2021-09-12T14:21:09.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Best Of Blue Note VOL2 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53100</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53100"/>
+        <updated>2021-09-12T14:19:35.070Z</updated>
+        <content type="html"><![CDATA[2021.09.14(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53093</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53080"/>
         <updated>2021-09-09T05:20:17.603Z</updated>
         <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 포항음악제 「기억의 시작」 티켓오픈 안내​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53079</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53079"/>
-        <updated>2021-09-09T02:32:38.393Z</updated>
-        <content type="html"><![CDATA[2021.09.14(화) 05:00]]></content>
     </entry>
 </feed>
