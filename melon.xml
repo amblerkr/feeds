@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-12T07:22:18.825Z</updated>
+    <updated>2021-09-12T09:22:07.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［2021 최효인 BLUE CONCERT］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5451</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5451"/>
+        <updated>2021-09-12T09:19:39.451Z</updated>
+        <content type="html"><![CDATA[2021.09.13(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈카포네 트릴로지〉 3차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5450</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5441"/>
         <updated>2021-09-08T05:16:41.646Z</updated>
         <content type="html"><![CDATA[2021.09.13(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flight：Wave to Earth 편 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5440</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5440"/>
-        <updated>2021-09-07T05:19:04.295Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 18:00]]></content>
     </entry>
 </feed>
