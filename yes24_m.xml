@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-13T03:24:48.070Z</updated>
+    <updated>2021-09-13T05:21:15.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 거미 전국투어 콘서트 [다시, Winter Ballad] - 수원 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11147&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11147&amp;order=1"/>
+        <updated>2021-09-13T05:19:28.288Z</updated>
+        <content type="html"><![CDATA[2021-09-16(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 [BAEK HUG] - 광주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11146&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11146&amp;order=1"/>
+        <updated>2021-09-13T05:19:28.290Z</updated>
+        <content type="html"><![CDATA[2021-09-16(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [박열] 추가 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11145&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11138&amp;order=1"/>
         <updated>2021-09-10T10:24:18.678Z</updated>
         <content type="html"><![CDATA[2021-09-17(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남심포니오케스트라 제138회 클래식품격콘서트 [가을의 노래] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11137&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11137&amp;order=1"/>
-        <updated>2021-09-10T10:24:18.682Z</updated>
-        <content type="html"><![CDATA[2021-09-16(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHS 단독 공연 [00 : ZERO-ZERO] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11136&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11136&amp;order=1"/>
-        <updated>2021-09-10T10:24:18.684Z</updated>
-        <content type="html"><![CDATA[2021-09-10(금) 17:00]]></content>
     </entry>
 </feed>
