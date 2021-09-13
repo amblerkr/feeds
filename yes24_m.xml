@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-12T23:23:30.817Z</updated>
+    <updated>2021-09-13T02:33:50.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [박열] 추가 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11145&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11145&amp;order=1"/>
+        <updated>2021-09-13T02:31:52.369Z</updated>
+        <content type="html"><![CDATA[2021-09-13(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <인사이드> 1차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11144&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11144&amp;order=1"/>
+        <updated>2021-09-13T02:31:52.372Z</updated>
+        <content type="html"><![CDATA[2021-09-15(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUNSET CINEMA PARK CONCERT 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11143&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11143&amp;order=1"/>
+        <updated>2021-09-13T02:31:52.373Z</updated>
+        <content type="html"><![CDATA[2021-09-15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best of Blue Note VOL2 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11142&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11136&amp;order=1"/>
         <updated>2021-09-10T10:24:18.684Z</updated>
         <content type="html"><![CDATA[2021-09-10(금) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 마지막(5차) 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11135&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11135&amp;order=1"/>
-        <updated>2021-09-10T10:24:18.685Z</updated>
-        <content type="html"><![CDATA[2021-09-14(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 [피맛골 연가 미니콘서트] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11134&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11134&amp;order=1"/>
-        <updated>2021-09-10T10:24:18.686Z</updated>
-        <content type="html"><![CDATA[2021-09-15(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILD WILD [Fantastic Nightmare] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11132&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11132&amp;order=1"/>
-        <updated>2021-09-10T10:24:18.688Z</updated>
-        <content type="html"><![CDATA[2021-09-15(수) 11:00]]></content>
     </entry>
 </feed>

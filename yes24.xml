@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-12T23:23:30.810Z</updated>
+    <updated>2021-09-13T02:33:50.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [박열] 추가 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11145</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11145"/>
+        <updated>2021-09-13T02:31:40.603Z</updated>
+        <content type="html"><![CDATA[2021.09.13(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <인사이드> 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11144</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11144"/>
+        <updated>2021-09-13T02:31:40.618Z</updated>
+        <content type="html"><![CDATA[2021.09.15(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUNSET CINEMA PARK CONCERT 티켓 오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11143</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11143"/>
+        <updated>2021-09-13T02:31:40.620Z</updated>
+        <content type="html"><![CDATA[2021.09.15(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best of Blue Note VOL2 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11142</id>
@@ -120,26 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11126"/>
         <updated>2021-09-06T09:21:24.136Z</updated>
         <content type="html"><![CDATA[2021.09.10(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루돌프 부흐빈더 ＆ 베토벤 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11125</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11125"/>
-        <updated>2021-09-06T09:21:24.138Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성진 피아노 리사이틀-앙코르 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11124</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11124"/>
-        <updated>2021-09-06T09:21:24.139Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2021 뮤지컬 [광화문 연가] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11123</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11123"/>
-        <updated>2021-09-06T05:19:31.731Z</updated>
-        <content type="html"><![CDATA[2021.09.08(수) 11:00]]></content>
     </entry>
 </feed>
