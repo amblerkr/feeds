@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 17:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 19:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/262782</guid>
             <pubDate>Mon, 13 Sep 2021 17:23:47 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210914_7/1631556734396oDzWi_JPEG/7208170f-14bd-11ec-93f2-a0369ff95ec0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덥디 하우스 시즌3]]></title>
+            <link>https://www.vlive.tv/video/262778</link>
+            <guid>https://www.vlive.tv/video/262778</guid>
+            <pubDate>Mon, 13 Sep 2021 19:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210914_141/1631545677080ge97b_JPEG/1444212060091537423879742f-cd44-45bd-8b13-d866779c07d4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🥒앱]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Mon, 13 Sep 2021 10:24:59 GMT</pubDate>
             <content:encoded><![CDATA[Golden Child]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_46/1631507423148NqhBg_JPEG/upload_477767505671175150ecc794f-3d51-426d-8d38-2f7fe0f87a03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LUCKY TV] EP.88 602일만의 행운 가득한 만남]]></title>
-            <link>https://www.vlive.tv/video/262388</link>
-            <guid>https://www.vlive.tv/video/262388</guid>
-            <pubDate>Mon, 13 Sep 2021 10:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210909_155/16311866419440oquJ_JPEG/upload_752663380102023862fa0b04d-32ea-4fbe-adc8-d4dc2164e516.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
