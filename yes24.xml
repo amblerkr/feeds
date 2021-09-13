@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-13T06:28:46.875Z</updated>
+    <updated>2021-09-13T08:27:22.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11149"/>
         <updated>2021-09-13T06:26:13.283Z</updated>
         <content type="html"><![CDATA[2021.09.16(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 거미 전국투어 콘서트 [다시, Winter Ballad] - 광주 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11148</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11148"/>
+        <updated>2021-09-13T08:25:19.590Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 거미 전국투어 콘서트 [다시, Winter Ballad] - 수원 티켓오픈안내]]></title>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11130"/>
         <updated>2021-09-07T05:19:35.242Z</updated>
         <content type="html"><![CDATA[2021.09.14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11129</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11129"/>
-        <updated>2021-09-07T01:04:30.729Z</updated>
-        <content type="html"><![CDATA[2021.09.13(월) 13:00]]></content>
     </entry>
 </feed>

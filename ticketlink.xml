@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-13T06:28:46.877Z</updated>
+    <updated>2021-09-13T08:27:22.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -13,7 +13,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.27(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] – 광주​​​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 부산​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53108</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53108"/>
+        <updated>2021-09-13T08:25:36.452Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53107</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53107"/>
         <updated>2021-09-13T06:26:46.579Z</updated>
@@ -69,6 +76,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.14(화) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 광주​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53099</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53099"/>
+        <updated>2021-09-13T08:25:36.466Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 부산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53098</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53098"/>
+        <updated>2021-09-13T08:25:36.467Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 08:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 울산​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53097</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53097"/>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53095"/>
         <updated>2021-09-13T05:19:36.042Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53094</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53094"/>
-        <updated>2021-09-13T05:19:36.044Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53093</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53093"/>
-        <updated>2021-09-11T07:19:58.440Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.13(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 '알라딘과 자스민공주' - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53092</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53092"/>
-        <updated>2021-09-10T08:25:05.499Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.13(월) 06:00]]></content>
     </entry>
 </feed>
