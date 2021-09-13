@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-13T05:21:15.244Z</updated>
+    <updated>2021-09-13T06:28:46.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11149&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11149&amp;order=1"/>
+        <updated>2021-09-13T06:26:38.143Z</updated>
+        <content type="html"><![CDATA[2021-09-16(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 거미 전국투어 콘서트 [다시, Winter Ballad] - 수원 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11147&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11139&amp;order=1"/>
         <updated>2021-09-10T10:24:18.678Z</updated>
         <content type="html"><![CDATA[2021-09-16(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11138&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11138&amp;order=1"/>
-        <updated>2021-09-10T10:24:18.678Z</updated>
-        <content type="html"><![CDATA[2021-09-17(금) 14:00]]></content>
     </entry>
 </feed>
