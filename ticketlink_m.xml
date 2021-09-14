@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-14T10:26:00.878Z</updated>
+    <updated>2021-09-14T11:20:01.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 나윤아 바이올린 리사이틀 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53117</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53117"/>
+        <updated>2021-09-14T11:18:31.902Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈장수상회〉 - 군포​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53116</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53102"/>
         <updated>2021-09-13T02:32:10.638Z</updated>
         <content type="html"><![CDATA[2021.09.13(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53101</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53101"/>
-        <updated>2021-09-13T02:32:10.641Z</updated>
-        <content type="html"><![CDATA[2021.09.15(수) 04:00]]></content>
     </entry>
 </feed>
