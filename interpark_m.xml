@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 01:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 02:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극［욕망이라는 이름의 전차］ 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40701</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40701</guid>
+            <pubDate>Tue, 14 Sep 2021 02:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021083016024686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아날로그 정통 체력극 〈신바람 난 삼대〉 10월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40700</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40700</guid>
+            <pubDate>Tue, 14 Sep 2021 02:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[거리두기좌석제 콘서트 〈이십세기 이승환 +〉 울산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40699</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.09.16
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20210913031044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 노을 연말 투어 콘서트 ［노을이 내린 밤］- 울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40691</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40691</guid>
-            <pubDate>Mon, 13 Sep 2021 06:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091016191269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40690</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40690</guid>
-            <pubDate>Mon, 13 Sep 2021 06:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091014130822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
