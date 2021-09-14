@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-14T04:29:54.407Z</updated>
+    <updated>2021-09-14T05:20:33.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원더티켓 - 수호나무가 있는 마을 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53111</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53111"/>
+        <updated>2021-09-14T05:19:32.580Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 KIM SUNG KYU ONTACT FANMEETING [ㅅㄱ] 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53110</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53097"/>
         <updated>2021-09-13T06:26:46.596Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 창원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53096</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53096"/>
-        <updated>2021-09-13T06:26:46.597Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 06:00]]></content>
     </entry>
 </feed>
