@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-15T04:29:59.891Z</updated>
+    <updated>2021-09-15T05:21:27.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 올해의 아티스트 〈신승민의 춤: 시울-rim ▪ 짐작(斟酌)〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53124</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53124"/>
+        <updated>2021-09-15T05:19:46.951Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 특별기획공연 [발레 살롱콘서트Ⅳ] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53123</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53123"/>
         <updated>2021-09-15T04:28:20.122Z</updated>
         <content type="html"><![CDATA[2021.09.17(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소 향 - 진주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53122</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53122"/>
+        <updated>2021-09-15T05:19:46.952Z</updated>
+        <content type="html"><![CDATA[2021.09.24(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈푸르고 푸른〉- 대구 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53110"/>
         <updated>2021-09-14T01:11:09.229Z</updated>
         <content type="html"><![CDATA[2021.09.17(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SELECT SHOP<십센치 X 윤딴딴>콘서트 - 대구​ 재오픈 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53109</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53109"/>
-        <updated>2021-09-13T05:19:45.400Z</updated>
-        <content type="html"><![CDATA[2021.09.27(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 부산​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53108</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53108"/>
-        <updated>2021-09-13T08:25:45.240Z</updated>
-        <content type="html"><![CDATA[2021.09.16(목) 08:00]]></content>
     </entry>
 </feed>
