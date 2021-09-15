@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-15T06:27:38.779Z</updated>
+    <updated>2021-09-15T08:27:29.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 1차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11150&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11150&amp;order=1"/>
+        <updated>2021-09-15T08:25:29.916Z</updated>
+        <content type="html"><![CDATA[2021-09-17(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11149&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11141&amp;order=1"/>
         <updated>2021-09-14T10:24:12.255Z</updated>
         <content type="html"><![CDATA[2021-09-14(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [미인] 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11140&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11140&amp;order=1"/>
-        <updated>2021-09-14T10:24:12.255Z</updated>
-        <content type="html"><![CDATA[2021-09-17(금) 11:00]]></content>
     </entry>
 </feed>

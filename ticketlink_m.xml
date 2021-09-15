@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-15T06:27:38.775Z</updated>
+    <updated>2021-09-15T08:27:29.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 올해의 아티스트 〈연극 무대게임〉 - 대구]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53129</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53129"/>
+        <updated>2021-09-15T08:25:48.134Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포항시립합창단 제113회 정기연주회〈미악Ⅱ, 그리움에 물들다〉- 포항 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53128</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53128"/>
+        <updated>2021-09-15T08:25:48.142Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021, BLUE CONCERT! with WYNN]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53127</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53115"/>
         <updated>2021-09-15T02:31:12.003Z</updated>
         <content type="html"><![CDATA[2021.09.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈장수상회〉 - 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53114</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53114"/>
-        <updated>2021-09-14T09:21:10.918Z</updated>
-        <content type="html"><![CDATA[2021.09.15(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 국악, 이야기를 노래하다 / 모던판소리공작소 촘촘-광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53113</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53113"/>
-        <updated>2021-09-14T09:21:10.918Z</updated>
-        <content type="html"><![CDATA[2021.09.15(수) 01:00]]></content>
     </entry>
 </feed>

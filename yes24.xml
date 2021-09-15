@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-15T06:27:38.785Z</updated>
+    <updated>2021-09-15T08:27:29.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 1차 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11150</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11150"/>
+        <updated>2021-09-15T08:25:19.201Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11149</id>
@@ -135,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11131</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11131"/>
         <updated>2021-09-07T02:30:40.546Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11130</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11130"/>
-        <updated>2021-09-07T05:19:35.242Z</updated>
-        <content type="html"><![CDATA[2021.09.14(화) 14:00]]></content>
     </entry>
 </feed>
