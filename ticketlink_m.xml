@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-15T02:32:45.608Z</updated>
+    <updated>2021-09-15T03:25:09.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈푸르고 푸른〉- 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53121</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53121"/>
+        <updated>2021-09-15T03:23:25.353Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제358회 정기연주회, 고전의 품격 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53120</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53107</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53107"/>
         <updated>2021-09-13T06:26:57.348Z</updated>
-        <content type="html"><![CDATA[2021.09.16(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 울산​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53106</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53106"/>
-        <updated>2021-09-13T06:26:57.352Z</updated>
         <content type="html"><![CDATA[2021.09.16(목) 07:00]]></content>
     </entry>
 </feed>
