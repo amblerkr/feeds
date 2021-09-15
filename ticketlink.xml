@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-14T22:23:33.873Z</updated>
+    <updated>2021-09-15T01:08:50.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 뮤지컬 〈​광화문 연가〉 - 성남​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53119</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53119"/>
+        <updated>2021-09-15T01:07:06.613Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.17(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소 향 - 안산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53118</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53118"/>
+        <updated>2021-09-15T01:07:06.613Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 나윤아 바이올린 리사이틀 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53117</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53104"/>
         <updated>2021-09-13T05:19:36.034Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트  - 광주​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53103</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53103"/>
-        <updated>2021-09-13T05:19:36.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국소아암재단과 함께하는 406호 프로젝트의 나눔 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53102</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53102"/>
-        <updated>2021-09-13T02:32:00.366Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.13(월) 03:00]]></content>
     </entry>
 </feed>
