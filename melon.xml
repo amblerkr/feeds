@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-16T04:28:47.619Z</updated>
+    <updated>2021-09-16T05:21:50.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fill in your blank vol．4 406호 프로젝트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5464</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5464"/>
+        <updated>2021-09-16T05:19:17.898Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈디어 마들렌〉 트라이아웃 추가 좌석 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5463</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5454"/>
         <updated>2021-09-14T03:21:43.843Z</updated>
         <content type="html"><![CDATA[2021.09.14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONNECT：마리슈x정예원x정튠 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5453</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5453"/>
-        <updated>2021-09-13T05:18:48.699Z</updated>
-        <content type="html"><![CDATA[2021.09.15(수) 19:00]]></content>
     </entry>
 </feed>
