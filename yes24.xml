@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-16T01:13:30.498Z</updated>
+    <updated>2021-09-16T03:24:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영혼극 [여름호텔을 위한 의상] - 대구 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11152</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11152"/>
+        <updated>2021-09-16T03:22:34.200Z</updated>
+        <content type="html"><![CDATA[2021.09.24(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE FRENCH MUSICAL CONCERT ＂Encore＂ (서울,부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 "앙..]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11151</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11133</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11133"/>
         <updated>2021-09-09T02:32:09.756Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11132</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11132"/>
-        <updated>2021-09-08T03:22:24.194Z</updated>
-        <content type="html"><![CDATA[2021.09.15(수) 11:00]]></content>
     </entry>
 </feed>

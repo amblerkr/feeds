@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-16T01:13:30.559Z</updated>
+    <updated>2021-09-16T03:24:35.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] SUN & MOON - 해와 달의 이야기 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53130</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53130"/>
+        <updated>2021-09-16T03:22:59.533Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 올해의 아티스트 〈연극 무대게임〉 - 대구]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53129</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53116</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53116"/>
         <updated>2021-09-14T09:21:10.915Z</updated>
-        <content type="html"><![CDATA[2021.09.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀멸의 심포니 오케스트라 콘서트  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53115</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53115"/>
-        <updated>2021-09-15T02:31:12.003Z</updated>
         <content type="html"><![CDATA[2021.09.15(수) 05:00]]></content>
     </entry>
 </feed>

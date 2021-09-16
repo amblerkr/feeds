@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-16T01:13:30.517Z</updated>
+    <updated>2021-09-16T03:24:35.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영혼극 [여름호텔을 위한 의상] - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11152&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11152&amp;order=1"/>
+        <updated>2021-09-16T03:22:43.999Z</updated>
+        <content type="html"><![CDATA[2021-09-24(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE FRENCH MUSICAL CONCERT ＂Encore＂ (서울,부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 "앙코르" 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11151&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11143&amp;order=1"/>
         <updated>2021-09-14T10:24:12.252Z</updated>
         <content type="html"><![CDATA[2021-09-15(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best of Blue Note VOL2 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11142&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11142&amp;order=1"/>
-        <updated>2021-09-14T10:24:12.254Z</updated>
-        <content type="html"><![CDATA[2021-09-14(화) 10:00]]></content>
     </entry>
 </feed>
