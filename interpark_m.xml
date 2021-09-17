@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 02:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 03:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈장수상회〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40743</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40743</guid>
+            <pubDate>Fri, 17 Sep 2021 03:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091513104198.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 소프라노 이해원 콘서트＇WITH＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40742</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40742</guid>
+            <pubDate>Fri, 17 Sep 2021 03:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091614220775.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” 추가티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40741</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.09.23
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091517332309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40733</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40733</guid>
-            <pubDate>Thu, 16 Sep 2021 09:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20210916043903.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요요 마 첼로 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40732</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40732</guid>
-            <pubDate>Thu, 16 Sep 2021 09:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008521_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
