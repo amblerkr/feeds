@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-17T05:21:07.331Z</updated>
+    <updated>2021-09-17T06:27:19.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정혜진 클라리넷 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53145</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53145"/>
+        <updated>2021-09-17T06:25:44.143Z</updated>
+        <content type="html"><![CDATA[2021.09.18(토) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 플루티스트 하지현 17번째 리사이틀 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53144</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53144"/>
+        <updated>2021-09-17T06:25:44.143Z</updated>
+        <content type="html"><![CDATA[2021.09.18(토) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 혼 트리오 (HORN TRIO) - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53143</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53131"/>
         <updated>2021-09-16T07:21:52.192Z</updated>
         <content type="html"><![CDATA[2021.09.17(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] SUN & MOON - 해와 달의 이야기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53130</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53130"/>
-        <updated>2021-09-16T03:22:59.533Z</updated>
-        <content type="html"><![CDATA[2021.09.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 올해의 아티스트 〈연극 무대게임〉 - 대구]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53129</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53129"/>
-        <updated>2021-09-15T08:25:48.134Z</updated>
-        <content type="html"><![CDATA[2021.09.17(금) 08:00]]></content>
     </entry>
 </feed>
