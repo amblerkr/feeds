@@ -4,9 +4,24 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Sep 2021 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 08:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIN추]]></title>
+            <link>https://www.vlive.tv/video/263500</link>
+            <guid>https://www.vlive.tv/video/263500</guid>
+            <pubDate>Sun, 19 Sep 2021 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Ciipher] 집밥 문선생🍚]]></title>
+            <link>https://www.vlive.tv/video/263493</link>
+            <guid>https://www.vlive.tv/video/263493</guid>
+            <pubDate>Sun, 19 Sep 2021 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210919_299/16320360600685c0Qw_JPEG/3746660c-1919-11ec-9845-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1년 전 오늘의 PENTAGON] 꾸디의 꾸Sing부스 127초 페이지📚 (KINO’s V a year ago)]]></title>
             <link>https://www.vlive.tv/video/263498</link>
@@ -390,22 +405,6 @@
             <pubDate>Sat, 18 Sep 2021 11:17:57 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210917_136/1631887061262uSui7_JPEG/upload_48131492991163003c17aafbb-5643-4279-945a-9fae023b4645.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑하기 때문에' Covered by 우주소녀 수빈 (WJSN SOOBIN)]]></title>
-            <link>https://www.vlive.tv/video/263136</link>
-            <guid>https://www.vlive.tv/video/263136</guid>
-            <pubDate>Sat, 18 Sep 2021 11:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_144/1631780507989t6TWa_JPEG/1631780329640.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블링블링(Bling Bling)- 유빈(YUBIN) Dance Performance Cover]]></title>
-            <link>https://www.vlive.tv/video/263121</link>
-            <guid>https://www.vlive.tv/video/263121</guid>
-            <pubDate>Sat, 18 Sep 2021 11:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[Bling Bling]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_40/1631777931324trxxp_JPEG/e3fb6c80-16c0-11ec-9d74-a0369ff9545c_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
