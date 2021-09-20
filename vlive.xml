@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 17:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 19:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/263587</guid>
             <pubDate>Mon, 20 Sep 2021 17:22:30 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210921_267/1632163343948Kp2Yd_JPEG/a868a824-1a41-11ec-86ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[즐거운 추석 보내세요^^]]></title>
+            <link>https://www.vlive.tv/video/263588</link>
+            <guid>https://www.vlive.tv/video/263588</guid>
+            <pubDate>Mon, 20 Sep 2021 19:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210921_122/16321627625536x3UJ_JPEG/ad2a1d3f-1a40-11ec-89ce-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배 먹으면서 잠깐]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Mon, 20 Sep 2021 05:20:01 GMT</pubDate>
             <content:encoded><![CDATA[Maroo]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210918_243/1631948117911MTnMd_JPEG/upload_760277932944522405a138d9d-a54d-4034-b965-7f9c59cbc3f2.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조 2021 추석 인사 메시지 (NORAZO Happy Chuseok Greeting)]]></title>
-            <link>https://www.vlive.tv/video/263434</link>
-            <guid>https://www.vlive.tv/video/263434</guid>
-            <pubDate>Mon, 20 Sep 2021 05:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[Maroo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210918_111/1631947790082y5kQ8_JPEG/upload_48217272736529226629ff366-54f5-48fd-a07a-a3a66d2ab073.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
