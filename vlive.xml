@@ -4,15 +4,24 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 17:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 18:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도와주세요ㅠ 음원사이트가 자꾸 끊겨요ㅠ]]></title>
+            <link>https://www.vlive.tv/video/263690</link>
+            <guid>https://www.vlive.tv/video/263690</guid>
+            <pubDate>Wed, 22 Sep 2021 18:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210923_20/1632331877686FeYrR_JPEG/115643353460896522411e2e46-760d-43fb-bc10-530a9bbedf19.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] weneed]]></title>
             <link>https://www.vlive.tv/video/263689</link>
             <guid>https://www.vlive.tv/video/263689</guid>
             <pubDate>Wed, 22 Sep 2021 17:25:45 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210923_129/1632333906142JTw2F_JPEG/4230d7cf-1bcf-11ec-b6bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌹🔥 오랜만이야 투문!]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Wed, 22 Sep 2021 09:21:39 GMT</pubDate>
             <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210918_86/1631895216446WPefz_JPEG/upload_75974934731087103a766d175-4974-4feb-8b61-b798ab8a461c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키비 (Kebee) '침대열차 (Train Bed) (Feat. 범키)' OFFICIAL VISUALIZER]]></title>
-            <link>https://www.vlive.tv/video/263325</link>
-            <guid>https://www.vlive.tv/video/263325</guid>
-            <pubDate>Wed, 22 Sep 2021 09:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_223/16318712700002ULz8_JPEG/1631870204079.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
