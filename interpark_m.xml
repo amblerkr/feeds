@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 01:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 02:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 `일의 기쁨과 슬픔` 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40753</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40753</guid>
+            <pubDate>Thu, 23 Sep 2021 02:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 웰컴대학로-웰컴씨어터 ＇연극 〈올모스트 메인〉＇ 스페셜 토크콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40752</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.09.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008576_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈장수상회〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40743</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40743</guid>
-            <pubDate>Fri, 17 Sep 2021 03:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091513104198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
