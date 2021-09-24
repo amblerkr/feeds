@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-23T20:24:06.017Z</updated>
+    <updated>2021-09-24T02:34:17.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11170&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11170&amp;order=1"/>
+        <updated>2021-09-24T02:32:16.023Z</updated>
+        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11169&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11169&amp;order=1"/>
+        <updated>2021-09-24T02:32:16.025Z</updated>
+        <content type="html"><![CDATA[2021-09-27(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11167&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11160&amp;order=1"/>
         <updated>2021-09-18T23:21:55.877Z</updated>
         <content type="html"><![CDATA[2021-09-27(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 연극 [올모스트 메인] 스페셜 토크콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11159&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11159&amp;order=1"/>
-        <updated>2021-09-18T23:21:55.883Z</updated>
-        <content type="html"><![CDATA[2021-09-30(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 연극 [올모스트 메인] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11158&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11158&amp;order=1"/>
-        <updated>2021-09-18T23:21:55.884Z</updated>
-        <content type="html"><![CDATA[2021-09-23(목) 14:00]]></content>
     </entry>
 </feed>

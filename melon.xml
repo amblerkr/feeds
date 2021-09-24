@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-23T20:24:05.942Z</updated>
+    <updated>2021-09-24T02:34:17.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈옥상달빛 소극장 공연：옥상달빛〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5478</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5478"/>
+        <updated>2021-09-24T02:31:29.215Z</updated>
+        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈헤드윅〉 6차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5476</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5467"/>
         <updated>2021-09-17T03:21:45.230Z</updated>
         <content type="html"><![CDATA[2021.09.17(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AFA 잭킹콩 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5466</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5466"/>
-        <updated>2021-09-17T04:27:26.345Z</updated>
-        <content type="html"><![CDATA[2021.09.27(월) 20:00]]></content>
     </entry>
 </feed>
