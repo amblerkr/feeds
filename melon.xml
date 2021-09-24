@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-24T04:30:43.490Z</updated>
+    <updated>2021-09-24T05:21:51.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［천안］뮤지컬 〈시카고〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5479</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5479"/>
+        <updated>2021-09-24T05:19:07.696Z</updated>
+        <content type="html"><![CDATA[2021.09.28(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈옥상달빛 소극장 공연：옥상달빛〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5478</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[［온라인］2021 윤딴딴의 포스트 인：콘서트·팬미팅·토크쇼·페스티벌 그 어딘가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5470</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5470"/>
-        <updated>2021-09-17T09:20:39.972Z</updated>
-        <content type="html"><![CDATA[2021.09.24(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［오프라인］2021 윤딴딴의 포스트 인：콘서트·팬미팅·토크쇼·페스티벌 그 어딘가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5468</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5468"/>
         <updated>2021-09-17T09:20:39.972Z</updated>
         <content type="html"><![CDATA[2021.09.24(금) 20:00]]></content>
     </entry>
