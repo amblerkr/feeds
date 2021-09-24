@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-24T05:21:51.419Z</updated>
+    <updated>2021-09-24T06:28:43.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 장윤정 라이브 콘서트 - 수원 티켓 재오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53157</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53157"/>
+        <updated>2021-09-24T06:26:56.146Z</updated>
+        <content type="html"><![CDATA[2021.09.27(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” – 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53156</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53156"/>
+        <updated>2021-09-24T06:26:56.149Z</updated>
+        <content type="html"><![CDATA[2021.09.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일의 기쁨과 슬픔 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53155</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53143"/>
         <updated>2021-09-17T05:20:05.633Z</updated>
         <content type="html"><![CDATA[2021.09.18(토) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​트레이스 유〉​ 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53142</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53142"/>
-        <updated>2021-09-17T05:20:05.633Z</updated>
-        <content type="html"><![CDATA[2021.09.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 KCM 단독콘서트 '오늘도 맑음'  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53141</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53141"/>
-        <updated>2021-09-17T05:20:05.638Z</updated>
-        <content type="html"><![CDATA[2021.09.23(목) 09:00]]></content>
     </entry>
 </feed>

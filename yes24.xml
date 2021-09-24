@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-24T05:21:51.396Z</updated>
+    <updated>2021-09-24T06:28:43.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11171</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11171"/>
+        <updated>2021-09-24T06:25:47.520Z</updated>
+        <content type="html"><![CDATA[2021.09.28(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11170</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11152"/>
         <updated>2021-09-18T23:21:27.682Z</updated>
         <content type="html"><![CDATA[2021.09.24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE FRENCH MUSICAL CONCERT ＂Encore＂ (서울,부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 "앙..]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11151</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11151"/>
-        <updated>2021-09-18T23:21:27.685Z</updated>
-        <content type="html"><![CDATA[2021.09.17(금) 15:00]]></content>
     </entry>
 </feed>

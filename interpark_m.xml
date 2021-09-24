@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 05:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 06:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40781</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40781</guid>
+            <pubDate>Fri, 24 Sep 2021 06:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40780</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40780</guid>
+            <pubDate>Fri, 24 Sep 2021 06:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092316075032.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 `노트르담 드 파리` 프렌치 오리지널 - 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40779</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.09.27
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092313533827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 서동미 리사이틀 〈삶, 그 찬란함〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40771</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40771</guid>
-            <pubDate>Fri, 24 Sep 2021 02:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－창원 앵콜 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40770</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40770</guid>
-            <pubDate>Fri, 24 Sep 2021 02:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092316002835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

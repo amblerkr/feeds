@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-24T05:21:51.414Z</updated>
+    <updated>2021-09-24T06:28:43.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제8회 해운대재즈페스티벌 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11171&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11171&amp;order=1"/>
+        <updated>2021-09-24T06:26:36.762Z</updated>
+        <content type="html"><![CDATA[2021-09-28(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11170&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11162&amp;order=1"/>
         <updated>2021-09-18T23:21:55.875Z</updated>
         <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 [로봇걸] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11161&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11161&amp;order=1"/>
-        <updated>2021-09-18T23:21:55.875Z</updated>
-        <content type="html"><![CDATA[2021-09-23(목) 11:00]]></content>
     </entry>
 </feed>
