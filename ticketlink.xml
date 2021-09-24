@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-24T07:22:12.208Z</updated>
+    <updated>2021-09-24T09:23:19.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［뮤지컬, 바람이 불어오는 곳］1차 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53161</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53161"/>
+        <updated>2021-09-24T09:21:25.115Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.29(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈​광화문연가〉 - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53160</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53160"/>
+        <updated>2021-09-24T09:21:25.117Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.27(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53159</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53159"/>
+        <updated>2021-09-24T09:21:25.122Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.28(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 `노트르담 드 파리` 프렌치 오리지널 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53158</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53147"/>
         <updated>2021-09-20T04:28:23.280Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.23(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 단테, 베아트리체를 만나다 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53146</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53146"/>
-        <updated>2021-09-17T09:21:30.311Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.18(토) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 정혜진 클라리넷 독주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53145</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53145"/>
-        <updated>2021-09-17T06:25:34.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.18(토) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 플루티스트 하지현 17번째 리사이틀 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53144</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53144"/>
-        <updated>2021-09-17T06:25:34.764Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.18(토) 06:00]]></content>
     </entry>
 </feed>
