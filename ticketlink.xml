@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-25T07:26:07.019Z</updated>
+    <updated>2021-09-25T08:26:31.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 비규어스 댄스컴퍼니［얼이섞다］- 포항​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53163</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53163"/>
+        <updated>2021-09-25T08:24:40.021Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트롯뮤지컬［미스타 호야］- 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53162</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53149"/>
         <updated>2021-09-20T08:25:39.905Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.27(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 대구경북 발레페스티벌 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53148</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53148"/>
-        <updated>2021-09-20T05:19:46.466Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.27(월) 00:00]]></content>
     </entry>
 </feed>
