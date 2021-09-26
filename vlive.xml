@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 16:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 17:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[masa]]></title>
+            <link>https://www.vlive.tv/video/264105</link>
+            <guid>https://www.vlive.tv/video/264105</guid>
+            <pubDate>Sun, 26 Sep 2021 17:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210927_185/1632675337149E7g2H_JPEG/upload_76755040964990183b6a7bb74-a40d-416a-a1e7-40cb9a81f290.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA]]></title>
             <link>https://www.vlive.tv/video/264099</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 25 Sep 2021 17:22:48 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210926_137/16325936493625AH0l_JPEG/95259d68-1e2b-11ec-8678-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[masa]]></title>
-            <link>https://www.vlive.tv/video/264058</link>
-            <guid>https://www.vlive.tv/video/264058</guid>
-            <pubDate>Sat, 25 Sep 2021 17:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210926_219/1632589405647NG6hO_JPEG/upload_7666911725227078037dc519a-24c1-449c-9897-8d8958c43dae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
