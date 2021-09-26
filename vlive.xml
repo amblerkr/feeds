@@ -4,9 +4,16 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 06:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 07:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모여라~]]></title>
+            <link>https://www.vlive.tv/video/264070</link>
+            <guid>https://www.vlive.tv/video/264070</guid>
+            <pubDate>Sun, 26 Sep 2021 07:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[DIA]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - KEY : ‘GROKS IN THE KEYLAND’]]></title>
             <link>https://www.vlive.tv/video/261117</link>
@@ -398,14 +405,6 @@
             <pubDate>Sun, 26 Sep 2021 05:19:39 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210925_172/1632567610573zgJM8_JPEG/1632565720580.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[P.S.NOTE] 퍼플키스(PURPLE KISS) 'Zombie' MV Behind #1]]></title>
-            <link>https://www.vlive.tv/video/264024</link>
-            <guid>https://www.vlive.tv/video/264024</guid>
-            <pubDate>Sun, 26 Sep 2021 05:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210925_154/16325651475243LiJ1_JPEG/upload_48834749032279907307d7ef2-28db-4d78-8a6c-adfadd4be603.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
