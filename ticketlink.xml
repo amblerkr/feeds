@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-27T08:27:43.503Z</updated>
+    <updated>2021-09-27T09:25:46.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을 밤, 가곡의 향기 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53178</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53178"/>
+        <updated>2021-09-27T09:23:51.780Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.28(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제8회 이데일리 문화대상 시상식 –Awards & gala- 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53177</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53164"/>
         <updated>2021-09-25T09:22:36.610Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.27(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 비규어스 댄스컴퍼니［얼이섞다］- 포항​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53163</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53163"/>
-        <updated>2021-09-25T08:24:40.021Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.28(화) 05:00]]></content>
     </entry>
 </feed>
