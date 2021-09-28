@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-28T05:21:31.816Z</updated>
+    <updated>2021-09-28T06:30:01.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．7 〈윤한〉－ 온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5482</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5482"/>
+        <updated>2021-09-28T06:27:30.490Z</updated>
+        <content type="html"><![CDATA[2021.09.30(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잭킹콩 ＆ 오프더메뉴 합동 공연［JKCOTM］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5481</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5473"/>
         <updated>2021-09-23T03:22:08.066Z</updated>
         <content type="html"><![CDATA[2021.09.30(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YongYong：RED STATION＃5 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5472</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5472"/>
-        <updated>2021-09-23T03:22:08.068Z</updated>
-        <content type="html"><![CDATA[2021.09.28(화) 20:00]]></content>
     </entry>
 </feed>
