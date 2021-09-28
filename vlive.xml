@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 13:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 14:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/264310</guid>
             <pubDate>Tue, 28 Sep 2021 13:27:07 GMT</pubDate>
             <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210928_35/1632838331651n9rYK_JPEG/67c19c89-2065-11ec-8e61-a0369ff94f34_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김.보.라<김재현의 보이는 라디오>]]></title>
+            <link>https://www.vlive.tv/video/264314</link>
+            <guid>https://www.vlive.tv/video/264314</guid>
+            <pubDate>Tue, 28 Sep 2021 14:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안뇽!!]]></title>
@@ -396,14 +404,6 @@
             <pubDate>Tue, 28 Sep 2021 05:20:01 GMT</pubDate>
             <content:encoded><![CDATA[LOVELYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210927_9/1632741787903fndLk_JPEG/upload_76821397170788652db04df37-589c-4bf4-bf5d-4c564348d13d.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 18년차 로마 여행가이드 부부, 코시국에 놀면 뭐하니? 신종 밥벌이 공개!, MBC 210928 방송]]></title>
-            <link>https://www.vlive.tv/video/264235</link>
-            <guid>https://www.vlive.tv/video/264235</guid>
-            <pubDate>Tue, 28 Sep 2021 06:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210928_268/1632818367491YdPqa_JPEG/upload_49087968613971090dfdf9258-fe58-48ec-84ed-572e05a6526d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
