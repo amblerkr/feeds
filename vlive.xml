@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 17:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 18:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,15 @@
             <guid>https://www.vlive.tv/video/264320</guid>
             <pubDate>Tue, 28 Sep 2021 17:27:32 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210929_50/1632852632815aC3YH_JPEG/ad0adf18-2086-11ec-9845-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠못드는밤에 (오늘은 진지충)]]></title>
+            <link>https://www.vlive.tv/video/264322</link>
+            <guid>https://www.vlive.tv/video/264322</guid>
+            <pubDate>Tue, 28 Sep 2021 18:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210929_112/16328507530086hUGv_JPEG/1456391469958956719a362587-837a-4a02-91c5-c2bdf2c03696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[얘기할용훈😡]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Tue, 28 Sep 2021 09:23:56 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210928_76/1632754892582mErUW_JPEG/upload_7683460589853344882fb88f8-41de-41ff-afee-0fb326d57238.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ENG] 미공개 잎새 EP.01 | N터뷰 자서전편📖 | 웹에서 귀여운 하루에 대해 찾은 결과입니다.]]></title>
-            <link>https://www.vlive.tv/video/264194</link>
-            <guid>https://www.vlive.tv/video/264194</guid>
-            <pubDate>Tue, 28 Sep 2021 09:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[NATURE(네이처)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210927_245/16327385236745LI0z_JPEG/upload_76818227743954844fcae833d-32f7-43fa-b8ff-e38d2112c6cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
