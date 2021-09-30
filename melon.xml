@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-30T05:23:57.116Z</updated>
+    <updated>2021-09-30T06:30:25.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -13,7 +13,14 @@
         <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，3차 티켓 오픈！（Musical Hadestown）]]></title>
+        <title type="html"><![CDATA[슈가레코드 레이블데이 공연 Vol．2 엔분의일 단독공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5495</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5495"/>
+        <updated>2021-09-30T06:27:54.108Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，4차 티켓 오픈！（Musical Hadestown）]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5494</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5494"/>
         <updated>2021-09-30T05:21:22.959Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5486"/>
         <updated>2021-09-29T03:22:20.497Z</updated>
         <content type="html"><![CDATA[2021.10.06(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까데호 x 다브다 투어－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5485</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5485"/>
-        <updated>2021-09-29T03:22:20.502Z</updated>
-        <content type="html"><![CDATA[2021.09.30(목) 12:00]]></content>
     </entry>
 </feed>
