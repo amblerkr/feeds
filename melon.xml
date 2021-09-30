@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-30T07:23:11.464Z</updated>
+    <updated>2021-09-30T08:26:55.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5500</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5500"/>
+        <updated>2021-09-30T08:24:32.387Z</updated>
+        <content type="html"><![CDATA[2021.10.07(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST：전율 정동하 X 소 향－서울 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5497</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5488"/>
         <updated>2021-09-28T09:22:49.184Z</updated>
         <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 배우 김소향 콘서트 〈향：하다〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5487</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5487"/>
-        <updated>2021-09-29T05:19:18.107Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 14:00]]></content>
     </entry>
 </feed>
