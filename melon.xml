@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-09-30T02:39:27.514Z</updated>
+    <updated>2021-09-30T03:24:38.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5493"/>
         <updated>2021-09-30T02:36:55.556Z</updated>
         <content type="html"><![CDATA[2021.10.01(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2021，멜로우키친의 Autumn Concert］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5492</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5492"/>
+        <updated>2021-09-30T03:22:32.550Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－김마리 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5491</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5491"/>
+        <updated>2021-09-30T03:22:32.550Z</updated>
+        <content type="html"><![CDATA[2021.10.07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYHOOD（남동현）단독 콘서트：＃4 DREAM 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5490</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5490"/>
+        <updated>2021-09-30T03:22:32.554Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사운드바이사운드＿소란X데이브레이크 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5483"/>
         <updated>2021-09-29T03:22:20.509Z</updated>
         <content type="html"><![CDATA[2021.09.30(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol．7 〈윤한〉－ 온라인 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5482</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5482"/>
-        <updated>2021-09-28T06:27:30.490Z</updated>
-        <content type="html"><![CDATA[2021.09.30(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잭킹콩 ＆ 오프더메뉴 합동 공연［JKCOTM］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5481</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5481"/>
-        <updated>2021-09-27T05:19:48.968Z</updated>
-        <content type="html"><![CDATA[2021.09.29(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈가레코드 레이블데이 공연 Vol．1 당기시오 단독공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5480</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5480"/>
-        <updated>2021-09-24T06:25:10.070Z</updated>
-        <content type="html"><![CDATA[2021.09.27(월) 20:00]]></content>
     </entry>
 </feed>
