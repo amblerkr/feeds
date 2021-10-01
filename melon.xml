@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-01T09:25:51.362Z</updated>
+    <updated>2021-10-01T10:28:10.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5497"/>
         <updated>2021-09-30T05:21:22.959Z</updated>
         <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정코 첫번째 단독공연［NEVERLAND］Encore concert 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5496</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5496"/>
+        <updated>2021-10-01T10:25:47.654Z</updated>
+        <content type="html"><![CDATA[2021.10.04(월) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈가레코드 레이블데이 공연 Vol．2 엔분의일 단독공연 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5491"/>
         <updated>2021-09-30T03:22:32.550Z</updated>
         <content type="html"><![CDATA[2021.10.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYHOOD（남동현）단독 콘서트：＃4 DREAM 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5490</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5490"/>
-        <updated>2021-09-30T03:22:32.554Z</updated>
-        <content type="html"><![CDATA[2021.10.06(수) 20:00]]></content>
     </entry>
 </feed>
