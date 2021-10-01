@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-01T02:43:54.645Z</updated>
+    <updated>2021-10-01T03:25:13.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5500"/>
         <updated>2021-09-30T08:24:32.387Z</updated>
         <content type="html"><![CDATA[2021.10.07(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정유진 단독 콘서트：휴식 시간（Time To Rest）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5498</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5498"/>
+        <updated>2021-10-01T03:22:31.396Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST：전율 정동하 X 소 향－서울 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5489"/>
         <updated>2021-09-30T07:20:21.868Z</updated>
         <content type="html"><![CDATA[2021.10.01(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사운드바이사운드＿소란X데이브레이크 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5488</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5488"/>
-        <updated>2021-09-28T09:22:49.184Z</updated>
-        <content type="html"><![CDATA[2021.10.05(화) 14:00]]></content>
     </entry>
 </feed>
