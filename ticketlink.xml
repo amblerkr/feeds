@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-05T06:28:18.203Z</updated>
+    <updated>2021-10-05T07:22:50.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 스냅(SNAP) - 삼척 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53225</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53225"/>
+        <updated>2021-10-05T07:21:10.061Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 제187회 정기연주회 '맛깔난 우리 식탁' ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53224</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53210"/>
         <updated>2021-10-01T07:23:44.799Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​시카고〉​ - 안동​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53209</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53209"/>
-        <updated>2021-10-01T07:23:44.799Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.07(목) 05:00]]></content>
     </entry>
 </feed>
