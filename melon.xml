@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-05T01:13:43.868Z</updated>
+    <updated>2021-10-05T02:33:57.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5505"/>
         <updated>2021-10-05T01:10:58.288Z</updated>
         <content type="html"><![CDATA[2021.10.13(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 1차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5504</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5504"/>
+        <updated>2021-10-05T02:31:17.927Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RE：SPES ANDONG 2021x롤링홀 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5495"/>
         <updated>2021-09-30T06:27:54.108Z</updated>
         <content type="html"><![CDATA[2021.10.01(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，4차 티켓 오픈！（Musical Hadestown）]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5494</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5494"/>
-        <updated>2021-09-30T05:21:22.959Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 14:00]]></content>
     </entry>
 </feed>
