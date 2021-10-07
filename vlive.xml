@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 17:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 18:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4K] "The Feels" The Tonight Show Starring Jimmy Fallon]]></title>
+            <link>https://www.vlive.tv/video/265244</link>
+            <guid>https://www.vlive.tv/video/265244</guid>
+            <pubDate>Thu, 07 Oct 2021 18:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211008_18/16336296837863gh2k_PNG/1633619382569.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[🌙🥒]]></title>
             <link>https://www.vlive.tv/video/265243</link>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 07 Oct 2021 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211007_293/1633595799880RuxC7_JPEG/upload_775029261291144973d3087cf-0bd9-4002-b82a-972e47d4157a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#BAE173] ☕]]></title>
-            <link>https://www.vlive.tv/video/265185</link>
-            <guid>https://www.vlive.tv/video/265185</guid>
-            <pubDate>Thu, 07 Oct 2021 10:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[BAE173]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211007_154/1633599063272V53Dg_JPEG/325744299056146107df2f200-71d8-4fc9-b482-a3853530fa79.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
