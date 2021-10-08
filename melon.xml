@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-08T07:25:34.425Z</updated>
+    <updated>2021-10-08T08:30:43.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5522"/>
         <updated>2021-10-08T04:27:33.603Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최유리 EP 앨범 발매기념 콘서트 ‘여정’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5520</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5520"/>
+        <updated>2021-10-08T08:28:13.104Z</updated>
+        <content type="html"><![CDATA[2021.10.12(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈가레코드 레이블데이 콘서트 Vol．3 달에닿아 단독공연 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5512"/>
         <updated>2021-10-06T04:27:24.216Z</updated>
         <content type="html"><![CDATA[2021.10.13(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5511</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5511"/>
-        <updated>2021-10-05T08:25:49.339Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 15:00]]></content>
     </entry>
 </feed>
