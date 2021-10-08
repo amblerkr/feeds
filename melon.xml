@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-08T05:22:16.470Z</updated>
+    <updated>2021-10-08T06:27:53.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5522"/>
         <updated>2021-10-08T04:27:33.603Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈가레코드 레이블데이 콘서트 Vol．3 달에닿아 단독공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5519</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5519"/>
+        <updated>2021-10-08T06:25:22.582Z</updated>
+        <content type="html"><![CDATA[2021.10.13(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투데이올드스니커즈 첫번째 단독 콘서트［여기서 빛난다］티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5511"/>
         <updated>2021-10-05T08:25:49.339Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 ＜아일랜더＞ 추가티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5510</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5510"/>
-        <updated>2021-10-05T07:20:18.012Z</updated>
-        <content type="html"><![CDATA[2021.10.06(수) 16:00]]></content>
     </entry>
 </feed>
