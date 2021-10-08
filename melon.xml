@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-08T08:30:43.023Z</updated>
+    <updated>2021-10-08T09:23:14.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5522"/>
         <updated>2021-10-08T04:27:33.603Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모트 단독공연［소중함에 대하여］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5521</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5521"/>
+        <updated>2021-10-08T09:20:41.486Z</updated>
+        <content type="html"><![CDATA[2021.10.13(수) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최유리 EP 앨범 발매기념 콘서트 ‘여정’ 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5513"/>
         <updated>2021-10-06T05:22:01.445Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌4［히미츠 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5512</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5512"/>
-        <updated>2021-10-06T04:27:24.216Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 20:00]]></content>
     </entry>
 </feed>
