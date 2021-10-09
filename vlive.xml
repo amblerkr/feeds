@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 17:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 18:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/265452</guid>
             <pubDate>Sat, 09 Oct 2021 17:23:18 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211010_169/1633803046654JVMEJ_JPEG/85a4df0f-292b-11ec-a0d8-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[😴]]></title>
+            <link>https://www.vlive.tv/video/265453</link>
+            <guid>https://www.vlive.tv/video/265453</guid>
+            <pubDate>Sat, 09 Oct 2021 18:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[엘리스(ELRIS)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep.127]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 09 Oct 2021 06:25:46 GMT</pubDate>
             <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211009_280/1633758984092AEIEX_PNG/upload_77838699139655830bac0d31c-7609-4aab-b7fd-10a4f13a303c.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 의뢰인 마음에 빵야빵야🔫 송지인 코디의 뚜두뚜두 댄스 in 블링핑크 하우스♡, MBC 211010 방송]]></title>
-            <link>https://www.vlive.tv/video/265408</link>
-            <guid>https://www.vlive.tv/video/265408</guid>
-            <pubDate>Sat, 09 Oct 2021 05:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211009_266/1633756672637RtsQS_JPEG/upload_50026183751774400e3f8d9c2-f908-4fe3-9bc4-739351175ef2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
