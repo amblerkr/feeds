@@ -4,15 +4,32 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 06:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 07:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만나러 왔어♡♡]]></title>
+            <link>https://www.vlive.tv/video/265413</link>
+            <guid>https://www.vlive.tv/video/265413</guid>
+            <pubDate>Sat, 09 Oct 2021 07:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211009_181/16337620846421MAx6_JPEG/273798609276860230b347429-014a-4b58-9dd8-a5e972ede29d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EVERGLOW in 경주💕 (아시아송페스티벌)]]></title>
             <link>https://www.vlive.tv/video/265410</link>
             <guid>https://www.vlive.tv/video/265410</guid>
             <pubDate>Sat, 09 Oct 2021 06:25:46 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211009_57/1633761649570GGmYK_JPEG/d20ffa4c-28ca-11ec-b820-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MGX [ 메가맥스 ] GLOBAL CULTURE - HIJAB ( TIKTOK )]]></title>
+            <link>https://www.vlive.tv/video/265411</link>
+            <guid>https://www.vlive.tv/video/265411</guid>
+            <pubDate>Sat, 09 Oct 2021 07:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[MEGAMAX [ MGX ]]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211009_30/1633761450506JuGnG_PNG/upload_77841090870072323fbd0b2bd-157d-40aa-9b66-08ca30d71a30.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[N.Flying 'TURBULENCE' COMEBACK TALKSHOW 'Sober']]></title>
@@ -389,22 +406,6 @@
             <pubDate>Fri, 08 Oct 2021 13:26:41 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211008_214/1633699544684bgwNl_JPEG/1633684604210.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[26th BIFF][김혜윤:Kim Hye Yoon] "혜영役 통해 반성도하고, 에너지도 얻었다"]]></title>
-            <link>https://www.vlive.tv/video/265369</link>
-            <guid>https://www.vlive.tv/video/265369</guid>
-            <pubDate>Fri, 08 Oct 2021 13:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211008_270/1633699518072zyqNy_JPEG/1633687377852.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[26th BIFF][이제훈:Lee Je hoon] "정해인(Jung Hae in) 통해 감독의 캐스팅기쁨 알게됐다"]]></title>
-            <link>https://www.vlive.tv/video/265368</link>
-            <guid>https://www.vlive.tv/video/265368</guid>
-            <pubDate>Fri, 08 Oct 2021 13:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211008_27/1633699471330wl45m_JPEG/1633684611823.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
