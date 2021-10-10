@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 18:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 20:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠못드는밤에(아무말대잔치)]]></title>
+            <link>https://www.vlive.tv/video/265515</link>
+            <guid>https://www.vlive.tv/video/265515</guid>
+            <pubDate>Sun, 10 Oct 2021 20:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211011_257/1633890944202jl2Gt_JPEG/146766608173209146c09d6efe-1f5e-4126-9da9-b7ae28f1270e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이…!?]]></title>
             <link>https://www.vlive.tv/video/265492</link>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 10 Oct 2021 09:21:31 GMT</pubDate>
             <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211010_23/1633857080444HUqPQ_JPEG/a4b80da2-29a9-11ec-b565-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무래도 전학을 잘못 온 것 같다 [유튜버 클라쓰 시즌2] TEASER | 10월 17일 오후6시 첫공개]]></title>
-            <link>https://www.vlive.tv/video/265278</link>
-            <guid>https://www.vlive.tv/video/265278</guid>
-            <pubDate>Sun, 10 Oct 2021 09:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[콬TV (WHYNOT)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211008_134/1633668364416qaVRY_PNG/1633667966301.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
