@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 16:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이…!?]]></title>
+            <link>https://www.vlive.tv/video/265492</link>
+            <guid>https://www.vlive.tv/video/265492</guid>
+            <pubDate>Sun, 10 Oct 2021 17:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211011_111/1633886257031ejym3_JPEG/04d28df0-29e5-11ec-b820-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스엔TV] '2021 강남 페스티벌' 영동대로 KPOP 콘서트(포토타임 풀영상)]]></title>
             <link>https://www.vlive.tv/video/265514</link>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 10 Oct 2021 09:21:31 GMT</pubDate>
             <content:encoded><![CDATA[콬TV (WHYNOT)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211008_134/1633668364416qaVRY_PNG/1633667966301.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 얘기 좀 합시다 #114]]></title>
-            <link>https://www.vlive.tv/video/265462</link>
-            <guid>https://www.vlive.tv/video/265462</guid>
-            <pubDate>Sun, 10 Oct 2021 08:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211010_117/1633854428948u2vIY_JPEG/60f062a1-29a2-11ec-8e56-a0369ff94f34_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
