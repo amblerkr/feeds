@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-11T01:14:31.026Z</updated>
+    <updated>2021-10-11T03:24:15.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Synopsis ∼climax∼ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5525</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5525"/>
+        <updated>2021-10-11T03:22:22.646Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헨델의 꿈꾸는 다락방 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5522</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5514"/>
         <updated>2021-10-06T05:22:01.441Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈카포네 트릴로지〉 마지막 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5513</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5513"/>
-        <updated>2021-10-06T05:22:01.445Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
     </entry>
 </feed>
