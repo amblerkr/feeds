@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-12T05:21:41.233Z</updated>
+    <updated>2021-10-12T07:25:11.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－전주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5533</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5533"/>
+        <updated>2021-10-12T07:22:46.006Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕？손호영 〈Hello？SHY〉－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5530</id>
@@ -18,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5529"/>
         <updated>2021-10-12T03:22:16.895Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．8 〈임세모〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5528</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5528"/>
+        <updated>2021-10-12T07:22:46.006Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［2021，Autumn Fanmeeting with 리누］ 티켓 오픈 안내]]></title>
@@ -41,6 +55,13 @@
         <content type="html"><![CDATA[2021.10.14(목) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10 YEARS OF ARCHIVE，DOCUMENTED BY MAGAZINE B 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5524</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5524"/>
+        <updated>2021-10-12T07:22:46.014Z</updated>
+        <content type="html"><![CDATA[2021.10.12(화) 16:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프리즘브레이크 vol．11：권나무 x 이설아 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5523</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5523"/>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5522"/>
         <updated>2021-10-08T04:27:33.603Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모트 단독공연［소중함에 대하여］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5521</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5521"/>
-        <updated>2021-10-08T09:20:41.486Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최유리 EP 앨범 발매기념 콘서트 ‘여정’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5520</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5520"/>
-        <updated>2021-10-08T08:28:13.104Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈가레코드 레이블데이 콘서트 Vol．3 달에닿아 단독공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5519</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5519"/>
-        <updated>2021-10-08T06:25:22.582Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 20:00]]></content>
     </entry>
 </feed>
