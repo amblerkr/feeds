@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-12T10:28:28.573Z</updated>
+    <updated>2021-10-12T12:37:05.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5533"/>
         <updated>2021-10-12T07:22:46.006Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문효진 〈바람이 된 피아노〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5532</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5532"/>
+        <updated>2021-10-12T12:34:02.249Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안녕？손호영 〈Hello？SHY〉－부산 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5523"/>
         <updated>2021-10-12T05:19:09.426Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헨델의 꿈꾸는 다락방 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5522</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5522"/>
-        <updated>2021-10-08T04:27:33.603Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 12:00]]></content>
     </entry>
 </feed>
