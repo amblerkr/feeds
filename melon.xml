@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-13T02:37:37.131Z</updated>
+    <updated>2021-10-13T03:27:36.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5532"/>
         <updated>2021-10-12T12:34:02.249Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5531"/>
+        <updated>2021-10-13T03:25:00.384Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안녕？손호영 〈Hello？SHY〉－부산 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5524"/>
         <updated>2021-10-12T07:22:46.014Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리즘브레이크 vol．11：권나무 x 이설아 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5523</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5523"/>
-        <updated>2021-10-12T05:19:09.426Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 19:00]]></content>
     </entry>
 </feed>
