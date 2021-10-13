@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-13T04:30:36.379Z</updated>
+    <updated>2021-10-13T05:23:45.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈！]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5536"/>
+        <updated>2021-10-13T05:21:28.795Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－전주 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5533</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5525"/>
         <updated>2021-10-11T03:22:22.646Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 YEARS OF ARCHIVE，DOCUMENTED BY MAGAZINE B 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5524</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5524"/>
-        <updated>2021-10-12T07:22:46.014Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 16:00]]></content>
     </entry>
 </feed>
