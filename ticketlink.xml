@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-13T06:28:12.971Z</updated>
+    <updated>2021-10-13T07:24:52.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 달서청년연극제 <버지니아 그레이의 초상> - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <커튼 콜> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53293</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53293"/>
+        <updated>2021-10-13T07:23:13.254Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <찬란한 여름> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53292</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53292"/>
+        <updated>2021-10-13T07:23:13.254Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <버지니아 그레이의 초상> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53291</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53291"/>
         <updated>2021-10-13T06:26:20.838Z</updated>
@@ -80,7 +94,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53281</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53281"/>
         <updated>2021-10-13T01:13:09.672Z</updated>
-        <content type="html"><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53281">세종문화회관 네트워크 작업(10/21)으로 인한 일부 서비스 제한 안내</a></td><td>2021.10.13</td><td class="ff_tahoma fs11">51</td>]]></content>
+        <content type="html"><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53281">세종문화회관 네트워크 작업(10/21)으로 인한 일부 서비스 제한 안내</a></td><td>2021.10.13</td><td class="ff_tahoma fs11">55</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 갈라 콘서트 <빛나는 별들의 목소리> - 대구 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53279"/>
         <updated>2021-10-13T01:13:09.681Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​트레이스 유〉​ 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53278</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53278"/>
-        <updated>2021-10-12T10:26:41.060Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탱고와 뮤지컬의 만남 - 대구​  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53277</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53277"/>
-        <updated>2021-10-12T10:26:41.060Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.13(수) 01:00]]></content>
     </entry>
 </feed>

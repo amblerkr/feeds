@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-13T06:28:12.970Z</updated>
+    <updated>2021-10-13T07:24:52.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5535"/>
         <updated>2021-10-13T06:25:29.247Z</updated>
         <content type="html"><![CDATA[2021.10.18(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[persona 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5534</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5534"/>
+        <updated>2021-10-13T07:22:32.250Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－전주 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5527"/>
         <updated>2021-10-12T03:22:16.897Z</updated>
         <content type="html"><![CDATA[2021.10.13(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021，Blue Fanmeeting with 윤시윤］ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5526</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5526"/>
-        <updated>2021-10-12T03:22:16.899Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 12:00]]></content>
     </entry>
 </feed>
