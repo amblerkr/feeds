@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-14T06:28:14.106Z</updated>
+    <updated>2021-10-14T07:23:18.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [특별기획 : 개관 30주년] 12Cellists - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53303</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53303"/>
+        <updated>2021-10-14T07:21:30.937Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 갈라 콘서트 <빛나는 별들의 목소리> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53302</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/53289</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53289"/>
         <updated>2021-10-13T03:25:50.348Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [현악사중주 ④] 리수스 콰르텟-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53288</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53288"/>
-        <updated>2021-10-13T03:25:50.350Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content>
     </entry>
 </feed>
