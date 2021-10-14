@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-14T05:21:38.038Z</updated>
+    <updated>2021-10-14T06:28:14.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5541"/>
         <updated>2021-10-14T02:35:11.661Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈가레코드 레이블데이 콘서트 Vol．4 앵콜 조인트 공연（달에닿아，엔분의일，당기시오）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5539</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5539"/>
+        <updated>2021-10-14T06:25:25.258Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［2021 가을 나눔콘서트 ‘OK’］티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5531"/>
         <updated>2021-10-13T03:25:00.384Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕？손호영 〈Hello？SHY〉－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5530</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5530"/>
-        <updated>2021-10-12T03:22:16.894Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
     </entry>
 </feed>
