@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-15T08:32:41.597Z</updated>
+    <updated>2021-10-15T09:23:26.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5543"/>
         <updated>2021-10-15T02:33:17.838Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레인보우 노트 단독공연［Animation］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5542</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5542"/>
+        <updated>2021-10-15T09:20:44.246Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－대전 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5534"/>
         <updated>2021-10-13T07:22:32.250Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－전주 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5533</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5533"/>
-        <updated>2021-10-12T07:22:46.006Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
     </entry>
 </feed>
