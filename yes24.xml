@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-14T23:24:15.162Z</updated>
+    <updated>2021-10-15T01:16:15.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민연극 [라이어1탄] - 창원 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11224"/>
+        <updated>2021-10-15T01:14:01.916Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11223</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11204"/>
         <updated>2021-10-08T04:28:00.911Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [소품 호텔] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203"/>
-        <updated>2021-10-07T08:28:10.693Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 13:00]]></content>
     </entry>
 </feed>

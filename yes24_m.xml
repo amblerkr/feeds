@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-14T23:24:15.158Z</updated>
+    <updated>2021-10-15T01:16:15.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민연극 [라이어1탄] - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11224&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11224&amp;order=1"/>
+        <updated>2021-10-15T01:14:12.770Z</updated>
+        <content type="html"><![CDATA[2021-10-22(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 4차 티켓 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11223&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11211&amp;order=1"/>
         <updated>2021-10-12T07:23:23.511Z</updated>
         <content type="html"><![CDATA[2021-10-14(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유미 연말 콘서트 〈Let's just live today〉티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1"/>
-        <updated>2021-10-12T01:13:34.029Z</updated>
-        <content type="html"><![CDATA[2021-10-15(금) 17:00]]></content>
     </entry>
 </feed>
