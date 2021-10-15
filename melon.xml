@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-15T01:16:15.799Z</updated>
+    <updated>2021-10-15T02:35:51.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼밴드2 콘서트－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5543</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5543"/>
+        <updated>2021-10-15T02:33:17.838Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－대전 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5541</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5533"/>
         <updated>2021-10-12T07:22:46.006Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문효진 〈바람이 된 피아노〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5532</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5532"/>
-        <updated>2021-10-12T12:34:02.249Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
     </entry>
 </feed>
