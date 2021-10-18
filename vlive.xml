@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 17:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 18:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자기전에 잠깐 와봐써]]></title>
+            <link>https://www.vlive.tv/video/266246</link>
+            <guid>https://www.vlive.tv/video/266246</guid>
+            <pubDate>Mon, 18 Oct 2021 18:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211019_67/1634573393377FQBUA_JPEG/1178848691224648812cdaf18c-39fe-4b7f-b9fd-391ba307c19c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🤔😙]]></title>
             <link>https://www.vlive.tv/video/266245</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 18 Oct 2021 10:25:44 GMT</pubDate>
             <content:encoded><![CDATA[N.O.M]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211018_288/16345510046618ha69_JPEG/a7273784-2ff9-11ec-8636-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이진혁:Lee Jinhyuk] 일? 사랑? 그것이 문제! 'Work Work(워크 워크)' 첫무대]]></title>
-            <link>https://www.vlive.tv/video/266206</link>
-            <guid>https://www.vlive.tv/video/266206</guid>
-            <pubDate>Mon, 18 Oct 2021 10:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211018_172/1634550161822MczYd_JPEG/1634550101984.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
