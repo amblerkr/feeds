@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-18T01:18:28.099Z</updated>
+    <updated>2021-10-18T02:39:15.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1"/>
+        <updated>2021-10-18T02:37:28.749Z</updated>
+        <content type="html"><![CDATA[2021-10-22(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11228&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11218&amp;order=1"/>
         <updated>2021-10-13T05:22:01.181Z</updated>
         <content type="html"><![CDATA[2021-10-20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 노래인생 60년 기념 이미자 음악회 취소안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1"/>
-        <updated>2021-10-12T07:23:23.507Z</updated>
     </entry>
 </feed>
