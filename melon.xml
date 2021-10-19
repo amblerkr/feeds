@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-19T07:25:16.612Z</updated>
+    <updated>2021-10-19T08:28:01.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5551"/>
+        <updated>2021-10-19T08:25:28.093Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 적재 전국투어 ‘서로의 서로’－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5550</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5542"/>
         <updated>2021-10-15T09:20:44.246Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－대전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5541</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5541"/>
-        <updated>2021-10-14T02:35:11.661Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
     </entry>
 </feed>
