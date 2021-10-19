@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-19T04:30:12.969Z</updated>
+    <updated>2021-10-19T05:25:55.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 ‘서로의 서로’－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5550</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5550"/>
+        <updated>2021-10-19T05:23:35.053Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결 단독 콘서트：Little Things 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5548</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5539"/>
         <updated>2021-10-14T06:25:25.258Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021 가을 나눔콘서트 ‘OK’］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5538</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5538"/>
-        <updated>2021-10-14T03:24:44.605Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 12:00]]></content>
     </entry>
 </feed>
