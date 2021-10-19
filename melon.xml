@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-19T06:31:02.718Z</updated>
+    <updated>2021-10-19T07:25:16.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5547"/>
         <updated>2021-10-18T07:20:51.990Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［ZELO 2021 1st 리미티드 스테이지］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5546</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5546"/>
+        <updated>2021-10-19T07:22:41.024Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［유준 1st 소극장 팬미팅：출발］티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5541"/>
         <updated>2021-10-14T02:35:11.661Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위수 단독 공연 〈위수의 사계〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5540"/>
-        <updated>2021-10-14T09:22:45.520Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 18:00]]></content>
     </entry>
 </feed>
