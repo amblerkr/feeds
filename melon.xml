@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-19T05:25:55.254Z</updated>
+    <updated>2021-10-19T06:31:02.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5550"/>
         <updated>2021-10-19T05:23:35.053Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．9 〈케빈오〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5549</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5549"/>
+        <updated>2021-10-19T06:28:27.435Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결 단독 콘서트：Little Things 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5540"/>
         <updated>2021-10-14T09:22:45.520Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈가레코드 레이블데이 콘서트 Vol．4 앵콜 조인트 공연（달에닿아，엔분의일，당기시오）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5539</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5539"/>
-        <updated>2021-10-14T06:25:25.258Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
     </entry>
 </feed>
