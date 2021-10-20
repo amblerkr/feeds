@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-20T07:23:42.103Z</updated>
+    <updated>2021-10-20T08:32:16.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53374</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53374"/>
+        <updated>2021-10-20T08:30:30.548Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.21(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] DSAC 로컬 아티스트 프로젝트Ⅹ〈2021 가곡열전〉- 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53373</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53360"/>
         <updated>2021-10-19T11:18:53.730Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.22(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제1회 무용비엔날레 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53359</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53359"/>
-        <updated>2021-10-19T10:25:04.915Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.20(수) 01:00]]></content>
     </entry>
 </feed>
