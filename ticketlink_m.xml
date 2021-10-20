@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-20T06:28:21.743Z</updated>
+    <updated>2021-10-20T07:23:42.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 로컬 아티스트 프로젝트Ⅹ〈2021 가곡열전〉- 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53373</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53373"/>
+        <updated>2021-10-20T07:21:58.669Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 창작타악 프로젝트 「일로(一路);한가지 길」 - 대구  티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53372</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53359"/>
         <updated>2021-10-19T10:25:14.918Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(계룡) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53358</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53358"/>
-        <updated>2021-10-19T10:25:14.919Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 00:00]]></content>
     </entry>
 </feed>

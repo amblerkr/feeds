@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-20T06:28:21.692Z</updated>
+    <updated>2021-10-20T07:23:42.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5557"/>
+        <updated>2021-10-20T07:20:59.068Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</id>
@@ -18,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5553"/>
         <updated>2021-10-20T02:35:22.373Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［멋진녀석들 1st 가을 콘서트_Last Fall Men］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5552</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5552"/>
+        <updated>2021-10-20T07:20:59.068Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5546"/>
         <updated>2021-10-19T07:22:41.024Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［유준 1st 소극장 팬미팅：출발］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5545</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5545"/>
-        <updated>2021-10-19T03:23:29.332Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［임연 1st LIVE 스테이지＿가을노을］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5544</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5544"/>
-        <updated>2021-10-18T07:20:51.990Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 18:00]]></content>
     </entry>
 </feed>
