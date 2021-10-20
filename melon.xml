@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-20T01:20:13.006Z</updated>
+    <updated>2021-10-20T02:37:30.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카유보트：향기를 만나다 展 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5553</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5553"/>
+        <updated>2021-10-20T02:35:22.373Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5543"/>
         <updated>2021-10-15T02:33:17.838Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레인보우 노트 단독공연［Animation］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5542</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5542"/>
-        <updated>2021-10-15T09:20:44.246Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 17:00]]></content>
     </entry>
 </feed>

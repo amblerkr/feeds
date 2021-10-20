@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂ - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41017</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41017</guid>
+            <pubDate>Wed, 20 Oct 2021 02:35:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101915184741.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간을 파는 상점 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41016</link>
@@ -86,15 +95,6 @@
             <content:encoded><![CDATA[2021.10.22
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101913195986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터［ON THE STAGE］- 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41007</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41007</guid>
-            <pubDate>Tue, 19 Oct 2021 08:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101514510003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
