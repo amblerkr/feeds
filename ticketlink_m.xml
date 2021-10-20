@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-19T23:26:31.365Z</updated>
+    <updated>2021-10-20T01:20:13.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Ensemble M - 대구​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53367</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53367"/>
+        <updated>2021-10-20T01:18:29.109Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 힐링콘서트 - 대구​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53366</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53353"/>
         <updated>2021-10-19T08:26:22.984Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53352</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53352"/>
-        <updated>2021-10-19T08:26:22.992Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 06:00]]></content>
     </entry>
 </feed>
