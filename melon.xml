@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-21T06:28:25.226Z</updated>
+    <updated>2021-10-21T07:23:12.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［2021 Heartpresso DUET LIVE：Time To Fall Letter］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5558</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5558"/>
+        <updated>2021-10-21T07:20:40.269Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈레베카〉 2차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5549"/>
         <updated>2021-10-19T06:28:27.435Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결 단독 콘서트：Little Things 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5548</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5548"/>
-        <updated>2021-10-19T03:23:29.331Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 20:00]]></content>
     </entry>
 </feed>
