@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-21T02:40:35.412Z</updated>
+    <updated>2021-10-21T03:28:54.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5557"/>
         <updated>2021-10-20T07:20:59.068Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5556</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5556"/>
+        <updated>2021-10-21T03:26:30.239Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5555</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5555"/>
+        <updated>2021-10-21T03:26:30.241Z</updated>
+        <content type="html"><![CDATA[2021.10.25(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5548"/>
         <updated>2021-10-19T03:23:29.331Z</updated>
         <content type="html"><![CDATA[2021.10.26(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 온라인 체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5547</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5547"/>
-        <updated>2021-10-18T07:20:51.990Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［ZELO 2021 1st 리미티드 스테이지］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5546</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5546"/>
-        <updated>2021-10-19T07:22:41.024Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 18:00]]></content>
     </entry>
 </feed>
