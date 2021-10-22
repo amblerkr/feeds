@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-22T05:21:39.549Z</updated>
+    <updated>2021-10-22T06:28:25.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Night of Operatic Ensembl - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53385</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53385"/>
+        <updated>2021-10-22T06:26:40.477Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.25(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021 디에이드의 첫 토크콘서트] 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53384</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53370"/>
         <updated>2021-10-20T05:20:52.043Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.21(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 블랙스트링 10주년 콘서트 - Road of Oasis - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53369</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53369"/>
-        <updated>2021-10-20T02:36:13.494Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.21(목) 05:00]]></content>
     </entry>
 </feed>
