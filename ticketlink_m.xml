@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-22T01:24:39.997Z</updated>
+    <updated>2021-10-22T02:38:07.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2021 디에이드의 첫 토크콘서트] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53384</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53384"/>
+        <updated>2021-10-22T02:36:32.518Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<아기돼지삼형제>  대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53383</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53383"/>
+        <updated>2021-10-22T02:36:32.519Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hi－L 1st Concert＿Halloween Town] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53382</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53382"/>
+        <updated>2021-10-22T02:36:32.526Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬<헤드윅> - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53381</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53369"/>
         <updated>2021-10-20T02:36:23.980Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 창원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53368</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53368"/>
-        <updated>2021-10-20T02:36:23.988Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Ensemble M - 대구​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53367</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53367"/>
-        <updated>2021-10-20T01:18:29.109Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 힐링콘서트 - 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53366</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53366"/>
-        <updated>2021-10-19T11:19:01.218Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 02:00]]></content>
     </entry>
 </feed>
