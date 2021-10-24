@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 18:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 19:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠못드는밤에 (잠이 안와서요..)]]></title>
+            <link>https://www.vlive.tv/video/266858</link>
+            <guid>https://www.vlive.tv/video/266858</guid>
+            <pubDate>Sun, 24 Oct 2021 19:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211025_288/16351018262467gQqM_JPEG/147890362221645563c890e9bc-29ef-4057-bc69-ed380f2ff390.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[.____.]]></title>
             <link>https://www.vlive.tv/video/266857</link>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 24 Oct 2021 05:22:01 GMT</pubDate>
             <content:encoded><![CDATA[Berryato (베리아또)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211024_278/16350465143131iVM3_PNG/1635046213203.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CNBLUE - '싹둑 (Love Cut)' LEE JUNG SHIN FIXED CAM]]></title>
-            <link>https://www.vlive.tv/video/266805</link>
-            <guid>https://www.vlive.tv/video/266805</guid>
-            <pubDate>Sun, 24 Oct 2021 03:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[CNBLUE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211023_144/1634999299823JX8UT_JPEG/1634998794112.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
