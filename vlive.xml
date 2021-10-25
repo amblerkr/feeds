@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 21:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 22:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이름은 잠못밤..(여러분은 출근길)]]></title>
+            <link>https://www.vlive.tv/video/266968</link>
+            <guid>https://www.vlive.tv/video/266968</guid>
+            <pubDate>Mon, 25 Oct 2021 22:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211026_264/1635198206234seDO7_JPEG/147986600236469676a5d429e9-f080-461b-87dd-ec3939136786.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ONLY MASA]]></title>
             <link>https://www.vlive.tv/video/266967</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 25 Oct 2021 10:29:10 GMT</pubDate>
             <content:encoded><![CDATA[JEON SOMI (전소미)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211025_111/16351366301685d9Vw_JPEG/upload_79212704222045708d60003b9-c294-4f15-8a06-8e00c45163fa.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brisia Jodie - Kisahku]]></title>
-            <link>https://www.vlive.tv/video/266875</link>
-            <guid>https://www.vlive.tv/video/266875</guid>
-            <pubDate>Mon, 25 Oct 2021 10:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[BRISIA JODIE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211025_100/16351312311039rtzC_JPEG/79c782ae-3540-11ec-b543-505dacfba98a_10.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
