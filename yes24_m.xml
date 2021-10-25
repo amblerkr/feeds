@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-10-25T03:26:32.079Z</updated>
+    <updated>2021-10-25T04:32:16.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넌버벌퍼포먼스 툴스 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11249&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11249&amp;order=1"/>
+        <updated>2021-10-25T04:30:33.643Z</updated>
+        <content type="html"><![CDATA[2021-10-26(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 해군창설 76주년 기념 대한민국 해군 호국음악회 - 서울 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11248&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11239&amp;order=1"/>
         <updated>2021-10-19T09:21:51.115Z</updated>
         <content type="html"><![CDATA[2021-10-20(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11238&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11238&amp;order=1"/>
-        <updated>2021-10-19T08:26:07.252Z</updated>
-        <content type="html"><![CDATA[2021-10-22(금) 15:00]]></content>
     </entry>
 </feed>
