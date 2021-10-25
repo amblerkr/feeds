@@ -4,9 +4,24 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 04:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할루]]></title>
+            <link>https://www.vlive.tv/video/266888</link>
+            <guid>https://www.vlive.tv/video/266888</guid>
+            <pubDate>Mon, 25 Oct 2021 05:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / KINGDOM 킹덤)]]></title>
+            <link>https://www.vlive.tv/video/266403</link>
+            <guid>https://www.vlive.tv/video/266403</guid>
+            <pubDate>Mon, 25 Oct 2021 05:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211020_251/1634713805839yX2XL_JPEG/upload_7879345267945835378b5ec4a-d4b8-4060-8b0a-44ad374ec5a8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점심엔 햄벅]]></title>
             <link>https://www.vlive.tv/video/266882</link>
@@ -390,22 +405,6 @@
             <pubDate>Sun, 24 Oct 2021 10:24:24 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211024_50/1635057278490dtnEB_JPEG/upload_513268614062442152a0bf055-a410-4041-8afd-f37e4dfa47d5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Live online fan meeting 7:00 PM (KST) x Kooky ♥️]]></title>
-            <link>https://www.vlive.tv/video/266828</link>
-            <guid>https://www.vlive.tv/video/266828</guid>
-            <pubDate>Sun, 24 Oct 2021 10:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[MONIKA (모니카)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211024_33/1635068896967WY6ph_JPEG/147944560955185491e6732ae0-3e74-43bc-869c-fdcde905029f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🦑00즈 달고나 만들기🎮]]></title>
-            <link>https://www.vlive.tv/video/266823</link>
-            <guid>https://www.vlive.tv/video/266823</guid>
-            <pubDate>Sun, 24 Oct 2021 10:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211024_103/16350626393903EeAl_JPEG/147938303328657544d50c8f26-14d1-43aa-a7f2-dc684606454c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
