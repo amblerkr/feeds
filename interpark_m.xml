@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 07:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 08:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5959 LIVE : 강아솔 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41087</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41087</guid>
+            <pubDate>Wed, 27 Oct 2021 08:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이승윤, 정홍일, 이무진 싱어게인 TOP3전국투어 콘서트 - 광주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41086</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.11.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 성남 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41077</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41077</guid>
-            <pubDate>Tue, 26 Oct 2021 09:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009543_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

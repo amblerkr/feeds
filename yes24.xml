@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-27T07:23:21.950Z</updated>
+    <updated>2021-10-27T08:27:54.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11259</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11259"/>
+        <updated>2021-10-27T08:25:55.978Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 2차 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11258</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇추가 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11257"/>
         <updated>2021-10-26T08:30:18.821Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240"/>
         <updated>2021-10-20T06:26:18.323Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11239</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11239"/>
-        <updated>2021-10-19T09:21:40.833Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 14:00]]></content>
     </entry>
 </feed>
