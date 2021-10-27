@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 18:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 19:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠못드는밤에 (파트 여러번째)]]></title>
+            <link>https://www.vlive.tv/video/267183</link>
+            <guid>https://www.vlive.tv/video/267183</guid>
+            <pubDate>Wed, 27 Oct 2021 19:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_238/1635360398171XRhJ8_JPEG/148235927137631526c9e06fcd-f391-43b4-a696-449925fd6805.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR Easy On Me 히힛 💛🐝🌝]]></title>
             <link>https://www.vlive.tv/video/267182</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 27 Oct 2021 10:25:21 GMT</pubDate>
             <content:encoded><![CDATA[BAE173]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211027_220/1635326686397SpNHg_JPEG/1481150603953850435a9103ff-2b76-40fb-baf2-41e595d8e310.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스엔TV] 시크릿넘버 '불토' 쇼케이스 무대 영상 (SECRET NUMBER 'Fire Saturday')]]></title>
-            <link>https://www.vlive.tv/video/267140</link>
-            <guid>https://www.vlive.tv/video/267140</guid>
-            <pubDate>Wed, 27 Oct 2021 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211027_130/1635329696988I4N3P_JPEG/1635317760480.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
