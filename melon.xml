@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-27T02:34:32.730Z</updated>
+    <updated>2021-10-27T03:25:56.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케빈오 단독 콘서트：After Tonight 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5572</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5572"/>
+        <updated>2021-10-27T03:23:14.299Z</updated>
+        <content type="html"><![CDATA[2021.11.03(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온스타인웨이 Vol．8 〈박소은〉－온라인 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5571</id>
@@ -18,6 +25,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5570"/>
         <updated>2021-10-26T15:23:10.502Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［이준형 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5569</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5569"/>
+        <updated>2021-10-27T03:23:14.302Z</updated>
+        <content type="html"><![CDATA[2021.11.03(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애프터문 단독 콘서트：After Tonight 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5568</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5568"/>
+        <updated>2021-10-27T03:23:14.309Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 CJ X BERKLEE MUSIC CONCERT［2021 CJ X 버클리 뮤직콘서트］티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5562"/>
         <updated>2021-10-25T06:26:48.055Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［FREE THE BEAST］SHOWCASE at DAEGU 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5561</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5561"/>
-        <updated>2021-10-25T09:22:03.776Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우예린 단독 공연［Night：여름에 노란 꽃이 밤에만 핀다］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5560</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5560"/>
-        <updated>2021-10-22T09:21:12.047Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 김수영 단독공연［EPISODE］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5559</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5559"/>
-        <updated>2021-10-22T09:21:12.047Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
     </entry>
 </feed>
