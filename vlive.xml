@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 15:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 16:35:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/267181</guid>
             <pubDate>Wed, 27 Oct 2021 15:25:08 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_293/1635352159207sYw5w_JPEG/399c5a63-3742-11ec-917b-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR Easy On Me 히힛 💛🐝🌝]]></title>
+            <link>https://www.vlive.tv/video/267182</link>
+            <guid>https://www.vlive.tv/video/267182</guid>
+            <pubDate>Wed, 27 Oct 2021 16:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_47/1635350653189p3mPJ_JPEG/289684294265048429ac604fc-0b34-4228-850e-148b2b574ff5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TXT (투모로우바이투게더) 'Frost' Official MV]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Wed, 27 Oct 2021 10:25:21 GMT</pubDate>
             <content:encoded><![CDATA[NEWSEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211027_130/1635329696988I4N3P_JPEG/1635317760480.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스엔TV] '6인 6색 레트로 파티' 시크릿넘버 개인 포토타임 (SECRET NUMBER SHOWCASE)]]></title>
-            <link>https://www.vlive.tv/video/267139</link>
-            <guid>https://www.vlive.tv/video/267139</guid>
-            <pubDate>Wed, 27 Oct 2021 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211027_121/1635329649227u2yJG_JPEG/1635317620603.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
