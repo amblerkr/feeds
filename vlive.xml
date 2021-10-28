@@ -4,9 +4,25 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 01:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 02:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/267187</link>
+            <guid>https://www.vlive.tv/video/267187</guid>
+            <pubDate>Thu, 28 Oct 2021 02:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_67/1635387275270zfsvQ_JPEG/upload_5165685649622948157b63e98-2106-4f80-b179-1484a8533c7a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OMEGA X(오메가엑스) 'BAILA CON OX’ SPECIAL MV @BUSAN]]></title>
+            <link>https://www.vlive.tv/video/267185</link>
+            <guid>https://www.vlive.tv/video/267185</guid>
+            <pubDate>Thu, 28 Oct 2021 02:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_115/1635383236225ILG1q_JPEG/upload_79462957882725384758af057-8ab4-4fa2-b6bb-e4f94d113901.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스엔TV] 김소연(KIMSOYEON), '함께해요 행복나눔']]></title>
             <link>https://www.vlive.tv/video/267184</link>
@@ -390,22 +406,6 @@
             <pubDate>Wed, 27 Oct 2021 11:19:29 GMT</pubDate>
             <content:encoded><![CDATA[NEWSEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211027_14/1635330399843kLUWT_JPEG/1635320367003.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스엔TV] 'K팝 기대주' 저스트비(JUST B) 쇼케이스 단체 포토타임 현장]]></title>
-            <link>https://www.vlive.tv/video/267144</link>
-            <guid>https://www.vlive.tv/video/267144</guid>
-            <pubDate>Wed, 27 Oct 2021 11:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211027_77/1635330364485GawbA_JPEG/1635319695860.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한정훈왔네]]></title>
-            <link>https://www.vlive.tv/video/267117</link>
-            <guid>https://www.vlive.tv/video/267117</guid>
-            <pubDate>Wed, 27 Oct 2021 08:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211027_202/16353302290989SBen_JPEG/1895b345-3709-11ec-9dda-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
