@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-29T02:37:21.891Z</updated>
+    <updated>2021-10-29T03:27:47.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽공방 크리스마스 콘서트 〈Winter Land〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5578</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5578"/>
+        <updated>2021-10-29T03:25:12.228Z</updated>
+        <content type="html"><![CDATA[2021.11.01(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［2021 홍찬미 따듯한 힐링 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5575</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5567"/>
         <updated>2021-10-27T02:32:08.477Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［성남］뮤지컬 〈시카고〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5566</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5566"/>
-        <updated>2021-10-26T05:19:30.007Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 18:00]]></content>
     </entry>
 </feed>
