@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-10-29T04:32:58.807Z</updated>
+    <updated>2021-10-29T05:22:26.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] - 성남 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11264</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11264"/>
+        <updated>2021-10-29T05:20:19.493Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [엑스칼리버] -  대구 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11263</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11263"/>
+        <updated>2021-10-29T05:20:19.495Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <인사이드> 마지막 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11262</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11262"/>
+        <updated>2021-10-29T05:20:19.498Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오픈일시 변경] 뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11244"/>
         <updated>2021-10-22T01:23:14.343Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [헤드윅] - 인천 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11243</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11243"/>
-        <updated>2021-10-22T01:23:14.346Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인형극 [소녀, 순이] - 대구 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11242</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11242"/>
-        <updated>2021-10-21T05:20:26.302Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <인사이드> 3차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11241</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11241"/>
-        <updated>2021-10-21T02:38:31.296Z</updated>
-        <content type="html"><![CDATA[2021.10.25(월) 14:00]]></content>
     </entry>
 </feed>

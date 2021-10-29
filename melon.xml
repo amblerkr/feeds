@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-29T04:32:58.809Z</updated>
+    <updated>2021-10-29T05:22:26.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1，두 번째，셋，그리고 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5582</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5582"/>
+        <updated>2021-10-29T05:19:54.204Z</updated>
+        <content type="html"><![CDATA[2021.11.01(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［성남］뮤지컬 〈엑스칼리버〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5581</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5581"/>
+        <updated>2021-10-29T05:19:54.205Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［대구］뮤지컬 〈엑스칼리버〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5579"/>
+        <updated>2021-10-29T05:19:54.205Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새벽공방 크리스마스 콘서트 〈Winter Land〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5578</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5570"/>
         <updated>2021-10-26T15:23:10.502Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［이준형 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5569</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5569"/>
-        <updated>2021-10-27T03:23:14.302Z</updated>
-        <content type="html"><![CDATA[2021.11.03(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애프터문 단독 콘서트：After Tonight 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5568</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5568"/>
-        <updated>2021-10-27T03:23:14.309Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 CJ X BERKLEE MUSIC CONCERT［2021 CJ X 버클리 뮤직콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5567</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5567"/>
-        <updated>2021-10-27T02:32:08.477Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 14:00]]></content>
     </entry>
 </feed>
