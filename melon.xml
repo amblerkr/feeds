@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-29T08:28:31.889Z</updated>
+    <updated>2021-10-29T09:23:59.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[2021.11.01(월) 14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[루비레코드 레이블쇼－Ruby Wednesday 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5577</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5577"/>
+        <updated>2021-10-29T09:21:22.794Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［한국소아암재단과 함께하는 정미애의 블루콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5576</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5576"/>
+        <updated>2021-10-29T09:21:22.794Z</updated>
+        <content type="html"><![CDATA[2021.11.01(월) 12:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[［2021 홍찬미 따듯한 힐링 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5575</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5575"/>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5573"/>
         <updated>2021-10-27T09:21:39.442Z</updated>
         <content type="html"><![CDATA[2021.10.29(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케빈오 단독 콘서트：After Tonight 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5572</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5572"/>
-        <updated>2021-10-27T03:23:14.299Z</updated>
-        <content type="html"><![CDATA[2021.11.03(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol．8 〈박소은〉－온라인 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5571</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5571"/>
-        <updated>2021-10-27T02:32:08.475Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 11:00]]></content>
     </entry>
 </feed>
