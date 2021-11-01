@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-01T01:14:47.474Z</updated>
+    <updated>2021-11-01T02:37:49.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5587"/>
         <updated>2021-10-29T07:21:17.307Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．11 〈나인〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5583</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5583"/>
+        <updated>2021-11-01T02:35:07.560Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1，두 번째，셋，그리고 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5576"/>
         <updated>2021-10-29T09:21:22.794Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021 홍찬미 따듯한 힐링 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5575</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5575"/>
-        <updated>2021-10-27T09:21:39.436Z</updated>
-        <content type="html"><![CDATA[2021.10.29(금) 18:00]]></content>
     </entry>
 </feed>
