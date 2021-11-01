@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-01T04:34:33.928Z</updated>
+    <updated>2021-11-01T05:22:42.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,12 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1"/>
         <updated>2021-11-01T04:32:41.377Z</updated>
         <content type="html"><![CDATA[2021-11-02(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11270&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11270&amp;order=1"/>
+        <updated>2021-11-01T05:20:41.107Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [홀연했던 사나이] - 온라인 상영회 (OST 패키지) 티켓오픈안내]]></title>
@@ -67,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11262&amp;order=1"/>
         <updated>2021-10-29T05:20:30.684Z</updated>
         <content type="html"><![CDATA[2021-11-04(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시 변경] 뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11260&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11260&amp;order=1"/>
-        <updated>2021-10-28T06:28:03.032Z</updated>
-        <content type="html"><![CDATA[2021-11-01(월) 18:00]]></content>
     </entry>
 </feed>
