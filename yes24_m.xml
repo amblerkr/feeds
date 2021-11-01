@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-01T03:25:39.321Z</updated>
+    <updated>2021-11-01T04:34:33.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1"/>
+        <updated>2021-11-01T04:32:41.377Z</updated>
+        <content type="html"><![CDATA[2021-11-02(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [홀연했던 사나이] - 온라인 상영회 (OST 패키지) 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11269&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11260&amp;order=1"/>
         <updated>2021-10-28T06:28:03.032Z</updated>
         <content type="html"><![CDATA[2021-11-01(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇추가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11259&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11259&amp;order=1"/>
-        <updated>2021-10-27T08:26:05.591Z</updated>
-        <content type="html"><![CDATA[2021-10-28(목) 17:00]]></content>
     </entry>
 </feed>
