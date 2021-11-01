@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 16:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 17:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠못드는밤에 (사연지옥 앤드 신청곡)]]></title>
+            <link>https://www.vlive.tv/video/267740</link>
+            <guid>https://www.vlive.tv/video/267740</guid>
+            <pubDate>Mon, 01 Nov 2021 17:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211102_51/1635787316242o0se8_JPEG/14866284721262772479e37d81-21c9-4a05-b0ca-6caef08575f7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심야 부이라이부😆]]></title>
             <link>https://www.vlive.tv/video/267738</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 01 Nov 2021 10:25:55 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211101_201/1635760694494yxI6B_PNG/1635756915900.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미래게임천국🎮 | EP.04 고깔 승부차기]]></title>
-            <link>https://www.vlive.tv/video/267678</link>
-            <guid>https://www.vlive.tv/video/267678</guid>
-            <pubDate>Mon, 01 Nov 2021 10:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211101_176/1635756078829a5Sba_JPEG/upload_520256796036486460926efac-887e-4084-92f4-58c21d8c3d15.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
