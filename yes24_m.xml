@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-01T07:24:06.907Z</updated>
+    <updated>2021-11-01T08:28:50.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11272&amp;order=1"/>
         <updated>2021-11-01T04:32:41.377Z</updated>
         <content type="html"><![CDATA[2021-11-02(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11271&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11271&amp;order=1"/>
+        <updated>2021-11-01T08:26:51.697Z</updated>
+        <content type="html"><![CDATA[2021-11-04(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）공연 연기 안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11263&amp;order=1"/>
         <updated>2021-10-29T05:20:30.683Z</updated>
         <content type="html"><![CDATA[2021-11-02(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <인사이드> 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11262&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11262&amp;order=1"/>
-        <updated>2021-10-29T05:20:30.684Z</updated>
-        <content type="html"><![CDATA[2021-11-04(목) 15:00]]></content>
     </entry>
 </feed>
