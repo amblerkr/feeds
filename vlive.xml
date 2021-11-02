@@ -4,9 +4,25 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 15:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 16:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김.보.라<김재현의 보이는 라디오>]]></title>
+            <link>https://www.vlive.tv/video/267817</link>
+            <guid>https://www.vlive.tv/video/267817</guid>
+            <pubDate>Tue, 02 Nov 2021 14:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211103_270/1635870701640W3wVA_JPEG/f15e5c1e-3bf2-11ec-ba2c-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만이에요]]></title>
+            <link>https://www.vlive.tv/video/267813</link>
+            <guid>https://www.vlive.tv/video/267813</guid>
+            <pubDate>Tue, 02 Nov 2021 16:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211102_114/1635857795328xgPBJ_JPEG/1486461744809284726d6956eb-6040-475c-95d1-955a506a68dc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕부장]]></title>
             <link>https://www.vlive.tv/video/267815</link>
@@ -62,13 +78,6 @@
             <pubDate>Tue, 02 Nov 2021 14:21:34 GMT</pubDate>
             <content:encoded><![CDATA[Berryato (베리아또)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211102_165/1635863124180l6wie_PNG/1635862277169.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김.보.라<김재현의 보이는 라디오>]]></title>
-            <link>https://www.vlive.tv/video/267817</link>
-            <guid>https://www.vlive.tv/video/267817</guid>
-            <pubDate>Tue, 02 Nov 2021 14:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[D1CE]오랜만 입니당 🐽🐽]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Tue, 02 Nov 2021 09:24:59 GMT</pubDate>
             <content:encoded><![CDATA[NEWSEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211102_44/1635843104274Fjdmr_JPEG/1635842412889.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 포엑은 다 아는 눈치군  숙소 v live]]></title>
-            <link>https://www.vlive.tv/video/267768</link>
-            <guid>https://www.vlive.tv/video/267768</guid>
-            <pubDate>Tue, 02 Nov 2021 07:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211102_26/1635834634663OEWEC_JPEG/148710237657721407091095c4-991c-4e5f-9c5a-7b07dc48579d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
