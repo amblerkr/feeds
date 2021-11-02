@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-02T04:31:09.361Z</updated>
+    <updated>2021-11-02T05:22:40.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정밀아 정기단독공연 〈춥지 않은 겨울밤〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5598</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5598"/>
+        <updated>2021-11-02T05:19:52.744Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문화정원아트홀 기획 오지은 단독공연 ‘가을의 만남’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5597</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5589"/>
         <updated>2021-11-01T03:23:18.479Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［우주라이브］윤새＆정튠＆진해 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5588</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5588"/>
-        <updated>2021-11-01T01:12:27.602Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 18:00]]></content>
     </entry>
 </feed>
