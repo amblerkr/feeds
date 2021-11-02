@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-02T07:22:25.263Z</updated>
+    <updated>2021-11-02T08:28:46.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 3차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5599</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5599"/>
+        <updated>2021-11-02T08:26:13.892Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정밀아 정기단독공연 〈춥지 않은 겨울밤〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5598</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5590"/>
         <updated>2021-11-01T03:23:18.478Z</updated>
         <content type="html"><![CDATA[2021.11.10(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 민사운드쇼 오프라인 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5589</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5589"/>
-        <updated>2021-11-01T03:23:18.479Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 20:00]]></content>
     </entry>
 </feed>
