@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-02T02:37:02.512Z</updated>
+    <updated>2021-11-02T03:25:06.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문화정원아트홀 기획 오지은 단독공연 ‘가을의 만남’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5597</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5597"/>
+        <updated>2021-11-02T03:22:52.465Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 2차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5596</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[2021.11.05(금) 13:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[로칼하이레코즈와 함께하는 하범석 단독공연 “주변인”－로．프．스 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5592</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5592"/>
+        <updated>2021-11-02T03:22:52.484Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마리슈 7주년 기념 단독공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5591</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5591"/>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5588"/>
         <updated>2021-11-01T01:12:27.602Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，5차 티켓 오픈！（Musical Hadestown）]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5587</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5587"/>
-        <updated>2021-10-29T07:21:17.307Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프롬 소극장 단독 콘서트：Dear december 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5586</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5586"/>
-        <updated>2021-11-01T03:23:18.485Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 20:00]]></content>
     </entry>
 </feed>
