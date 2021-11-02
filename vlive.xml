@@ -4,9 +4,16 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 22:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 23:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐥😁]]></title>
+            <link>https://www.vlive.tv/video/267821</link>
+            <guid>https://www.vlive.tv/video/267821</guid>
+            <pubDate>Tue, 02 Nov 2021 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김.보.라<김재현의 보이는 라디오>]]></title>
             <link>https://www.vlive.tv/video/267817</link>
@@ -398,14 +405,6 @@
             <pubDate>Tue, 02 Nov 2021 09:24:59 GMT</pubDate>
             <content:encoded><![CDATA[NEWSEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211102_177/16358431419538NyOn_JPEG/1635842417312.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스엔TV] 케이시 (Kassy), 초롱 초롱 사슴 눈망울~ (유희열의 스케치북 출근)]]></title>
-            <link>https://www.vlive.tv/video/267781</link>
-            <guid>https://www.vlive.tv/video/267781</guid>
-            <pubDate>Tue, 02 Nov 2021 09:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211102_44/1635843104274Fjdmr_JPEG/1635842412889.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
