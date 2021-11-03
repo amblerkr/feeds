@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-03T05:26:03.264Z</updated>
+    <updated>2021-11-03T06:27:29.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX 〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11281</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11281"/>
+        <updated>2021-11-03T06:26:12.982Z</updated>
+        <content type="html"><![CDATA[2021.11.10(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11280</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11280"/>
+        <updated>2021-11-03T06:26:12.983Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 뮤지컬 [블랙메리포핀스] 앵콜 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11279</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11279"/>
+        <updated>2021-11-03T06:26:12.984Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11278</id>
@@ -122,26 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11262"/>
         <updated>2021-10-29T05:20:19.498Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시 변경] 뮤지컬 [시카고] 성남 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11260"/>
-        <updated>2021-10-28T06:27:52.462Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11259</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11259"/>
-        <updated>2021-10-27T08:25:55.978Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [바람이 불어오는 곳] 2차 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11258</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11258"/>
-        <updated>2021-10-27T07:21:16.204Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 14:00]]></content>
     </entry>
 </feed>
