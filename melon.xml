@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-04T01:10:21.039Z</updated>
+    <updated>2021-11-04T02:37:19.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헐리우드 영화음악 콘서트 in 부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5603</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5603"/>
+        <updated>2021-11-04T02:34:50.429Z</updated>
+        <content type="html"><![CDATA[2021.11.11(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．13 〈시와〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5602</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5602"/>
+        <updated>2021-11-04T02:34:50.429Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［우주라이브］LiQuar＿Band＿재즈 타는 밤 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5601</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5594"/>
         <updated>2021-11-01T05:20:01.690Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈더데빌〉 1차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5593</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5593"/>
-        <updated>2021-11-01T01:12:27.601Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로칼하이레코즈와 함께하는 하범석 단독공연 “주변인”－로．프．스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5592</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5592"/>
-        <updated>2021-11-02T03:22:52.484Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 14:00]]></content>
     </entry>
 </feed>
