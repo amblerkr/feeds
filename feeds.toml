@@ -6,6 +6,7 @@ titleSelector = "a[class='tit']"
 linkSelector = "a[class='tit']"
 contentSelector = "span[class='date']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [interpark]
 title = "인터파크 티켓"
@@ -15,6 +16,7 @@ titleSelector = "td.subject a"
 linkSelector = "td.subject a"
 contentSelector = "td[class='date']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [interpark_m]
 title = "인터파크 티켓 모바일"
@@ -25,6 +27,7 @@ linkSelector = "a"
 contentSelector = "dl[class='ticketOpen'] > dd"
 imageSelector = "span img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [yes24]
 title = "예스24 티켓"
@@ -34,6 +37,7 @@ titleSelector = "a > em"
 linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [yes24_m]
 title = "예스24 티켓 모바일"
@@ -43,6 +47,7 @@ titleSelector = "a > div.brd_name.limit_2ln"
 linkSelector = "a[class='lnk_brd']"
 contentSelector = "em[class='txt']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [ticketlink]
 title = "티켓링크"
@@ -52,6 +57,7 @@ titleSelector = "td.tl.p_reative > a"
 linkSelector = "td a"
 contentSelector = "td[class='open_info']"
 waitForSelector = ".basic_tbl"
+onFail = "stale"
 
 [ticketlink_m]
 title = "티켓링크 모바일"
@@ -60,6 +66,7 @@ entrySelector = "#detail_content > li"
 titleSelector = "h3"
 linkSelector = "a"
 contentSelector = "a > dl > dd:nth-child(2)"
+onFail = "stale"
 
 [vlive]
 title = "V LIVE"
@@ -79,6 +86,7 @@ linkSelector = "div.articleImg > a"
 imageSelector = "div[class='articleImg'] a img"
 contentSelector = "div[class='description'] a p"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [kindiechart]
 title = "K-INDIE CHART"
@@ -89,6 +97,7 @@ linkSelector = "div a[class='btn-view-chart']"
 imageSelector = "div[class='post-thumb'] img"
 contentSelector = "h2[class='sub-title']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [snek]
 title = "SNEK"
@@ -98,6 +107,7 @@ titleSelector = "span[class='write-title']"
 linkSelector = "li.write-item a"
 imageSelector = "div[class='write-thumbnail']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [msbsound_releases]
 title = "MAGIC STRAWBERRY SOUND ─ Releases"
@@ -108,6 +118,7 @@ linkSelector = "div[class='table-cell'] a[class='mask-link']"
 imageSelector = "img.attachment-1x1.size-1x1.wp-post-image"
 contentSelector = "div[class='table-cell']  p[class='entry-meta']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [flo_newtrack]
 title = "FLO ─ New Track"
@@ -118,3 +129,4 @@ linkSelector = "div.txt_area > a"
 imageSelector = "div a img[src^='https://cdn.music-flo.com/image/v2/album/']"
 contentSelector = "span.artist_link_w > span > span:nth-child(1) > a"
 waitUntil = "networkidle"
+onFail = "stale"
