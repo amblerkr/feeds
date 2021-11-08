@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-08T04:33:04.182Z</updated>
+    <updated>2021-11-08T05:23:40.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 만나 콘서트 (강원도민 대상 공연) 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1"/>
+        <updated>2021-11-08T05:20:48.629Z</updated>
+        <content type="html"><![CDATA[2021-11-08(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [최후진술] 얼리버드 패키지 B타입 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11296&amp;order=1</id>
@@ -18,6 +25,20 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11295&amp;order=1"/>
         <updated>2021-11-08T04:30:17.180Z</updated>
         <content type="html"><![CDATA[2021-11-08(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11294&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11294&amp;order=1"/>
+        <updated>2021-11-08T05:20:48.632Z</updated>
+        <content type="html"><![CDATA[2021-11-09(화) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 서울 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11293&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11293&amp;order=1"/>
+        <updated>2021-11-08T05:20:48.633Z</updated>
+        <content type="html"><![CDATA[2021-11-12(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉티켓오픈안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11288&amp;order=1"/>
         <updated>2021-11-06T10:26:53.621Z</updated>
         <content type="html"><![CDATA[2021-11-10(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [은하철도의 밤] 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11287&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11287&amp;order=1"/>
-        <updated>2021-11-06T10:26:53.622Z</updated>
-        <content type="html"><![CDATA[2021-11-11(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 마지막 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11286&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11286&amp;order=1"/>
-        <updated>2021-11-06T10:26:53.623Z</updated>
-        <content type="html"><![CDATA[2021-11-05(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계적인 피아니스트 백혜선 피아노 독주회 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11284&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11284&amp;order=1"/>
-        <updated>2021-11-04T10:25:00.403Z</updated>
-        <content type="html"><![CDATA[2021-11-09(화) 14:00]]></content>
     </entry>
 </feed>
