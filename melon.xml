@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-09T04:32:37.287Z</updated>
+    <updated>2021-11-09T05:23:20.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옥상달빛 연말 단독 공연［수고했어，올해도 2021］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5618"/>
+        <updated>2021-11-09T05:19:57.223Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘서트 브랜디드 VOL．1 〈팔로알토，허클베리피，저스디스，EK〉－온라인 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5617</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5609"/>
         <updated>2021-11-06T10:26:17.444Z</updated>
         <content type="html"><![CDATA[2021.11.09(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［우주라이브］김우주＆로쿠 콘서트]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5608</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5608"/>
-        <updated>2021-11-06T10:26:17.444Z</updated>
-        <content type="html"><![CDATA[2021.11.06(토) 12:00]]></content>
     </entry>
 </feed>
