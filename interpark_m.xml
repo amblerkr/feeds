@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 06:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 07:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41255</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41255</guid>
+            <pubDate>Tue, 09 Nov 2021 07:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110910415357.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[＇2021 부활 김동명 단독 콘서트＇ in busan ;the ROCK; 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41254</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.11.09
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍대광 콘서트［우리가 다시 만난 날］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41245</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41245</guid>
-            <pubDate>Mon, 08 Nov 2021 06:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110517583024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
