@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-10T01:11:55.351Z</updated>
+    <updated>2021-11-10T02:39:51.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5624</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5624"/>
+        <updated>2021-11-10T02:34:34.820Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이날치 XR 콘서트［수궁가：Catch the Rabbit］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5620</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5611"/>
         <updated>2021-11-08T03:23:18.878Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS진주방송국과 함께하는 윤지원의 렉쳐콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5610</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5610"/>
-        <updated>2021-11-06T10:26:17.442Z</updated>
-        <content type="html"><![CDATA[2021.11.09(화) 10:00]]></content>
     </entry>
 </feed>
