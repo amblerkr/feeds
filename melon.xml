@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-09T23:26:51.554Z</updated>
+    <updated>2021-11-10T01:11:55.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이날치 XR 콘서트［수궁가：Catch the Rabbit］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5620</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5620"/>
+        <updated>2021-11-10T01:08:24.427Z</updated>
+        <content type="html"><![CDATA[2021.11.11(목) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥상달빛 연말 단독 공연［수고했어，올해도 2021］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5610"/>
         <updated>2021-11-06T10:26:17.442Z</updated>
         <content type="html"><![CDATA[2021.11.09(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈디어 런드리〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5609"/>
-        <updated>2021-11-06T10:26:17.444Z</updated>
-        <content type="html"><![CDATA[2021.11.09(화) 15:00]]></content>
     </entry>
 </feed>
