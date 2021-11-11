@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,6 +315,13 @@
             <content:encoded><![CDATA[2021.11.15(월) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2F 단독 콘서트〈If〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11313</guid>
+            <pubDate>Thu, 11 Nov 2021 10:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 18:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11312</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11312</guid>
@@ -424,13 +431,6 @@
             <content:encoded><![CDATA[2021.11.08(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11295</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11295</guid>
-            <pubDate>Mon, 08 Nov 2021 05:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈검둥이〉 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11316&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11316&amp;order=1</guid>
@@ -499,6 +499,41 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11306&amp;order=1</guid>
             <pubDate>Wed, 10 Nov 2021 03:23:34 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-12(금) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(서귀포) 2021 송년가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53534</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53534</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.15(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(청주) 2021 가족뮤지컬 빨간코 루돌프와 산타크로스​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53533</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53533</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.15(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이가족뮤지컬 〈​신데렐라〉​ - 제주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53532</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53532</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.16(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 김창옥 토크콘서트 시즌2 - 창원​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53531</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53531</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 주현미 콘서트 - 창원​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53530</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53530</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김창옥토크콘서트 시즌 2- 전주​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -571,39 +606,39 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.24(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈! (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53519</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53519</guid>
-            <pubDate>Wed, 10 Nov 2021 05:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content:encoded>
+            <title><![CDATA[(서귀포) 2021 송년가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53534</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53534</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.15(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 대구시립무용단 제80회 정기공연 〈I Tube〉 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53518</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53518</guid>
-            <pubDate>Wed, 10 Nov 2021 05:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.12(금) 05:00]]></content:encoded>
+            <title><![CDATA[(청주) 2021 가족뮤지컬 빨간코 루돌프와 산타크로스​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53533</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53533</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.15(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53517</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53517</guid>
-            <pubDate>Wed, 10 Nov 2021 03:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.18(목) 05:00]]></content:encoded>
+            <title><![CDATA[어린이가족뮤지컬 〈​신데렐라〉​ - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53532</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53532</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 디톡스 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53516</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53516</guid>
-            <pubDate>Tue, 09 Nov 2021 23:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.10(수) 00:00]]></content:encoded>
+            <title><![CDATA[2021 김창옥 토크콘서트 시즌2 - 창원​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53531</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53531</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼팽으로 만나는 겨울왕국 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53515</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53515</guid>
-            <pubDate>Tue, 09 Nov 2021 08:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content:encoded>
+            <title><![CDATA[2021 주현미 콘서트 - 창원​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53530</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53530</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김창옥토크콘서트 시즌 2- 전주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -676,39 +711,99 @@
             <content:encoded><![CDATA[2021.11.24(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈! (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53519</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53519</guid>
-            <pubDate>Wed, 10 Nov 2021 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17(수) 05:00]]></content:encoded>
+            <title><![CDATA[It's 11:11 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268734</link>
+            <guid>https://www.vlive.tv/video/268734</guid>
+            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[DONGKIZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_178/16366260545714zyu2_JPEG/c9d290c1-42d5-11ec-8e54-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 대구시립무용단 제80회 정기공연 〈I Tube〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53518</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53518</guid>
-            <pubDate>Wed, 10 Nov 2021 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12(금) 05:00]]></content:encoded>
+            <title><![CDATA[[이달의 소녀] 우리 여진이 진짜 20살 된 날🎂 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268675</link>
+            <guid>https://www.vlive.tv/video/268675</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_117/1636600020467GvOy9_JPEG/upload_806794278701407864d471f9b-66ef-4888-acb6-75b4e8e485a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53517</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53517</guid>
-            <pubDate>Wed, 10 Nov 2021 02:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18(목) 05:00]]></content:encoded>
+            <title><![CDATA[💛허니텐과 함께하는 쿤 생일 파티💛 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268708</link>
+            <guid>https://www.vlive.tv/video/268708</guid>
+            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[UP10TION]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_216/1636610621622Ha7NE_JPEG/upload_806902522921804420ba36565-7b5d-42ae-b189-9e8b027b5e98.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 디톡스 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53516</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53516</guid>
-            <pubDate>Tue, 09 Nov 2021 23:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10(수) 00:00]]></content:encoded>
+            <title><![CDATA[빼빼로 먹을사라암🍫🍪💝👋 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268754</link>
+            <guid>https://www.vlive.tv/video/268754</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[Bling Bling]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼팽으로 만나는 겨울왕국 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53515</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53515</guid>
-            <pubDate>Tue, 09 Nov 2021 08:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10(수) 05:00]]></content:encoded>
+            <title><![CDATA[제 1회 공삼고사✏️ 문제 푸는 날 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268589</link>
+            <guid>https://www.vlive.tv/video/268589</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[OnlyOneOf]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211110_145/1636534840976khmGB_JPEG/upload_806145447252406766ba40d62-65eb-4d5a-b6bd-4652bf9ff080.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 봐~ 예린이 라이브 방송이다~💛 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268593</link>
+            <guid>https://www.vlive.tv/video/268593</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211110_125/1636535725862YK25W_JPEG/upload_5280257624521194190d84ceb-341c-41e7-bca2-81a90b4f0d6d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MCND-LOG 19] 배달을 기다리며 노랩즈가 하는 일은?! (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268752</link>
+            <guid>https://www.vlive.tv/video/268752</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[MCND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_126/1636624419882pVQSO_JPEG/upload_52894020653773670f2ca4391-b4ca-45d5-97bf-85187357b09d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래게임천국🎮 | EP.05 바스켓 크래프트 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268749</link>
+            <guid>https://www.vlive.tv/video/268749</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_120/1636623103382fhRn9_JPEG/upload_807028203113316140112ab66-3f39-4c74-8bf1-990dd4283eed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BG-CLIP] 🎵Singing In The Rain☔ 브레이브걸스 영동대로 K-POP 콘서트 비하인드📹 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268547</link>
+            <guid>https://www.vlive.tv/video/268547</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211110_1/1636512164357wbcXE_JPEG/upload_8059186483332900199424996-3bd2-4283-b26b-f29610d96294.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펜타곤의 예능연구소 : 걸어서 TV 속으로 📺 #01 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268377</link>
+            <guid>https://www.vlive.tv/video/268377</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211108_93/1636345804797pzqP6_JPEG/upload_804253984074893768b4c4cc8-d928-4bdc-a55b-cf09c95348f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[vvlive] 2021 라사라 패션위크 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/266661</link>
+            <guid>https://www.vlive.tv/video/266661</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[VVLIVE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211022_124/16348868576209XpE3_JPEG/upload_7896649574845098213c053a8-377c-42ae-a817-78523f0e9d5a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(광고) 반려동물 생활 가이드 - 써니의 월간멍냥 5화 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268391</link>
+            <guid>https://www.vlive.tv/video/268391</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[N 쇼핑 라이브쇼]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211108_300/1636354038503jEzXB_JPEG/upload_804337598755763675112fc94-b590-4b91-95e5-4a5a35e31e70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ㅇㅅㅇ...? 셋째의 보이스 브이앱 (V LIVE)]]></title>
@@ -716,6 +811,63 @@
             <guid>https://www.vlive.tv/video/268746</guid>
             <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_107/1636624671612IhncD_JPEG/162fa052-42d5-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빼빼로데이♥︎ (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268733</link>
+            <guid>https://www.vlive.tv/video/268733</guid>
+            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_243/1636620925469ApgNa_JPEG/149409319463335058eb26bfc6-9baa-4611-aeb8-7da60a1fe3b4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[📻 다시 돌아온 BOY는 라디오 📻 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268750</link>
+            <guid>https://www.vlive.tv/video/268750</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[TREASURE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_262/1636623815442yVa2N_JPEG/75780298287159519f12def0e-1214-42da-99e5-aa67f1ba4795.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셋째의 나른한 보이스 브이앱 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268717</link>
+            <guid>https://www.vlive.tv/video/268717</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_98/1636623791826he5jv_JPEG/9ec4efd8-42d0-11ec-b2c0-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 정모 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268724</link>
+            <guid>https://www.vlive.tv/video/268724</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_251/1636623601504UjoT5_JPEG/3c1d0114-42cf-11ec-9524-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["카"놀라"유" 🟨🟨⬛⬛⬛⬛ (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268722</link>
+            <guid>https://www.vlive.tv/video/268722</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_279/1636623951683yMisA_JPEG/4d527b51-42ce-11ec-8636-505dac8c3639_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김다정이 🟫🟫🟫🟫🟨🟨 만들어 볼게요 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268726</link>
+            <guid>https://www.vlive.tv/video/268726</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_276/1636623220354zEtCt_JPEG/6974ac26-42cf-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안ㄴ녕 (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268748</link>
+            <guid>https://www.vlive.tv/video/268748</guid>
+            <pubDate>Thu, 11 Nov 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_28/1636623064639IUVuj_JPEG/1494986016316210194ea73604-c552-4e5b-a3c2-09b5d2e71a3c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2021 Roundabout] 레인보우 노트(Rainbow note) - 여름안의 추억, 오늘 밤은, 샛별 Live (V LIVE)]]></title>
@@ -790,14 +942,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211111_92/1636621493772p8zFH_JPEG/1636612544972.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💛허니텐과 함께하는 쿤 생일 파티💛 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268708</link>
-            <guid>https://www.vlive.tv/video/268708</guid>
-            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[UP10TION]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_216/1636610621622Ha7NE_JPEG/upload_806902522921804420ba36565-7b5d-42ae-b189-9e8b027b5e98.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴스엔TV] 코카N버터(CocaNButter), '심쿵 팜므파탈 ' (레드카펫) (V LIVE)]]></title>
             <link>https://www.vlive.tv/video/268736</link>
             <guid>https://www.vlive.tv/video/268736</guid>
@@ -812,22 +956,6 @@
             <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211110_39/1636542528741TJn9h_JPEG/upload_80622242704417660fd82f016-e4e6-497f-8ca9-94595f5fbfae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[은서] 오늘의 이야기 EP.40 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268615</link>
-            <guid>https://www.vlive.tv/video/268615</guid>
-            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211110_85/1636544898620TnWX1_JPEG/upload_8062444534036988911d95b40-6301-47b1-abf2-c2aed8c9f73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘은 쿠스가 요리사]빼빼로데이엔_쿠스팝❣️ (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268735</link>
-            <guid>https://www.vlive.tv/video/268735</guid>
-            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[N.CUS (엔쿠스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_269/16366212003547G562_JPEG/14940951129044135277d0b209-0091-4635-ba9b-c79f6293def0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10CM (십센치) - 어제 너는 나를 버렸어 [MV] (V LIVE)]]></title>
@@ -894,27 +1022,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20211019_52/1634628266538jLvwS_JPEG/maxresdefault.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[It's 11:11 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268734</link>
-            <guid>https://www.vlive.tv/video/268734</guid>
-            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[DONGKIZ]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[빼빼로데이♥︎ (V LIVE)]]></title>
             <link>https://www.vlive.tv/video/268732</link>
             <guid>https://www.vlive.tv/video/268732</guid>
             <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
             <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_296/1636620875478zKA4x_JPEG/14949653945912633865bae45d-f34a-4261-95f9-5e0ea7fbf429.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빼빼로데이♥︎ (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268733</link>
-            <guid>https://www.vlive.tv/video/268733</guid>
-            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_243/1636620925469ApgNa_JPEG/149409319463335058eb26bfc6-9baa-4611-aeb8-7da60a1fe3b4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코카앤버터:CocaNButter] 스우파 코카앤버터 '스웨그 넘치는 개성 있는 포즈' (V LIVE)]]></title>
@@ -941,20 +1054,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211111_268/1636619444083ryNPg_JPEG/1636618817381.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KARA 박규리(Park Gyuri)·허영지(Heo Youngji] '시상식에서 다시 만난 카라' (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268727</link>
-            <guid>https://www.vlive.tv/video/268727</guid>
-            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_108/1636619408844cHmai_JPEG/1636619163239.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정은지:Apink Jung Eunji] 오늘은 강지구 쉽니다 '눈부신 청순 미모' (술꾼도시여자들) (V LIVE)]]></title>
             <link>https://www.vlive.tv/video/268728</link>
             <guid>https://www.vlive.tv/video/268728</guid>
             <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_56/1636619425085B0jBC_JPEG/1636619166782.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KARA 박규리(Park Gyuri)·허영지(Heo Youngji] '시상식에서 다시 만난 카라' (V LIVE)]]></title>
+            <link>https://www.vlive.tv/video/268727</link>
+            <guid>https://www.vlive.tv/video/268727</guid>
+            <pubDate>Thu, 11 Nov 2021 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_108/1636619408844cHmai_JPEG/1636619163239.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ㅎ2 (V LIVE)]]></title>
@@ -995,118 +1108,6 @@
             <pubDate>Thu, 11 Nov 2021 08:27:10 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_272/1636607553755gvwcA_JPEG/upload_806809737665704739a9d4eba-8b40-4eea-a1fe-2bf6a33c8ad3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빼빼로데이 SPECIAL GIFT💝 골차에게 고백 받은 SSUL 그 뒷이야기🍫ㅣ골든차일드(Golden Child) (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268611</link>
-            <guid>https://www.vlive.tv/video/268611</guid>
-            <pubDate>Thu, 11 Nov 2021 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_148/1636617495824coEkY_JPEG/upload_528113960693045433b49cadf-5a4c-4f2b-b268-0848ccadfcd4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석 인성 논란⁉️｜30년지기 절친 송은이가 밝힌다 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268582</link>
-            <guid>https://www.vlive.tv/video/268582</guid>
-            <pubDate>Thu, 11 Nov 2021 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[VIVO TV (비보티비)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211110_116/1636530301592jCRnJ_PNG/1636529964810.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하십니까😊 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268720</link>
-            <guid>https://www.vlive.tv/video/268720</guid>
-            <pubDate>Thu, 11 Nov 2021 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_66/1636616683972Wcicf_JPEG/10c1e07b-42c3-11ec-9dda-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》이번주 콘투어는💌시크릿넘버(SECRET NUMBER)와 함께 영국으로 떠난다💌~!! _493 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268714</link>
-            <guid>https://www.vlive.tv/video/268714</guid>
-            <pubDate>Thu, 11 Nov 2021 07:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_224/1636614848825uzNNC_PNG/upload_5288445339449377156bf4620-0ca8-40c5-afb0-ecc2a6c70c32.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다들미안ㅠㅠㅠ 빼빼로데이💗 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268706</link>
-            <guid>https://www.vlive.tv/video/268706</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[LUNARSOLAR]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_213/1636608339626eRuho_JPEG/149396795546187506c1d67f57-c04c-4521-989c-f67454352209.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니) (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/267976</link>
-            <guid>https://www.vlive.tv/video/267976</guid>
-            <pubDate>Thu, 11 Nov 2021 05:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211104_172/1636001846805ENP7V_JPEG/upload_522714316026997263213d8f0-0636-4985-9d0e-6d7a3d4a0ba7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 얘기 좀 합시다 #118 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268707</link>
-            <guid>https://www.vlive.tv/video/268707</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_127/1636616507278sN8p0_JPEG/da22603a-42c1-11ec-a3dc-246e963a464c_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apink Mini Diary - (정은)지구의 '술꾼도시여자들' 촬영 현장 (with 보윤 씨) (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268665</link>
-            <guid>https://www.vlive.tv/video/268665</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[Apink]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_164/1636595020816mSzaU_JPEG/upload_52864624428583247161cb28b-ba77-44c0-aaba-99c50a0951f4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weeekly(위클리) TODAY☀ 농업인의 날 기념🌾 위클리의 본격적인 가래떡 먹방🍴 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268570</link>
-            <guid>https://www.vlive.tv/video/268570</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211110_35/163652398017486UoV_JPEG/1636513622361.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] KSO국제지휘콩쿠르 결선 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268705</link>
-            <guid>https://www.vlive.tv/video/268705</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[V CLASSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_152/1636607990282Nh398_JPEG/573a8c2a-42ae-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268703</link>
-            <guid>https://www.vlive.tv/video/268703</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[V CLASSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_146/1636607533609gmjdc_JPEG/6da81560-42ad-11ec-8140-a0369ff963bc_09.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빼빼로 만드는 루솔둥둥♡_♡ (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268692</link>
-            <guid>https://www.vlive.tv/video/268692</guid>
-            <pubDate>Thu, 11 Nov 2021 06:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[LUNARSOLAR]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_16/16366071299783zOEd_JPEG/58659568511987378868c7f05-9549-4178-b22d-93a104f17e48.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOON - 'PASSAGE' with BAND SESSION (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268669</link>
-            <guid>https://www.vlive.tv/video/268669</guid>
-            <pubDate>Thu, 11 Nov 2021 05:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_29/1636597542497qWf8l_JPEG/1636597471573.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Replay] VICTON X LOFT Preview - 빅톤 X 다락방 프리뷰 (V LIVE)]]></title>
-            <link>https://www.vlive.tv/video/268114</link>
-            <guid>https://www.vlive.tv/video/268114</guid>
-            <pubDate>Thu, 11 Nov 2021 05:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[V COOKIE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211105_204/1636091366919hMAgf_PNG/upload_52360973918458153f284339b-3f51-4c23-828d-064881a86101.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[패션 | 1위템 코드그라피 숏 패딩의 인기 비결은? (무신사 ─ 패션 뉴스)]]></title>
@@ -1368,7 +1369,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 33- 그들이 사는 세상 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/117749" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1385,7 +1386,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 32- 다만 단종에서 구하소서 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/117512" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1402,7 +1403,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 31- 슈퍼카의 끝판왕 ‘롤스로이스’에 대해서 알아보자. (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/117442" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1419,7 +1420,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 30- 오은영 선생님은 에르메스 VVIP인가? (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/117426" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1436,7 +1437,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 29- 신세계가 만든 최고급 브랜드 '뽀아레'를 알아보자. (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/117133" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1453,7 +1454,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 28- 1분이라도 시간을 아껴주는 아이템 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116294" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1470,7 +1471,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 12 (마이크로프로텍트 CTO 아샬) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116286" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1487,7 +1488,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 27- 당신이 지금 버킨백을 사야 하는 이유 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116230" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1504,7 +1505,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 26- 한국인의 소울푸드 떡볶이 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116214" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1521,7 +1522,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 11 (픗픗아카데미 개발자 신동주) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116176" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1538,7 +1539,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 25- VVIP 건강검진은 2500만 원? (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116151" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1556,7 +1557,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 24- 코로나 시대의 이상한 백화점 정책 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116060" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1573,7 +1574,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 23 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116043" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1591,7 +1592,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 10 (PM 박정현) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116020" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1608,7 +1609,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 22 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/116011" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1625,7 +1626,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 9 (개발자 진유림) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/115995" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1642,7 +1643,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 21 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/115917" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1659,7 +1660,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 8 (마케터 조경상) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/115479" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1676,7 +1677,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 7 (딥서치 김재윤 대표) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/115339" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1693,7 +1694,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 6 (픗픗 아카데미 최기영 본부장) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/115214" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1710,7 +1711,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 20 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114997" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1728,7 +1729,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 5 (프레시코드 CMO 유이경)(완결) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114669" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1745,7 +1746,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 19 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114619" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1762,7 +1763,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 18 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114520" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1779,7 +1780,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 17 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114392" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1796,7 +1797,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 16 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114346" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1814,7 +1815,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 15 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114316" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1831,7 +1832,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 4 (아마존 데이터 사이언티스트 윤효근) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114278" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1849,7 +1850,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 14 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114238" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1866,7 +1867,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 13 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114195" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1884,7 +1885,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 3 (Hillstone Investments LLC 황라열 대표) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114108" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1901,7 +1902,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 12 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114035" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1918,7 +1919,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 11 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114018" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1935,7 +1936,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 2 (링고크래프트 대표 정향) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/114009" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1952,7 +1953,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 10 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113971" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1969,7 +1970,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 1 (ODK MEDIA 데이터 사이언티스트 권정민) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113950" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -1986,7 +1987,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 9 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113947" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2004,7 +2005,7 @@
             <title><![CDATA[신림동 캐리의 스타트업 고인물 0 (SNEK CMO 김영주) (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113900" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2021,7 +2022,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 8 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113875" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2038,7 +2039,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 7 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113826" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2056,7 +2057,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 6 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113761" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2073,7 +2074,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 5 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113712" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2090,7 +2091,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 4 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113660" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2107,7 +2108,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 3 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113614" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2124,7 +2125,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 2 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113584" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2141,7 +2142,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 1 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113553" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -2158,7 +2159,7 @@
             <title><![CDATA[신림동 캐리의 사다가(BUY) 망한 이야기 0 (SNEK)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://www.snek.ai/alpha/opinion/113499" target="_blank">
                     <div class="write-info">
                         <div class="title-wrap">
@@ -4944,708 +4945,708 @@
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#15e7e143dca#head--> B.I <!--fragment#15e7e143dca#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1568110be4e#head--> B.I <!--fragment#1568110be4e#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/655/966/06/04/406966655_618b728a_s.jpg?1636528781564/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8d2de35008#head--> 창모 (CHANGMO) <!--fragment#8d2de35008#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#fdfe60e581#head--> 창모 (CHANGMO) <!--fragment#fdfe60e581#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/666/966/06/04/406966666_618b7468_s.jpg?1636529258917/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c795a1e274#head--> 10CM <!--fragment#c795a1e274#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#15265adae5e#head--> 10CM <!--fragment#15265adae5e#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/684/966/06/04/406966684_618b7591_s.jpg?1636529555440/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#ef66a87698#head--> DRIPPIN (드리핀) <!--fragment#ef66a87698#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#c48ea907dc#head--> DRIPPIN (드리핀) <!--fragment#c48ea907dc#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/477/971/06/04/406971477_618c78c4_s.jpg?1636595911194/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#69da9941dc#head--> 알레프 (ALEPH) <!--fragment#69da9941dc#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#7152d45d40#head--> 알레프 (ALEPH) <!--fragment#7152d45d40#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/599/961/06/04/406961599_6189cf1e_o.jpg?1636421407441/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#16f88e6ff32#head--> 김희재 <!--fragment#16f88e6ff32#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#8a2b79eca4#head--> 김희재 <!--fragment#8a2b79eca4#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/541/966/06/04/406966541_618b5f4a_o.jpg?1636523851831/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e1d940c088#head--> 이혁 <!--fragment#e1d940c088#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#877c121ee5#head--> 이혁 <!--fragment#877c121ee5#tail-->]]></content:encoded>
             <enclosure url="https://cdn.music-flo.com/image/v2/album/748/964/06/04/406964748_618acc09_o.jpg?1636486153676/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#153d4d861c5#head--> 안경잽이 <!--fragment#153d4d861c5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1b38c65030#head--> 안경잽이 <!--fragment#1b38c65030#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#120d7d2c3f9#head--> lilli lilli (릴리릴리) <!--fragment#120d7d2c3f9#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#e0c3fe1c63#head--> lilli lilli (릴리릴리) <!--fragment#e0c3fe1c63#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8efbe2edaf#head--> 그네 <!--fragment#8efbe2edaf#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#ec20583cda#head--> 그네 <!--fragment#ec20583cda#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bc15ad9240#head--> GGM Kimbo <!--fragment#bc15ad9240#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#12e9e41c56b#head--> GGM Kimbo <!--fragment#12e9e41c56b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#fd9f83f470#head--> 솔희 (SOHLHEE) <!--fragment#fd9f83f470#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#59c83a3f5b#head--> 솔희 (SOHLHEE) <!--fragment#59c83a3f5b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#45b578d6e5#head--> 요아리 <!--fragment#45b578d6e5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16b4dceb288#head--> 요아리 <!--fragment#16b4dceb288#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bf4a054b00#head--> 리오 (RIO) <!--fragment#bf4a054b00#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#60fd1f9da4#head--> 리오 (RIO) <!--fragment#60fd1f9da4#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3a1b2f559#head--> Midas P <!--fragment#3a1b2f559#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1c65650592#head--> Midas P <!--fragment#1c65650592#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#111ec1288a0#head--> ICHILLIN' (아이칠린) <!--fragment#111ec1288a0#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#a3f2288fa3#head--> ICHILLIN' (아이칠린) <!--fragment#a3f2288fa3#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1342552e067#head--> 미란이 (Mirani) <!--fragment#1342552e067#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16c94389f1a#head--> 미란이 (Mirani) <!--fragment#16c94389f1a#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3de3bf1c6f#head--> James Son <!--fragment#3de3bf1c6f#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#cebc3e0bfd#head--> James Son <!--fragment#cebc3e0bfd#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#13211fa4d4#head--> 양다일 <!--fragment#13211fa4d4#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#7aeb4326cb#head--> 양다일 <!--fragment#7aeb4326cb#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#12526e72a77#head--> B1A4 <!--fragment#12526e72a77#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#4f6ceb9724#head--> B1A4 <!--fragment#4f6ceb9724#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#6d43c0f49d#head--> 라임어택 <!--fragment#6d43c0f49d#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#141437c2c53#head--> 라임어택 <!--fragment#141437c2c53#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e53a3eb219#head--> PITTA (강형호) <!--fragment#e53a3eb219#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#111f32d37a5#head--> PITTA (강형호) <!--fragment#111f32d37a5#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#163d0674da5#head--> Woodae <!--fragment#163d0674da5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#12216237e5d#head--> Woodae <!--fragment#12216237e5d#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#f2f05833fe#head--> 하이량 <!--fragment#f2f05833fe#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#49f68a605a#head--> 하이량 <!--fragment#49f68a605a#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#157e39e7a49#head--> PicoVello <!--fragment#157e39e7a49#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#52a33fbdc3#head--> PicoVello <!--fragment#52a33fbdc3#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#2e8c5566d2#head--> GRACE SHIN (그레이스 신) <!--fragment#2e8c5566d2#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#ead57571ae#head--> GRACE SHIN (그레이스 신) <!--fragment#ead57571ae#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#11f15ff3bb6#head--> 하범석 <!--fragment#11f15ff3bb6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#3fb209e0b2#head--> 하범석 <!--fragment#3fb209e0b2#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e1e9a7794c#head--> P!nUp (핀업) <!--fragment#e1e9a7794c#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#12423a417b1#head--> P!nUp (핀업) <!--fragment#12423a417b1#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c3e07dc288#head--> Billlie <!--fragment#c3e07dc288#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#15cd8fde0c0#head--> Billlie <!--fragment#15cd8fde0c0#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#172474f14c0#head--> 루 (LEW) <!--fragment#172474f14c0#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#fd29a8482b#head--> 루 (LEW) <!--fragment#fd29a8482b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3000fd802a#head--> JUNNY (주니) <!--fragment#3000fd802a#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#148575511e1#head--> JUNNY (주니) <!--fragment#148575511e1#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#14a4dc489e5#head--> 아이씨유 (ICU) <!--fragment#14a4dc489e5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#11b4a3b8017#head--> 아이씨유 (ICU) <!--fragment#11b4a3b8017#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1561e776b10#head--> SIM2 <!--fragment#1561e776b10#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#6370b12366#head--> SIM2 <!--fragment#6370b12366#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#11ffb4047c6#head--> 요조 <!--fragment#11ffb4047c6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1628fbc3d2e#head--> 요조 <!--fragment#1628fbc3d2e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c1aaf4438e#head--> 에일리(Ailee) <!--fragment#c1aaf4438e#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#3b08f13773#head--> 에일리(Ailee) <!--fragment#3b08f13773#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5f8110b58d#head--> 설아 (우주소녀) <!--fragment#5f8110b58d#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#110f7e2974#head--> 설아 (우주소녀) <!--fragment#110f7e2974#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#a48c7352ce#head--> 옐로우 스트링 보이스 <!--fragment#a48c7352ce#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#20efa6db5b#head--> 옐로우 스트링 보이스 <!--fragment#20efa6db5b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#dc410e78e6#head--> 조성민 <!--fragment#dc410e78e6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#441777368c#head--> 조성민 <!--fragment#441777368c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#147e2958fdd#head--> 오치영 <!--fragment#147e2958fdd#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16dd64d9f90#head--> 오치영 <!--fragment#16dd64d9f90#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#d0a6a255fc#head--> 오씨 (oc) <!--fragment#d0a6a255fc#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#e965505201#head--> 오씨 (oc) <!--fragment#e965505201#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#10cee69de22#head--> 라날로그 (Lanalogue) <!--fragment#10cee69de22#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#702492ac9#head--> 라날로그 (Lanalogue) <!--fragment#702492ac9#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#cb8dc0cfc5#head--> 프롬올투휴먼 (from all to human) <!--fragment#cb8dc0cfc5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1ff55589d2#head--> 프롬올투휴먼 (from all to human) <!--fragment#1ff55589d2#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#cb53087e59#head--> psv:gun <!--fragment#cb53087e59#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1e82eee4a8#head--> psv:gun <!--fragment#1e82eee4a8#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1340fa63f0a#head--> Blew.D <!--fragment#1340fa63f0a#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#15a77b5ed4f#head--> Blew.D <!--fragment#15a77b5ed4f#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#cb8cb386a5#head--> 더 데이지 (The Daisy) <!--fragment#cb8cb386a5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#8290eaba28#head--> 더 데이지 (The Daisy) <!--fragment#8290eaba28#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#14f76af57b7#head--> 천소아 <!--fragment#14f76af57b7#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#169ec1f652e#head--> 천소아 <!--fragment#169ec1f652e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#579386c3ba#head--> VICTON (빅톤) <!--fragment#579386c3ba#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#11905c6e480#head--> VICTON (빅톤) <!--fragment#11905c6e480#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c0de15b7aa#head--> 띵크 (th!nk) <!--fragment#c0de15b7aa#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#11b298074d7#head--> 띵크 (th!nk) <!--fragment#11b298074d7#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e6a4b50b32#head--> 칼레파 (KalRePa) <!--fragment#e6a4b50b32#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#dc9a9838db#head--> 칼레파 (KalRePa) <!--fragment#dc9a9838db#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#7a9f50d2f0#head--> Hodge <!--fragment#7a9f50d2f0#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#fbe6200c71#head--> Hodge <!--fragment#fbe6200c71#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bad4b84781#head--> 원어스 (ONEUS) <!--fragment#bad4b84781#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#efd36a1cd6#head--> 원어스 (ONEUS) <!--fragment#efd36a1cd6#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3996351aaa#head--> 라운드어바웃 (RoundAbout) <!--fragment#3996351aaa#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#11eb1b48922#head--> 라운드어바웃 (RoundAbout) <!--fragment#11eb1b48922#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5f82ffd179#head--> noovv <!--fragment#5f82ffd179#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#f3b8a854df#head--> noovv <!--fragment#f3b8a854df#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9738a61884#head--> 레코드벨 <!--fragment#9738a61884#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1556c5ba827#head--> 레코드벨 <!--fragment#1556c5ba827#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5abb01c7f4#head--> 크록 (CROQ) <!--fragment#5abb01c7f4#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16ca819a3af#head--> 크록 (CROQ) <!--fragment#16ca819a3af#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#856c362bc1#head--> 이소정 <!--fragment#856c362bc1#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16e891b75ae#head--> 이소정 <!--fragment#16e891b75ae#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#177600c7311#head--> Moon (혜원) <!--fragment#177600c7311#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1724e012c36#head--> Moon (혜원) <!--fragment#1724e012c36#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#152569907f5#head--> 전인권 <!--fragment#152569907f5#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#14e8aeb6eaf#head--> 전인권 <!--fragment#14e8aeb6eaf#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#81983e440a#head--> 엄지영 <!--fragment#81983e440a#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#356122f4d6#head--> 엄지영 <!--fragment#356122f4d6#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#15192373a50#head--> 보라미유 <!--fragment#15192373a50#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#a1c2b49151#head--> 보라미유 <!--fragment#a1c2b49151#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bac5e6b985#head--> 이나래 <!--fragment#bac5e6b985#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#149d5d4c62d#head--> 이나래 <!--fragment#149d5d4c62d#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3f4e8ac6f2#head--> ABOUT (어바웃) <!--fragment#3f4e8ac6f2#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#10c3e2ac713#head--> ABOUT (어바웃) <!--fragment#10c3e2ac713#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#138f0c00533#head--> 셔츠 보이 프랭크 <!--fragment#138f0c00533#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#7fb0e40277#head--> 셔츠 보이 프랭크 <!--fragment#7fb0e40277#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#ffdfad05f#head--> 징고 (ZINGO) <!--fragment#ffdfad05f#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#116f9a814d0#head--> 징고 (ZINGO) <!--fragment#116f9a814d0#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#123fe7e680d#head--> 브로맨스 (VROMANCE) <!--fragment#123fe7e680d#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#9071618e07#head--> 브로맨스 (VROMANCE) <!--fragment#9071618e07#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8f0897d3ef#head--> muhpy <!--fragment#8f0897d3ef#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#e7b24907fa#head--> muhpy <!--fragment#e7b24907fa#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#82172b98d9#head--> 투탁 핀셔 <!--fragment#82172b98d9#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#9ff2354be#head--> 투탁 핀셔 <!--fragment#9ff2354be#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#12143148fd3#head--> 빨간의자 <!--fragment#12143148fd3#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#c3a70563ae#head--> 빨간의자 <!--fragment#c3a70563ae#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#345b43bc33#head--> 로즈아나 (Rosanna) <!--fragment#345b43bc33#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#bdf76b3021#head--> 로즈아나 (Rosanna) <!--fragment#bdf76b3021#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8bf76454d3#head--> homezone <!--fragment#8bf76454d3#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1000d73f941#head--> homezone <!--fragment#1000d73f941#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3ec79067f1#head--> livur <!--fragment#3ec79067f1#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#121e0395585#head--> livur <!--fragment#121e0395585#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#b16bf0c082#head--> mmddyy (맨디) <!--fragment#b16bf0c082#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1bcaa357c0#head--> mmddyy (맨디) <!--fragment#1bcaa357c0#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#eee0db68d6#head--> THE PIECES(더 피스) <!--fragment#eee0db68d6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#71f9177518#head--> THE PIECES(더 피스) <!--fragment#71f9177518#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#a4bd56f048#head--> 황치열 <!--fragment#a4bd56f048#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#48bd95f616#head--> 황치열 <!--fragment#48bd95f616#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#22effe59c0#head--> 임재현 <!--fragment#22effe59c0#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#8c72432671#head--> 임재현 <!--fragment#8c72432671#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#142abd089ae#head--> 오브어스 <!--fragment#142abd089ae#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#205d93fac4#head--> 오브어스 <!--fragment#205d93fac4#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bbc92245ed#head--> 길구봉구 <!--fragment#bbc92245ed#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#100cfb7672c#head--> 길구봉구 <!--fragment#100cfb7672c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#17654913f97#head--> 폴립 (POLYP) <!--fragment#17654913f97#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#44e3f8ba43#head--> 폴립 (POLYP) <!--fragment#44e3f8ba43#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5c36905684#head--> 루나 (LUNA) <!--fragment#5c36905684#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1202978fb15#head--> 루나 (LUNA) <!--fragment#1202978fb15#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c8ee9b9a6#head--> 카야 (Kaya) <!--fragment#c8ee9b9a6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#a3a4d0387#head--> 카야 (Kaya) <!--fragment#a3a4d0387#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#10e903a7b2d#head--> 우현하 <!--fragment#10e903a7b2d#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#3f7cd7a53b#head--> 우현하 <!--fragment#3f7cd7a53b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8f15ef875f#head--> INJAE (인재) <!--fragment#8f15ef875f#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#11eb52b4045#head--> INJAE (인재) <!--fragment#11eb52b4045#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#73d584a590#head--> BIG Naughty (서동현) <!--fragment#73d584a590#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#2ff573e758#head--> BIG Naughty (서동현) <!--fragment#2ff573e758#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#119986a4513#head--> 미카엘 (M!KYLE) <!--fragment#119986a4513#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#58377102ed#head--> 미카엘 (M!KYLE) <!--fragment#58377102ed#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e73542943a#head--> Dine On <!--fragment#e73542943a#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#8355e4709b#head--> Dine On <!--fragment#8355e4709b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#16e09a91434#head--> 차정민 (NtoL) <!--fragment#16e09a91434#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#146f9110357#head--> 차정민 (NtoL) <!--fragment#146f9110357#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3da87c7cf9#head--> 민 <!--fragment#3da87c7cf9#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1644790cf9e#head--> 민 <!--fragment#1644790cf9e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#167dd35e852#head--> 텍사스가라오케 (Texas Karaoke) <!--fragment#167dd35e852#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1a1e2191c9#head--> 텍사스가라오케 (Texas Karaoke) <!--fragment#1a1e2191c9#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#155f8f48c#head--> 유정식 <!--fragment#155f8f48c#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#124c82c5303#head--> 유정식 <!--fragment#124c82c5303#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e848c28bbc#head--> 콘다 (Conda) <!--fragment#e848c28bbc#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#12a3b0e92f5#head--> 콘다 (Conda) <!--fragment#12a3b0e92f5#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#7b7520b8e6#head--> 이새봄 <!--fragment#7b7520b8e6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#91efdf905c#head--> 이새봄 <!--fragment#91efdf905c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#2ba8e748a0#head--> Jomalxne <!--fragment#2ba8e748a0#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#149bdc99571#head--> Jomalxne <!--fragment#149bdc99571#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#105e81b631a#head--> Jessica (제시카) <!--fragment#105e81b631a#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#118be3830d6#head--> Jessica (제시카) <!--fragment#118be3830d6#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#15b69d47190#head--> CMBY (코마보이) <!--fragment#15b69d47190#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16cbb94ebff#head--> CMBY (코마보이) <!--fragment#16cbb94ebff#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#e581fdabb6#head--> 플랏나인 <!--fragment#e581fdabb6#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#9f1b9b5fe7#head--> 플랏나인 <!--fragment#9f1b9b5fe7#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#177d4b2ccdc#head--> 필리 <!--fragment#177d4b2ccdc#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#10e80214fa8#head--> 필리 <!--fragment#10e80214fa8#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#62d7eb7452#head--> 진 <!--fragment#62d7eb7452#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#10f3a48924e#head--> 진 <!--fragment#10f3a48924e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5fb38403b9#head--> heyden <!--fragment#5fb38403b9#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#f34b813fea#head--> heyden <!--fragment#f34b813fea#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#108a97a0cb4#head--> 소연 (LABOUM) <!--fragment#108a97a0cb4#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#75014577c9#head--> 소연 (LABOUM) <!--fragment#75014577c9#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (FLO ─ New Track)]]></title>
             <link>https://amblerkr.github.io/feeds/all.xml</link>
             <guid>https://amblerkr.github.io/feeds/all.xml</guid>
-            <pubDate>Thu, 11 Nov 2021 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#dbb8552bed#head--> 임세모 <!--fragment#dbb8552bed#tail-->]]></content:encoded>
+            <pubDate>Thu, 11 Nov 2021 10:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#e31dd27fe8#head--> 임세모 <!--fragment#e31dd27fe8#tail-->]]></content:encoded>
         </item>
     </channel>
 </rss>
