@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-11T04:33:00.855Z</updated>
+    <updated>2021-11-11T05:23:10.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더원과 함께하는 첫사랑（밴드 이층버스 기부콘서트）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5626</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5626"/>
+        <updated>2021-11-11T05:20:36.671Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소수빈 X 구원찬［TUNE UP STAGE with Friends＃8］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5625</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5617"/>
         <updated>2021-11-09T02:33:42.898Z</updated>
         <content type="html"><![CDATA[2021.11.10(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［오픈일 변경］Play NuPlay［2nd Label Concert］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5616</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5616"/>
-        <updated>2021-11-08T11:18:21.189Z</updated>
-        <content type="html"><![CDATA[2021.11.16(화) 18:00]]></content>
     </entry>
 </feed>
