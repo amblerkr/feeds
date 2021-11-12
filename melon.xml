@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-12T01:13:53.941Z</updated>
+    <updated>2021-11-12T02:38:37.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Red C X W24［TUNE UP STAGE with Friends＃9］［튠업 스테이지 위드 프렌즈 # 9］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5629</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5629"/>
+        <updated>2021-11-12T02:34:45.339Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 보라미유 단독 콘서트 ‘What’s in my Winter’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5627</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5619</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5619"/>
         <updated>2021-11-10T09:22:15.353Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥상달빛 연말 단독 공연［수고했어，올해도 2021］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5618"/>
-        <updated>2021-11-09T05:19:57.223Z</updated>
         <content type="html"><![CDATA[2021.11.12(금) 18:00]]></content>
     </entry>
 </feed>
