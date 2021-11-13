@@ -4,9 +4,24 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 15:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 16:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽낌💗]]></title>
+            <link>https://www.vlive.tv/video/268982</link>
+            <guid>https://www.vlive.tv/video/268982</guid>
+            <pubDate>Sat, 13 Nov 2021 16:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나 오늘 생일 🎂]]></title>
+            <link>https://www.vlive.tv/video/268976</link>
+            <guid>https://www.vlive.tv/video/268976</guid>
+            <pubDate>Sat, 13 Nov 2021 16:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[그레이시]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211114_220/1636817135088ilK2W_JPEG/85bcd5d6-448f-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[센트럴파크에서]]></title>
             <link>https://www.vlive.tv/video/268978</link>
@@ -390,22 +405,6 @@
             <pubDate>Sat, 13 Nov 2021 03:24:47 GMT</pubDate>
             <content:encoded><![CDATA[NATYA SHINA]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211113_162/1636772748985B7wI6_JPEG/7a3b17eb-442e-11ec-9dda-505dac8c3607_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE "SCIENTIST" Cheering Guide]]></title>
-            <link>https://www.vlive.tv/video/268937</link>
-            <guid>https://www.vlive.tv/video/268937</guid>
-            <pubDate>Sat, 13 Nov 2021 03:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211113_192/1636772056712FSyMM_PNG/1636731039272.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위아이(WEi) - 위인전3 12화]]></title>
-            <link>https://www.vlive.tv/video/268929</link>
-            <guid>https://www.vlive.tv/video/268929</guid>
-            <pubDate>Sat, 13 Nov 2021 03:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211113_77/1636737495379IsXQl_JPEG/upload_80817211405166644d02656c4-c764-4807-ab2a-3f5644449275.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
