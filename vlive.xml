@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 16:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 17:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/269034</guid>
             <pubDate>Sun, 14 Nov 2021 16:34:40 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211115_173/1636908840423OS3je_JPEG/fe2833dd-456a-11ec-a331-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HELLO SUNDAY NIGHT 💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/269035</link>
+            <guid>https://www.vlive.tv/video/269035</guid>
+            <pubDate>Sun, 14 Nov 2021 17:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하 대면공연 이렇게 좋은 걸 왜 아무도 안 알려줬어요?]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 13 Nov 2021 16:33:28 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211114_80/1636823686885XWMmo_JPEG/632fe092-44a4-11ec-92ae-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 오늘 생일 🎂]]></title>
-            <link>https://www.vlive.tv/video/268976</link>
-            <guid>https://www.vlive.tv/video/268976</guid>
-            <pubDate>Sat, 13 Nov 2021 16:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[그레이시]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211114_220/1636817135088ilK2W_JPEG/85bcd5d6-448f-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
