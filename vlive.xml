@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 03:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 04:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보뿌뿌]]></title>
+            <link>https://www.vlive.tv/video/268986</link>
+            <guid>https://www.vlive.tv/video/268986</guid>
+            <pubDate>Sun, 14 Nov 2021 04:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211114_5/1636862045683NCBeQ_JPEG/149650415609241052249485a1-f023-4af4-8ff3-0f7596e8872b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위아이(WEi) - 위인전3 12화 번외편]]></title>
             <link>https://www.vlive.tv/video/268970</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 13 Nov 2021 06:28:15 GMT</pubDate>
             <content:encoded><![CDATA[VICTON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211112_25/16366818186447IP2k_JPEG/upload_80761528792997832cc547aae-d692-4efd-b2ec-63612afdd6de.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여름] 여름이가 문 엶🚪EP.7]]></title>
-            <link>https://www.vlive.tv/video/268941</link>
-            <guid>https://www.vlive.tv/video/268941</guid>
-            <pubDate>Sat, 13 Nov 2021 05:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211113_127/16367824054591Mg0T_JPEG/a3f30466-4444-11ec-9e9c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
