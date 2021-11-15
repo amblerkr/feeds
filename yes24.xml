@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-15T09:25:29.912Z</updated>
+    <updated>2021-11-15T10:27:58.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11332</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11332"/>
+        <updated>2021-11-15T10:25:03.028Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 앵콜 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11331</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11331"/>
+        <updated>2021-11-15T10:25:03.034Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FANTASY IN I’ll LAND] 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11330</id>
@@ -130,18 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11311"/>
         <updated>2021-11-11T02:34:38.592Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨티은행 시스템 작업에 따른 결제 서비스 중단 안내(11/14)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11310</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11310"/>
-        <updated>2021-11-11T01:09:42.568Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11309</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11309"/>
-        <updated>2021-11-10T06:27:01.420Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 11:00]]></content>
     </entry>
 </feed>
