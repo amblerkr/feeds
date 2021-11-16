@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-16T08:28:59.467Z</updated>
+    <updated>2021-11-16T09:25:51.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[wave to earth 단독공연 ［wave field 0．1］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5642</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5642"/>
+        <updated>2021-11-16T09:21:57.793Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［JOHA’s 2021 Birthday Christmas］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5641</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5632</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5632"/>
-        <updated>2021-11-12T05:20:24.143Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5631</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5631"/>
         <updated>2021-11-12T05:20:24.143Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
