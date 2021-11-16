@@ -4,9 +4,25 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 01:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 02:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hello]]></title>
+            <link>https://www.vlive.tv/video/269155</link>
+            <guid>https://www.vlive.tv/video/269155</guid>
+            <pubDate>Tue, 16 Nov 2021 02:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211116_272/1637029279371PLiWk_JPEG/upload_81108979634526740da294816-e066-4389-a754-9f4f38371980.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스엔TV] 블랙핑크 리사, 러블리 핑크빛 ‘LALISA’ (공항패션)]]></title>
+            <link>https://www.vlive.tv/video/269152</link>
+            <guid>https://www.vlive.tv/video/269152</guid>
+            <pubDate>Tue, 16 Nov 2021 02:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211116_155/1637028911204yfsiQ_JPEG/1637027017371.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://www.vlive.tv/video/268701</link>
@@ -14,6 +30,14 @@
             <pubDate>Tue, 16 Nov 2021 01:11:24 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_33/1636607467189voPtF_JPEG/upload_5287707040469817791831f61-73b8-4809-8f26-773061725c80.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://www.vlive.tv/video/268694</link>
+            <guid>https://www.vlive.tv/video/268694</guid>
+            <pubDate>Tue, 16 Nov 2021 02:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_115/1636607169957lQ2CJ_JPEG/upload_806868854741451489ccc65b8-dfff-411f-8495-563dda1becea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 샐러리맨의 신화, 퍼펙트맨 등장? 출근 끝판왕! 열정과다 CEO의 하루✨, MBC 211116 방송]]></title>
@@ -382,30 +406,6 @@
             <pubDate>Mon, 15 Nov 2021 10:25:37 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211115_117/1636953267200ajXD0_JPEG/upload_53222795785270274f1fcd6e8-b18f-4416-83f6-1bef760caeda.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동동로그] 동현이의 어느 멋진 날 With. 다디🐶]]></title>
-            <link>https://www.vlive.tv/video/269044</link>
-            <guid>https://www.vlive.tv/video/269044</guid>
-            <pubDate>Mon, 15 Nov 2021 10:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211115_167/1636941556268bGrPs_JPEG/upload_81021077062283957d7e7f30d-21ee-4df7-b6ed-1365cde62e77.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bernard Park(버나드 박) "Bad Influence" M/V Making Film]]></title>
-            <link>https://www.vlive.tv/video/269017</link>
-            <guid>https://www.vlive.tv/video/269017</guid>
-            <pubDate>Mon, 15 Nov 2021 10:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[JYPnation]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211114_185/1636897581553hFdKL_PNG/1636897125269.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LUCKY TV] EP.91 레쓰꽁 럭키 VCR 비하인드 현장]]></title>
-            <link>https://www.vlive.tv/video/268833</link>
-            <guid>https://www.vlive.tv/video/268833</guid>
-            <pubDate>Mon, 15 Nov 2021 10:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211112_208/16366952109956Nuzm_JPEG/upload_807749238234750460ba39ab3-7983-45ad-a8c5-df807c0702ec.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
