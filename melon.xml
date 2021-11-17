@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-17T02:38:59.776Z</updated>
+    <updated>2021-11-17T03:26:40.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［크리스탈 티 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5643</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5643"/>
+        <updated>2021-11-17T03:23:10.940Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wave to earth 단독공연 ［wave field 0．1］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5642</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5634"/>
         <updated>2021-11-16T11:18:46.973Z</updated>
         <content type="html"><![CDATA[2021.11.16(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5633</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5633"/>
-        <updated>2021-11-12T07:21:15.802Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 11:00]]></content>
     </entry>
 </feed>
