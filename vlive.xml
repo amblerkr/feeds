@@ -4,9 +4,16 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 16:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 새벽 방송~]]></title>
+            <link>https://www.vlive.tv/video/269548</link>
+            <guid>https://www.vlive.tv/video/269548</guid>
+            <pubDate>Thu, 18 Nov 2021 17:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Short talk]]></title>
             <link>https://www.vlive.tv/video/269547</link>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 18 Nov 2021 10:25:58 GMT</pubDate>
             <content:encoded><![CDATA[임수향]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_29/1637227807346kuNYy_JPEG/59280245809718796493948e2-7f3e-43fe-ba1c-94b227eb56e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
-            <link>https://www.vlive.tv/video/268690</link>
-            <guid>https://www.vlive.tv/video/268690</guid>
-            <pubDate>Thu, 18 Nov 2021 10:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_153/1636607086132flJ98_JPEG/upload_806868175154544134cb15792-f178-4e83-b31d-b13d0b3adb92.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
