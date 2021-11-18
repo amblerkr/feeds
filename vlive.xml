@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빨강 구두 84회 예고 (KBS20211118방송)]]></title>
+            <link>https://www.vlive.tv/video/269446</link>
+            <guid>https://www.vlive.tv/video/269446</guid>
+            <pubDate>Thu, 18 Nov 2021 06:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[KBS드라마]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_201/1637216217881k2mXF_JPEG/0080ba44-4837-11ec-b0b6-246e963a4708_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아임라이브] 터치드 'Call Me' (Touched - Call Me)]]></title>
             <link>https://www.vlive.tv/video/269442</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 17 Nov 2021 13:29:47 GMT</pubDate>
             <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211117_122/1637153095846qSQfG_JPEG/048a37f0-479c-11ec-9ac7-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스엔TV] 케플러(Kep1er), 걸스플래닛999 소녀들과 설레이는 첫 만남 (방송국 출근길)]]></title>
-            <link>https://www.vlive.tv/video/269393</link>
-            <guid>https://www.vlive.tv/video/269393</guid>
-            <pubDate>Wed, 17 Nov 2021 13:29:47 GMT</pubDate>
-            <content:encoded><![CDATA[NEWSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211117_163/1637152989402cFM3K_JPEG/1637148837387.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

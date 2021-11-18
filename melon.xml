@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-18T05:23:37.720Z</updated>
+    <updated>2021-11-18T06:30:13.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST：전율 정동하 X 소 향－대구 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5656</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5656"/>
+        <updated>2021-11-18T06:25:57.241Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈레베카〉 4차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5655</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5641"/>
         <updated>2021-11-16T03:23:13.726Z</updated>
         <content type="html"><![CDATA[2021.11.17(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안희수 단독공연 〈still silly〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5640</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5640"/>
-        <updated>2021-11-16T03:23:13.729Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 18:00]]></content>
     </entry>
 </feed>
