@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-19T02:39:07.747Z</updated>
+    <updated>2021-11-19T03:26:34.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임헌일 연말공연［ENCORE］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5660</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5660"/>
+        <updated>2021-11-19T03:23:10.610Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST：전율 정동하 X 소 향－대구 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5656</id>
@@ -20,6 +27,13 @@
         <content type="html"><![CDATA[2021.11.25(목) 14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내맘쏙：모두의 그림책 전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5654</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5654"/>
+        <updated>2021-11-19T03:23:10.637Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 12:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[리엘（Liel）단독공연［Goodbye I’m Going Home］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5653</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5653"/>
@@ -32,6 +46,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5652"/>
         <updated>2021-11-19T01:09:21.170Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALIVE STAGE ＃7：백아 소극장 단독 콘서트 ‘종이비행기’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5650</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5650"/>
+        <updated>2021-11-19T03:23:10.647Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5647"/>
         <updated>2021-11-18T03:22:51.893Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주윤하 콘서트 BE FINE 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5646</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5646"/>
-        <updated>2021-11-18T03:22:51.899Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오현진 단독공연 ［I´LL BE YOUR LOVE］2021 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5645</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5645"/>
-        <updated>2021-11-18T03:22:51.899Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021 정성하，Winter Limited Concert］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5644</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5644"/>
-        <updated>2021-11-18T09:22:53.743Z</updated>
-        <content type="html"><![CDATA[2021.11.19(금) 18:00]]></content>
     </entry>
 </feed>
