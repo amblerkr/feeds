@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-19T03:26:34.596Z</updated>
+    <updated>2021-11-19T04:31:58.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈언더스터디〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11344</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11344"/>
+        <updated>2021-11-19T04:29:08.314Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 장범준 연말공연〈잠이 오질 않네요〉- 부산 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11340</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11320"/>
         <updated>2021-11-18T02:34:47.467Z</updated>
         <content type="html"><![CDATA[2021.11.15(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11319</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11319"/>
-        <updated>2021-11-18T02:34:47.467Z</updated>
-        <content type="html"><![CDATA[2021.11.23(화) 10:00]]></content>
     </entry>
 </feed>
