@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-18T23:27:00.032Z</updated>
+    <updated>2021-11-19T01:12:51.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53593</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53593"/>
+        <updated>2021-11-19T01:10:19.363Z</updated>
+        <content type="html"><![CDATA[2021.11.22(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 스크루테이프의 편지 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53592</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53579</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53579"/>
         <updated>2021-11-17T10:26:18.635Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 제133회 정기연주회, 슈만과 함께하는 크리스마스 with 발레​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53578</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53578"/>
-        <updated>2021-11-17T09:25:58.092Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
     </entry>
 </feed>

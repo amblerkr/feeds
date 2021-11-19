@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-18T23:27:00.034Z</updated>
+    <updated>2021-11-19T01:12:51.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5653"/>
         <updated>2021-11-18T05:20:04.285Z</updated>
         <content type="html"><![CDATA[2021.11.23(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［우주라이브］Jade．L 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5652</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5652"/>
+        <updated>2021-11-19T01:09:21.170Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5644"/>
         <updated>2021-11-18T09:22:53.743Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［크리스탈 티 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5643</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5643"/>
-        <updated>2021-11-17T03:23:10.940Z</updated>
-        <content type="html"><![CDATA[2021.11.24(수) 20:00]]></content>
     </entry>
 </feed>
