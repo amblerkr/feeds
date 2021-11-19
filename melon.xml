@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-19T07:25:51.841Z</updated>
+    <updated>2021-11-19T08:29:21.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5663"/>
         <updated>2021-11-19T04:28:41.593Z</updated>
         <content type="html"><![CDATA[2021.11.26(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈클림트：그 영혼의 시간속으로〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5662</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5662"/>
+        <updated>2021-11-19T08:26:08.198Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［광주］2021 이승철 전국투어 콘서트 “우리，이제 만나요” 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5653"/>
         <updated>2021-11-18T05:20:04.285Z</updated>
         <content type="html"><![CDATA[2021.11.23(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［우주라이브］Jade．L 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5652</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5652"/>
-        <updated>2021-11-19T01:09:21.170Z</updated>
-        <content type="html"><![CDATA[2021.11.19(금) 12:00]]></content>
     </entry>
 </feed>
