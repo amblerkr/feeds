@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 15:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 16:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/269710</guid>
             <pubDate>Sat, 20 Nov 2021 15:23:30 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211121_2/1637424557875ViTrV_JPEG/d36afffe-4a1b-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송선이의 힐링보이스🎤]]></title>
+            <link>https://www.vlive.tv/video/269707</link>
+            <guid>https://www.vlive.tv/video/269707</guid>
+            <pubDate>Sat, 20 Nov 2021 16:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[TRI.BE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211120_44/1637413231357cz5wO_JPEG/1502888953414445639dfb056b-1117-4e0c-bcbe-a2cebcc633da.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Origin of Xdinary Heroes]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 19 Nov 2021 15:24:17 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211119_241/1637327129006yqYPA_JPEG/1637327062472.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "Christmas EveL” M/V Teaser 1]]></title>
-            <link>https://www.vlive.tv/video/269666</link>
-            <guid>https://www.vlive.tv/video/269666</guid>
-            <pubDate>Fri, 19 Nov 2021 15:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211120_61/1637334025688j65yu_JPEG/1637318621728.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
