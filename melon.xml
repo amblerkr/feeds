@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-22T04:32:49.248Z</updated>
+    <updated>2021-11-22T05:23:41.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우지원 단독공연 〈Not Just a Dream〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5667</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5667"/>
+        <updated>2021-11-22T05:20:42.438Z</updated>
+        <content type="html"><![CDATA[2021.11.25(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오프더메뉴 첫 단독콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5666</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5657"/>
         <updated>2021-11-20T05:19:20.971Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST：전율 정동하 X 소 향－대구 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5656</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5656"/>
-        <updated>2021-11-20T05:19:20.973Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 15:00]]></content>
     </entry>
 </feed>
