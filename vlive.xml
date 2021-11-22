@@ -4,15 +4,24 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 18:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 19:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎡🎢새벽나라🎠🎟]]></title>
+            <link>https://www.vlive.tv/video/269866</link>
+            <guid>https://www.vlive.tv/video/269866</guid>
+            <pubDate>Mon, 22 Nov 2021 19:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211123_16/1637608291838QSgRg_JPEG/15039666278108351668a6d386-c2e0-49ac-8850-fecb52d67d60.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR 자기전에 잠깐 🥱]]></title>
             <link>https://www.vlive.tv/video/269865</link>
             <guid>https://www.vlive.tv/video/269865</guid>
             <pubDate>Mon, 22 Nov 2021 18:28:20 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211123_122/1637607457152QF7TU_JPEG/58755e6d-4bc5-11ec-917b-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (겨울감성)]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Mon, 22 Nov 2021 10:25:45 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211122_69/16375753778650GWfk_JPEG/1637574552774.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깜짝 등장😎]]></title>
-            <link>https://www.vlive.tv/video/269818</link>
-            <guid>https://www.vlive.tv/video/269818</guid>
-            <pubDate>Mon, 22 Nov 2021 10:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211122_108/1637575159867Qyd9o_JPEG/150363549545799238841370ee-307c-4973-9b4f-6a715d058b46.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
