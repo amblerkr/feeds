@@ -4,7 +4,7 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 16:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/269944</guid>
             <pubDate>Tue, 23 Nov 2021 16:35:48 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_4/1637687413931hPoKD_JPEG/03b650ab-4c7f-11ec-9ac7-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서프라이즈 파티!💛🙌🏻🐝]]></title>
+            <link>https://www.vlive.tv/video/269945</link>
+            <guid>https://www.vlive.tv/video/269945</guid>
+            <pubDate>Tue, 23 Nov 2021 17:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[동치미가 왔다]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Tue, 23 Nov 2021 09:23:43 GMT</pubDate>
             <content:encoded><![CDATA[Planetarium Records]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211123_21/1637637145013e7E1D_JPEG/1637582507907.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BEHIND] Gotta RUN~ 루미너스🏃🏻음방 마지막주 비하인드🐣]]></title>
-            <link>https://www.vlive.tv/video/269834</link>
-            <guid>https://www.vlive.tv/video/269834</guid>
-            <pubDate>Tue, 23 Nov 2021 09:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211122_35/1637578846134xFEsF_PNG/upload_8165857407644239251bbc2e2-cdd2-42f8-89ca-485484f06bc9.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
