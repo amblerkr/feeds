@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-24T06:29:43.894Z</updated>
+    <updated>2021-11-24T07:25:40.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <창작가무극 '애기자운 꽃'> - 안동 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53626</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53626"/>
+        <updated>2021-11-24T07:22:22.558Z</updated>
+        <content type="html"><![CDATA[2021.11.25(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트  - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53625</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53625"/>
+        <updated>2021-11-24T07:22:22.559Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53624</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53612"/>
         <updated>2021-11-23T03:25:08.033Z</updated>
         <content type="html"><![CDATA[2021.11.24(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 더원 콘서트 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53611</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53611"/>
-        <updated>2021-11-23T03:25:08.035Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온에어 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53610</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53610"/>
-        <updated>2021-11-23T01:09:33.803Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 07:00]]></content>
     </entry>
 </feed>
