@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-11-24T03:26:35.702Z</updated>
+    <updated>2021-11-24T04:34:51.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CHOI MINHO FAN PARTY “BEST CHOI's MINHO 2021” 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11356&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11356&amp;order=1"/>
+        <updated>2021-11-24T04:31:01.569Z</updated>
+        <content type="html"><![CDATA[2021-11-29(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기프트 연말콘서트 [GIFT VILLAGE] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11353&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11345&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11345&amp;order=1"/>
         <updated>2021-11-23T12:35:13.950Z</updated>
-        <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈언더스터디〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11344&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11344&amp;order=1"/>
-        <updated>2021-11-23T12:35:13.952Z</updated>
         <content type="html"><![CDATA[2021-11-26(금) 14:00]]></content>
     </entry>
 </feed>
