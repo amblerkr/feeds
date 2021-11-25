@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-11-25T06:32:26.187Z</updated>
+    <updated>2021-11-25T07:26:22.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선예매] 김필 10주년 콘서트〈FEELmography〉- 부산 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11362</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11362"/>
+        <updated>2021-11-25T07:22:26.697Z</updated>
+        <content type="html"><![CDATA[2021.11.30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [잭더리퍼] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11361</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11343"/>
         <updated>2021-11-23T12:35:03.757Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈친정엄마와 2박3일〉- 용인 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11342</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11342"/>
-        <updated>2021-11-23T12:35:03.758Z</updated>
-        <content type="html"><![CDATA[2021.11.23(화) 15:00]]></content>
     </entry>
 </feed>
