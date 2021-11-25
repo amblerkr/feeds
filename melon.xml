@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-25T01:11:38.574Z</updated>
+    <updated>2021-11-25T02:39:23.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5681"/>
         <updated>2021-11-25T01:09:21.927Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5679"/>
+        <updated>2021-11-25T02:36:02.402Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왈츠소파 크리스마스 콘서트 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5671"/>
         <updated>2021-11-24T09:22:16.747Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김뜻돌 첫 단독공연 〈돌잔치〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5670</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5670"/>
-        <updated>2021-11-22T11:19:08.346Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 20:00]]></content>
     </entry>
 </feed>
