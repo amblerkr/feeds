@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-26T06:31:05.661Z</updated>
+    <updated>2021-11-26T07:25:23.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5685"/>
         <updated>2021-11-26T05:20:05.006Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 4차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5684</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5684"/>
+        <updated>2021-11-26T07:21:07.562Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－모브닝 단독 콘서트 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5676"/>
         <updated>2021-11-24T03:22:50.676Z</updated>
         <content type="html"><![CDATA[2021.12.01(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[unCERTAINTY 서수진 단독공연（Feat．Coloris Trio x 정수동 x Park 8）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5675</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5675"/>
-        <updated>2021-11-24T02:34:52.196Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 14:00]]></content>
     </entry>
 </feed>
