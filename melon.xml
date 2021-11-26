@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-26T08:31:06.098Z</updated>
+    <updated>2021-11-26T09:25:38.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5691"/>
         <updated>2021-11-26T08:26:13.493Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 커피소년 꿈다방 이야기［다시，시작］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5688</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5688"/>
+        <updated>2021-11-26T09:22:28.453Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[터치드 1st EP앨범 “Purple” 발매기념 단독공연 티켓 오픈 안내]]></title>
@@ -55,24 +62,17 @@
         <content type="html"><![CDATA[2021.11.25(목) 09:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[［단 하루，프라이이빗（VIP）박시환 팬 데이트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5680</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5680"/>
+        <updated>2021-11-26T09:22:28.460Z</updated>
+        <content type="html"><![CDATA[2021.11.27(토) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5679"/>
         <updated>2021-11-25T02:36:02.402Z</updated>
         <content type="html"><![CDATA[2021.11.26(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왈츠소파 크리스마스 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5678</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5678"/>
-        <updated>2021-11-24T03:22:50.669Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［WITH WINELOOP］2021 와인루프 연말 단독 공연＆팬미팅 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5677</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5677"/>
-        <updated>2021-11-24T09:22:16.739Z</updated>
-        <content type="html"><![CDATA[2021.11.29(월) 18:00]]></content>
     </entry>
 </feed>
