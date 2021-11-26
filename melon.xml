@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-26T07:25:23.699Z</updated>
+    <updated>2021-11-26T08:31:06.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔분의일 연말 단독공연［2021 엔분의일］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5691</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5691"/>
+        <updated>2021-11-26T08:26:13.493Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[터치드 1st EP앨범 “Purple” 발매기념 단독공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5686</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5677"/>
         <updated>2021-11-24T09:22:16.739Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［해서웨이 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5676</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5676"/>
-        <updated>2021-11-24T03:22:50.676Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 20:00]]></content>
     </entry>
 </feed>
