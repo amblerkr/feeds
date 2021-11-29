@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-29T07:24:46.774Z</updated>
+    <updated>2021-11-29T08:31:48.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소프라노 홍혜란의 HOPE​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53649</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53649"/>
+        <updated>2021-11-29T08:28:26.191Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌2 - 여수 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53648</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53648"/>
+        <updated>2021-11-29T08:28:26.191Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기현상 단독 콘서트 〈The 인기현상：Launch Detected〉- 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53647</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53635"/>
         <updated>2021-11-26T09:23:13.018Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘솔지 첫 단독 콘서트’ 취소안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53634</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
-        <updated>2021-11-26T07:21:55.794Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">282</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53633</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53633"/>
-        <updated>2021-11-26T05:20:52.554Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 05:00]]></content>
     </entry>
 </feed>
