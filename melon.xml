@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-29T02:39:57.021Z</updated>
+    <updated>2021-11-29T03:27:46.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문화정원아트홀 김바다 단독공연 BAADA 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5693</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5693"/>
+        <updated>2021-11-29T03:23:25.553Z</updated>
+        <content type="html"><![CDATA[2021.12.06(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALIVE STAGE ＃8：박시환 단독 콘서트 ‘사랑하지 않아서야’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5692</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5692"/>
+        <updated>2021-11-29T03:23:25.553Z</updated>
+        <content type="html"><![CDATA[2021.12.02(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔분의일 연말 단독공연［2021 엔분의일］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5691</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5691"/>
         <updated>2021-11-26T08:26:13.493Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체리필터 연말 단독 콘서트：Cherry Christmas 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5690</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5690"/>
+        <updated>2021-11-29T03:23:25.558Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플레이얼스 라이브（M1NU，노윤하，Kim Addict，KOR KASH）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5689</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5689"/>
+        <updated>2021-11-29T03:23:25.558Z</updated>
+        <content type="html"><![CDATA[2021.11.30(화) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 커피소년 꿈다방 이야기［다시，시작］티켓 오픈 안내]]></title>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5684"/>
         <updated>2021-11-26T07:21:07.562Z</updated>
         <content type="html"><![CDATA[2021.12.01(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－모브닝 단독 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5683"/>
-        <updated>2021-11-25T03:23:06.138Z</updated>
-        <content type="html"><![CDATA[2021.12.02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE HUG 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5682</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5682"/>
-        <updated>2021-11-26T05:20:05.006Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창완밴드 콘서트 in 부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5681</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5681"/>
-        <updated>2021-11-25T01:09:21.927Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［단 하루，프라이이빗（VIP）박시환 팬 데이트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5680</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5680"/>
-        <updated>2021-11-26T09:22:28.460Z</updated>
-        <content type="html"><![CDATA[2021.11.27(토) 18:00]]></content>
     </entry>
 </feed>
