@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-29T06:29:56.847Z</updated>
+    <updated>2021-11-29T07:24:46.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기현상 단독 콘서트 〈The 인기현상：Launch Detected〉- 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53647</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53647"/>
+        <updated>2021-11-29T07:22:24.413Z</updated>
+        <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 쇼콰이어 하모나이즈의 해피홀릭 콘서트 - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53646</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53646"/>
+        <updated>2021-11-29T07:22:24.415Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] THE CONCERT - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53645</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53645"/>
+        <updated>2021-11-29T07:22:24.416Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 〈강원도립무용단 기획공연 “무용詩 낭송회”〉- 춘천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53644</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53633"/>
         <updated>2021-11-26T05:21:02.343Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 – 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53632</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53632"/>
-        <updated>2021-11-26T02:36:23.021Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53631</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53631"/>
-        <updated>2021-11-25T23:23:12.165Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53630</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53630"/>
-        <updated>2021-11-25T10:25:30.366Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 06:00]]></content>
     </entry>
 </feed>
