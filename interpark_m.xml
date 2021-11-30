@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 5차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41484</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41484</guid>
+            <pubDate>Tue, 30 Nov 2021 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[임리라 피아노 독주회 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41483</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41483</guid>
+            <pubDate>Tue, 30 Nov 2021 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112911465925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［여수］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41482</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41482</guid>
+            <pubDate>Tue, 30 Nov 2021 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112611430639.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(2022 전주) 팥죽할멈과 호랑이 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41481</link>
@@ -69,32 +96,6 @@
             <content:encoded><![CDATA[2021.11.30
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112616394276.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 대구 가변석 추가오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41474</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41474</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009863_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[감각주의: 모네를 느끼다 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=881</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=881</guid>
-            <pubDate>Mon, 29 Nov 2021 02:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012188_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［티켓오픈연기］ 정동원콘서트 ‘성탄총동원’ (1st JEONG DONG WON’S CHRISTMAS CONCERT) 티켓오픈 연기]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41473</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41473</guid>
-            <pubDate>Mon, 29 Nov 2021 01:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012222_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
