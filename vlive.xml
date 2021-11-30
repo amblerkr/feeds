@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 16:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi]]></title>
+            <link>https://www.vlive.tv/video/270591</link>
+            <guid>https://www.vlive.tv/video/270591</guid>
+            <pubDate>Tue, 30 Nov 2021 17:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_100/1638291524170fhz2U_JPEG/upload_5456109283423131327bcaf51-c5df-4e0a-9dbf-6ea9803eeab8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[dancing the night way]]></title>
             <link>https://www.vlive.tv/video/270589</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 30 Nov 2021 08:23:39 GMT</pubDate>
             <content:encoded><![CDATA[Rocket Punch]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_139/1638263377700oDHBG_JPEG/b366b67c-51bb-11ec-a331-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘 #SF9 #에스에프나인]]></title>
-            <link>https://www.vlive.tv/video/270092</link>
-            <guid>https://www.vlive.tv/video/270092</guid>
-            <pubDate>Tue, 30 Nov 2021 07:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211130_78/1638255406256kbdmP_JPEG/upload_81896365913213124175cf67b-5a4b-4aa0-a7ed-b7257952ff8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
