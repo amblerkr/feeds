@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-01T02:42:25.279Z</updated>
+    <updated>2021-12-01T03:27:38.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우의［Frame］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5700</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5700"/>
+        <updated>2021-12-01T03:23:14.477Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［우주라이브］놀플라워＆무릉도원 콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5698</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5689"/>
         <updated>2021-11-29T03:23:25.558Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 커피소년 꿈다방 이야기［다시，시작］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5688</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5688"/>
-        <updated>2021-11-26T09:22:28.453Z</updated>
-        <content type="html"><![CDATA[2021.11.29(월) 18:00]]></content>
     </entry>
 </feed>
