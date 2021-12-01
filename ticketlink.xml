@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-01T01:18:34.607Z</updated>
+    <updated>2021-12-01T02:42:25.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SOMEDAY PLEROMA 2021 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53660</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53660"/>
+        <updated>2021-12-01T02:39:52.857Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53659</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53659"/>
+        <updated>2021-12-01T02:39:52.857Z</updated>
+        <content type="html"><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53659">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</a></td><td>2021.12.01</td><td class="ff_tahoma fs11">7</td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 강릉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53658</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53646"/>
         <updated>2021-11-29T07:22:17.467Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 〈강원도립무용단 기획공연 “무용詩 낭송회”〉- 춘천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53644</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53644"/>
-        <updated>2021-11-29T06:27:30.509Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 어린이캣 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53642</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53642"/>
-        <updated>2021-11-28T07:21:32.457Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 00:00]]></content>
     </entry>
 </feed>
