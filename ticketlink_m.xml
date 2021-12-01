@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-01T07:26:11.366Z</updated>
+    <updated>2021-12-01T08:30:22.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소 향 - 안양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53662</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53662"/>
+        <updated>2021-12-01T08:27:50.233Z</updated>
+        <content type="html"><![CDATA[2021.12.07(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53661</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53648</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53648"/>
         <updated>2021-11-29T08:28:32.403Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기현상 단독 콘서트 〈The 인기현상：Launch Detected〉- 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53647</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53647"/>
-        <updated>2021-11-29T07:22:24.413Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
     </entry>
 </feed>
