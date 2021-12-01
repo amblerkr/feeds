@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-01T08:30:22.563Z</updated>
+    <updated>2021-12-01T09:26:46.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5700</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5700"/>
         <updated>2021-12-01T03:23:14.477Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소수빈 단독공연 〈So Soo Bin〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5699</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5699"/>
+        <updated>2021-12-01T09:23:08.738Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 18:00]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5691"/>
         <updated>2021-11-26T08:26:13.493Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리필터 연말 단독 콘서트：Cherry Christmas 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5690</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5690"/>
-        <updated>2021-11-29T03:23:25.558Z</updated>
-        <content type="html"><![CDATA[2021.12.03(금) 20:00]]></content>
     </entry>
 </feed>
