@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-06T07:26:04.466Z</updated>
+    <updated>2021-12-06T08:31:32.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5716"/>
+        <updated>2021-12-06T08:27:09.204Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉 1차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5715</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5706</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5706"/>
         <updated>2021-12-03T03:22:43.914Z</updated>
-        <content type="html"><![CDATA[2021.12.06(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 XINDIE PRESENTS vol．7 안예은x오추프로젝트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5705</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5705"/>
-        <updated>2021-12-03T03:22:43.915Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 14:00]]></content>
     </entry>
 </feed>
