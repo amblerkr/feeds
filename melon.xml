@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-06T04:33:23.024Z</updated>
+    <updated>2021-12-06T05:25:04.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉 1차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5715</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5715"/>
+        <updated>2021-12-06T05:20:47.014Z</updated>
+        <content type="html"><![CDATA[2021.12.15(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 정상수 기부 콘서트－서울 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5705"/>
         <updated>2021-12-03T03:22:43.915Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 XINDIE PRESENTS vol．7 그_냥x김필선 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5704</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5704"/>
-        <updated>2021-12-03T03:22:43.915Z</updated>
-        <content type="html"><![CDATA[2021.12.06(월) 12:00]]></content>
     </entry>
 </feed>
