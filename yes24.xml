@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-06T03:27:39.155Z</updated>
+    <updated>2021-12-06T04:33:23.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Serenade of LA POEM 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11393</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11393"/>
+        <updated>2021-12-06T04:30:13.704Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11392</id>
@@ -134,12 +141,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374"/>
         <updated>2021-11-29T05:21:26.967Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐마니노프] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11373</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11373"/>
-        <updated>2021-11-29T03:23:53.145Z</updated>
-        <content type="html"><![CDATA[2021.12.02(목) 15:00]]></content>
     </entry>
 </feed>
