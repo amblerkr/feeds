@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-06T21:24:13.316Z</updated>
+    <updated>2021-12-07T07:26:03.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［시네마 필름 콘서트］ 러브레터 ＆ 냉정과 열정사이 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396"/>
+        <updated>2021-12-07T07:22:07.510Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [스핏파이어 그릴] 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11395</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377"/>
         <updated>2021-11-30T05:17:28.200Z</updated>
         <content type="html"><![CDATA[2021.12.07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376"/>
-        <updated>2021-11-29T09:23:03.304Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 14:00]]></content>
     </entry>
 </feed>
