@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-07T08:34:12.929Z</updated>
+    <updated>2021-12-07T09:28:39.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 사운드 바운드 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5718</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5718"/>
+        <updated>2021-12-07T09:24:15.992Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［2021，Blue Fanmeeting with 이혁］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5717</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5709"/>
         <updated>2021-12-02T09:22:13.920Z</updated>
         <content type="html"><![CDATA[2021.12.07(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 온라인 체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5708</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5708"/>
-        <updated>2021-12-03T06:26:37.733Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 15:00]]></content>
     </entry>
 </feed>
