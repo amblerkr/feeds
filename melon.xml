@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-07T23:27:05.881Z</updated>
+    <updated>2021-12-08T01:17:47.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이주영 발라드 2021 “안녕，오랜만이야．” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5719</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5719"/>
+        <updated>2021-12-08T01:12:27.041Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 사운드 바운드 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5718</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5710"/>
         <updated>2021-12-06T01:12:15.948Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbs UP！with 이정권 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5709</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5709"/>
-        <updated>2021-12-02T09:22:13.920Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 18:00]]></content>
     </entry>
 </feed>
