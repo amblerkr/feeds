@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-10T06:31:17.516Z</updated>
+    <updated>2021-12-10T07:24:46.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5727"/>
         <updated>2021-12-10T02:36:23.495Z</updated>
         <content type="html"><![CDATA[2021.12.17(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5725</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5725"/>
+        <updated>2021-12-10T07:21:15.788Z</updated>
+        <content type="html"><![CDATA[2021.12.15(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혜은이x재주소년 〈당신의 ‘파란나라’는 무엇인가요？〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5718"/>
         <updated>2021-12-07T10:26:25.823Z</updated>
         <content type="html"><![CDATA[2021.12.08(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021，Blue Fanmeeting with 이혁］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5717</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5717"/>
-        <updated>2021-12-07T07:21:42.783Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 18:00]]></content>
     </entry>
 </feed>
