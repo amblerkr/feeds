@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-13T06:31:25.349Z</updated>
+    <updated>2021-12-13T07:25:57.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5733"/>
         <updated>2021-12-13T04:29:30.253Z</updated>
         <content type="html"><![CDATA[2021.12.20(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［우주티켓］돈워리 뮤지션（합리적 소비란 무엇인가）－토르토르，연어초밥，여름스웨터 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5732</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5732"/>
+        <updated>2021-12-13T07:21:38.386Z</updated>
+        <content type="html"><![CDATA[2021.12.13(월) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[REDOOR FIRST CONCERT 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5723"/>
         <updated>2021-12-09T03:22:39.131Z</updated>
         <content type="html"><![CDATA[2021.12.16(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너와 내가 만든 세상 제주전，‘아가，봄이 왔다’ 케테콜비츠 전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5722</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5722"/>
-        <updated>2021-12-09T03:22:39.151Z</updated>
-        <content type="html"><![CDATA[2021.12.15(수) 12:00]]></content>
     </entry>
 </feed>
