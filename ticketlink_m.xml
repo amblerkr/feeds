@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-13T01:16:37.103Z</updated>
+    <updated>2021-12-13T02:41:57.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53714</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53714"/>
+        <updated>2021-12-13T02:38:33.912Z</updated>
+        <content type="html"><![CDATA[2021.12.15(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제360회 정기연주회 - 2022 신년음악회 ‘Waltz & Rhapsody’​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53713</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53700"/>
         <updated>2021-12-09T09:23:46.063Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53699</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53699"/>
-        <updated>2021-12-09T08:27:57.951Z</updated>
-        <content type="html"><![CDATA[2021.12.10(금) 01:00]]></content>
     </entry>
 </feed>
