@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-12-12T23:26:34.667Z</updated>
+    <updated>2021-12-13T01:16:37.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE- CHOI MINHO FAN PARTY “BEST CHOI’s MINHO 2021” 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11406&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11406&amp;order=1"/>
+        <updated>2021-12-13T01:12:38.361Z</updated>
+        <content type="html"><![CDATA[2021-12-13(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커넥팅 CONNECTING 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11405&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11397&amp;order=1"/>
         <updated>2021-12-07T08:30:24.907Z</updated>
         <content type="html"><![CDATA[2021-12-08(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［시네마 필름 콘서트］ 러브레터 ＆ 냉정과 열정사이 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11396&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11396&amp;order=1"/>
-        <updated>2021-12-07T07:22:16.893Z</updated>
-        <content type="html"><![CDATA[2021-12-08(수) 14:00]]></content>
     </entry>
 </feed>
