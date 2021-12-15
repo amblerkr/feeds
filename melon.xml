@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-15T04:33:11.682Z</updated>
+    <updated>2021-12-15T05:25:11.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주소녀 공식 팬클럽 우정 5기 모집 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5738</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5738"/>
+        <updated>2021-12-15T05:20:44.646Z</updated>
+        <content type="html"><![CDATA[2021.12.20(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Play NuPlay［＃4 주형진＆LaY］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5735</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5726"/>
         <updated>2021-12-13T01:11:03.949Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5725</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5725"/>
-        <updated>2021-12-10T07:21:15.788Z</updated>
-        <content type="html"><![CDATA[2021.12.15(수) 11:00]]></content>
     </entry>
 </feed>
