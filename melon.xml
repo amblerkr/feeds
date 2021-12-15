@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-15T09:26:31.624Z</updated>
+    <updated>2021-12-15T10:29:50.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -17,6 +17,13 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5737</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5737"/>
         <updated>2021-12-15T09:22:25.709Z</updated>
+        <content type="html"><![CDATA[2021.12.17(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 4기 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5736</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5736"/>
+        <updated>2021-12-15T10:24:45.496Z</updated>
         <content type="html"><![CDATA[2021.12.17(금) 18:00]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5728"/>
         <updated>2021-12-10T05:20:28.929Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 5차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5727</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5727"/>
-        <updated>2021-12-10T02:36:23.495Z</updated>
-        <content type="html"><![CDATA[2021.12.17(금) 11:00]]></content>
     </entry>
 </feed>
