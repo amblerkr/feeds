@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-15T23:26:59.871Z</updated>
+    <updated>2021-12-16T01:14:22.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 이벼리 단독 팬콘서트［벼리 지다］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5740</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5740"/>
+        <updated>2021-12-16T01:10:24.561Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주소녀 공식 팬클럽 우정 5기 모집 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5738</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5729"/>
         <updated>2021-12-13T03:22:40.101Z</updated>
         <content type="html"><![CDATA[2021.12.17(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 4기 모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5728</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5728"/>
-        <updated>2021-12-10T05:20:28.929Z</updated>
-        <content type="html"><![CDATA[2021.12.13(월) 10:00]]></content>
     </entry>
 </feed>
