@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-16T02:40:37.920Z</updated>
+    <updated>2021-12-16T03:26:53.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5740"/>
         <updated>2021-12-16T01:10:24.561Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5739"/>
+        <updated>2021-12-16T03:22:52.322Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우주소녀 공식 팬클럽 우정 5기 모집 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5731"/>
         <updated>2021-12-13T05:20:25.250Z</updated>
         <content type="html"><![CDATA[2021.12.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1415 3rd EP naps！발매기념 단독 공연：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5729</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5729"/>
-        <updated>2021-12-13T03:22:40.101Z</updated>
-        <content type="html"><![CDATA[2021.12.17(금) 20:00]]></content>
     </entry>
 </feed>
