@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-16T04:32:50.615Z</updated>
+    <updated>2021-12-16T05:24:12.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두리의 수상한 콘서트 ‘The JAZZ’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5741</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5741"/>
+        <updated>2021-12-16T05:20:26.737Z</updated>
+        <content type="html"><![CDATA[2021.12.17(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 이벼리 단독 팬콘서트［벼리 지다］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5740</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5732"/>
         <updated>2021-12-13T07:21:38.386Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REDOOR FIRST CONCERT 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5731</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5731"/>
-        <updated>2021-12-13T05:20:25.250Z</updated>
-        <content type="html"><![CDATA[2021.12.16(목) 14:00]]></content>
     </entry>
 </feed>
