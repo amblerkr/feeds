@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-17T06:31:59.767Z</updated>
+    <updated>2021-12-17T07:27:01.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5742</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5742"/>
+        <updated>2021-12-17T07:21:30.972Z</updated>
+        <content type="html"><![CDATA[2021.12.22(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두리의 수상한 콘서트 ‘The JAZZ’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5741</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[2021.12.20(월) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스튜디오 빌리빈 연말공연 〈PLALIST for us〉 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[스튜디오 빌리빈 연말공연 〈PLAYLIST for us〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5737</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5737"/>
         <updated>2021-12-15T09:22:25.709Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5733"/>
         <updated>2021-12-13T04:29:30.253Z</updated>
         <content type="html"><![CDATA[2021.12.20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［우주티켓］돈워리 뮤지션（합리적 소비란 무엇인가）－토르토르，연어초밥，여름스웨터 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5732</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5732"/>
-        <updated>2021-12-13T07:21:38.386Z</updated>
-        <content type="html"><![CDATA[2021.12.13(월) 17:00]]></content>
     </entry>
 </feed>
