@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-20T04:35:27.907Z</updated>
+    <updated>2021-12-20T05:26:46.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈더데빌〉 3차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5744"/>
+        <updated>2021-12-20T05:22:06.110Z</updated>
+        <content type="html"><![CDATA[2021.12.24(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맥거핀 단독 콘서트 ‘21st Century L’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5743</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5735"/>
         <updated>2021-12-14T06:26:51.495Z</updated>
         <content type="html"><![CDATA[2021.12.16(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［CHRISTMAS EVE MINII LIVE with 요아리］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5734</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5734"/>
-        <updated>2021-12-13T09:23:53.427Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 18:00]]></content>
     </entry>
 </feed>
