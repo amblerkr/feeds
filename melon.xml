@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-22T02:46:21.903Z</updated>
+    <updated>2021-12-22T03:27:50.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5746</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5746"/>
+        <updated>2021-12-22T03:23:33.632Z</updated>
+        <content type="html"><![CDATA[2021.12.29(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thanks For Your Service 릴레이 ROCK 콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5745</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5737</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5737"/>
         <updated>2021-12-15T09:22:25.709Z</updated>
-        <content type="html"><![CDATA[2021.12.17(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 4기 모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5736</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5736"/>
-        <updated>2021-12-15T10:24:45.496Z</updated>
         <content type="html"><![CDATA[2021.12.17(금) 18:00]]></content>
     </entry>
 </feed>
