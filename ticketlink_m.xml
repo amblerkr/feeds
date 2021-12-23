@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-23T06:33:05.352Z</updated>
+    <updated>2021-12-23T07:24:31.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53755</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53755"/>
+        <updated>2021-12-23T07:22:04.864Z</updated>
+        <content type="html"><![CDATA[2021.12.24(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 울산북구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53754</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53741"/>
         <updated>2021-12-18T08:27:10.534Z</updated>
         <content type="html"><![CDATA[2021.12.21(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53740</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53740"/>
-        <updated>2021-12-17T07:23:31.250Z</updated>
-        <content type="html"><![CDATA[2021.12.22(수) 05:00]]></content>
     </entry>
 </feed>
