@@ -4,15 +4,24 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 18:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 19:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에(혼자 있는데 잠도 안오면..여기여기 모여라~)]]></title>
+            <link>https://www.vlive.tv/video/272943</link>
+            <guid>https://www.vlive.tv/video/272943</guid>
+            <pubDate>Sat, 25 Dec 2021 19:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211226_214/1640458077614Bse6Y_JPEG/153333741570393471a65fefff-62a5-4439-9cbd-5e2c6e135929.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매우 짧은 수면유도 서호 갬성]]></title>
             <link>https://www.vlive.tv/video/272942</link>
             <guid>https://www.vlive.tv/video/272942</guid>
             <pubDate>Sat, 25 Dec 2021 18:27:23 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211226_209/1640457993258vSUMd_JPEG/b18b1a2e-65b2-11ec-810a-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윽 다시! 🎄💛🐝]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sat, 25 Dec 2021 10:26:06 GMT</pubDate>
             <content:encoded><![CDATA[키아라 (KIARA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211225_146/16404284562258iNvr_JPEG/449838ca-656d-11ec-b908-48df37ae3fca_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS예능님의 라이브 방송]]></title>
-            <link>https://www.vlive.tv/video/272915</link>
-            <guid>https://www.vlive.tv/video/272915</guid>
-            <pubDate>Sat, 25 Dec 2021 10:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[KBS예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211225_106/1640427559623ORRDr_PNG/15321593058487765386929f8f-fa85-48bf-b04b-d759e91f72e7.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
