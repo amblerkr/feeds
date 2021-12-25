@@ -4,15 +4,31 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 17:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 18:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매우 짧은 수면유도 서호 갬성]]></title>
+            <link>https://www.vlive.tv/video/272942</link>
+            <guid>https://www.vlive.tv/video/272942</guid>
+            <pubDate>Sat, 25 Dec 2021 18:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윽 다시! 🎄💛🐝]]></title>
+            <link>https://www.vlive.tv/video/272941</link>
+            <guid>https://www.vlive.tv/video/272941</guid>
+            <pubDate>Sat, 25 Dec 2021 18:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211226_266/1640453635163DH76F_JPEG/c73f5396-65a8-11ec-bf61-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 파티 🎄💛🎅🏻🐝🙌🏻]]></title>
             <link>https://www.vlive.tv/video/272940</link>
             <guid>https://www.vlive.tv/video/272940</guid>
             <pubDate>Sat, 25 Dec 2021 17:28:37 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211226_9/1640453543173P4Mnx_JPEG/8039de73-65a8-11ec-bf61-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멜크🎄]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Sat, 25 Dec 2021 10:26:06 GMT</pubDate>
             <content:encoded><![CDATA[KBS예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211225_106/1640427559623ORRDr_PNG/15321593058487765386929f8f-fa85-48bf-b04b-d759e91f72e7.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🎄🍌🐻🐥🐶🎄]]></title>
-            <link>https://www.vlive.tv/video/272912</link>
-            <guid>https://www.vlive.tv/video/272912</guid>
-            <pubDate>Sat, 25 Dec 2021 10:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[B1A4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211225_8/1640427163360QUOhc_JPEG/2bb0dde2-656b-11ec-8cee-a0369ff95678_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMEGA X-MAS🎄]]></title>
-            <link>https://www.vlive.tv/video/272909</link>
-            <guid>https://www.vlive.tv/video/272909</guid>
-            <pubDate>Sat, 25 Dec 2021 10:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211225_233/1640427087404S1xqy_JPEG/9d14af55-656a-11ec-a831-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
