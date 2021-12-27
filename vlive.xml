@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 17:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 18:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야라디오.]]></title>
+            <link>https://www.vlive.tv/video/273050</link>
+            <guid>https://www.vlive.tv/video/273050</guid>
+            <pubDate>Mon, 27 Dec 2021 18:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211227_39/1640613043447pPvJQ_JPEG/342308196547024690c276578-cb09-49b9-a235-54468707cc18.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Short]]></title>
             <link>https://www.vlive.tv/video/273060</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 27 Dec 2021 09:25:47 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211224_275/1640312651681NLdsi_JPEG/upload_56582234508571414052c109c-d44d-48bd-b3fb-b10afba58da5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "bㅣㄴ틈있지 겨울방학 edition" EP.03 (FULL Ver.)]]></title>
-            <link>https://www.vlive.tv/video/272519</link>
-            <guid>https://www.vlive.tv/video/272519</guid>
-            <pubDate>Mon, 27 Dec 2021 09:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_237/1640225923755ADwok_JPEG/1640225178671.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
