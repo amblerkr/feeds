@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-29T02:43:26.249Z</updated>
+    <updated>2021-12-29T03:26:28.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［신승은 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5754</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5754"/>
+        <updated>2021-12-29T03:22:57.582Z</updated>
+        <content type="html"><![CDATA[2022.01.05(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CONNECT：마리슈x오추프로젝트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5753</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5744"/>
         <updated>2021-12-20T05:22:06.110Z</updated>
         <content type="html"><![CDATA[2021.12.24(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥거핀 단독 콘서트 ‘21st Century L’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5743</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5743"/>
-        <updated>2021-12-20T03:23:31.984Z</updated>
-        <content type="html"><![CDATA[2021.12.27(월) 20:00]]></content>
     </entry>
 </feed>
