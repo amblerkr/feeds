@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-30T02:43:33.233Z</updated>
+    <updated>2021-12-30T03:26:06.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5760"/>
         <updated>2021-12-30T02:39:16.227Z</updated>
         <content type="html"><![CDATA[2022.01.05(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[406호 프로젝트 단독 콘서트 ‘CAMPING’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5758</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5758"/>
+        <updated>2021-12-30T03:22:39.077Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－백아 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5757</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5757"/>
+        <updated>2021-12-30T03:22:39.077Z</updated>
+        <content type="html"><![CDATA[2022.01.06(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，마지막 티켓 오픈！（Musical Hadestown）]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5750"/>
         <updated>2021-12-27T03:23:11.155Z</updated>
         <content type="html"><![CDATA[2021.12.29(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 6차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5749</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5749"/>
-        <updated>2021-12-24T07:22:09.522Z</updated>
-        <content type="html"><![CDATA[2021.12.29(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［Re：Boot2022 vol．1］“바닐라무스” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5748</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5748"/>
-        <updated>2021-12-23T05:21:55.692Z</updated>
-        <content type="html"><![CDATA[2021.12.27(월) 14:00]]></content>
     </entry>
 </feed>
