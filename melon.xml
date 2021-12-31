@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-12-31T08:31:24.808Z</updated>
+    <updated>2021-12-31T09:27:16.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Poles 정규 앨범 발매 기념 단독 콘서트 ‘The High Tide Club’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5762</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5762"/>
+        <updated>2021-12-31T09:22:52.151Z</updated>
+        <content type="html"><![CDATA[2022.01.03(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［2022 Winter Fanmeeting－유지애 30’s story］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5761</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5753"/>
         <updated>2021-12-28T05:21:20.131Z</updated>
         <content type="html"><![CDATA[2021.12.30(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5752"/>
-        <updated>2021-12-28T03:22:55.916Z</updated>
-        <content type="html"><![CDATA[2022.01.03(월) 20:00]]></content>
     </entry>
 </feed>
