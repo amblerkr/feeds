@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-31T01:18:57.471Z</updated>
+    <updated>2021-12-31T02:45:11.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버페이 DB 점검 안내(1/1)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11448</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11448"/>
+        <updated>2021-12-31T02:42:22.514Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 뮤지컬 [난쟁이들] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11446</id>
@@ -136,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11428"/>
         <updated>2021-12-23T02:40:29.397Z</updated>
         <content type="html"><![CDATA[2021.12.29(수) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427"/>
-        <updated>2021-12-22T08:28:36.209Z</updated>
-        <content type="html"><![CDATA[2021.12.24(금) 20:00]]></content>
     </entry>
 </feed>
