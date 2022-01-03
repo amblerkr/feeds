@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-03T02:45:01.336Z</updated>
+    <updated>2022-01-03T03:27:47.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 〈신데렐라〉 - 안동 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53784</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53784"/>
-        <updated>2021-12-31T07:22:14.898Z</updated>
+        <title type="html"><![CDATA[엘사안나도 깜짝 놀란 마술 콘서트 -문산 (파주시) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53790</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53790"/>
+        <updated>2022-01-03T03:24:18.356Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 신데렐라 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53789</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53789"/>
+        <updated>2022-01-03T03:24:18.358Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈잭더리퍼〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53786</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53786"/>
+        <updated>2022-01-03T03:24:18.359Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 개막 확정 및 티켓 오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53772"/>
         <updated>2021-12-28T07:22:00.109Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.31(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔니오 모리꼬네를 위하여 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53771</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53771"/>
-        <updated>2021-12-28T03:23:41.360Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈​엄마까투리 - 먹구렁이와 생일파티〉​- 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53770</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53770"/>
-        <updated>2021-12-28T01:13:20.643Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.29(수) 02:00]]></content>
     </entry>
 </feed>
