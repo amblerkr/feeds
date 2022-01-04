@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-04T07:25:52.533Z</updated>
+    <updated>2022-01-04T08:31:43.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈2022 부활 밸런타인 콘서트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53801</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53801"/>
+        <updated>2022-01-04T08:29:11.967Z</updated>
+        <content type="html"><![CDATA[2022.01.10(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈리차드3세〉​ 마지막 및 추가좌석 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53800</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53787"/>
         <updated>2022-01-03T05:23:03.002Z</updated>
         <content type="html"><![CDATA[2022.01.06(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈잭더리퍼〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53786</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53786"/>
-        <updated>2022-01-03T03:24:28.057Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 03:00]]></content>
     </entry>
 </feed>
