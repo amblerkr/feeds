@@ -4,9 +4,17 @@
         <title>V LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 03:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 04:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASC Live Ep.504 (UP10TION / 업텐션)]]></title>
+            <link>https://www.vlive.tv/video/273472</link>
+            <guid>https://www.vlive.tv/video/273472</guid>
+            <pubDate>Tue, 04 Jan 2022 04:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211231_143/1640933464516Dxzyy_PNG/upload_85013167136967509ee345daf-fe67-4ecd-b721-f2c5763e515f.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://www.vlive.tv/video/273266</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 03 Jan 2022 09:25:05 GMT</pubDate>
             <content:encoded><![CDATA[MBC드라마]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_257/1641195939614lEsoC_JPEG/upload_8527564851465996426a47c3b-e76d-4d3b-9d09-7f18cfe97c15.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[업텐션:UP10TION] 다시 그리워하다 '너에게 미쳤었다(CRAZY ABOUT YOU)' 첫무대 LIVESTAGE]]></title>
-            <link>https://www.vlive.tv/video/273680</link>
-            <guid>https://www.vlive.tv/video/273680</guid>
-            <pubDate>Mon, 03 Jan 2022 09:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220103_287/1641195809905LtDfR_JPEG/upload_85275091163199473e0ac8037-9fbe-4c6a-ba17-6ad9e8cdc55c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
