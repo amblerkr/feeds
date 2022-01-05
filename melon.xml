@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-01-05T06:31:29.610Z</updated>
+    <updated>2022-01-05T07:26:17.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5772"/>
         <updated>2022-01-05T03:23:43.583Z</updated>
         <content type="html"><![CDATA[2022.01.10(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당기시오 단독공연 “To be another day” 서울공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5771</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5771"/>
+        <updated>2022-01-05T07:21:59.079Z</updated>
+        <content type="html"><![CDATA[2022.01.06(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈더데빌〉 마지막 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5762"/>
         <updated>2021-12-31T09:22:52.151Z</updated>
         <content type="html"><![CDATA[2022.01.03(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2022 Winter Fanmeeting－유지애 30’s story］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5761</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5761"/>
-        <updated>2021-12-30T11:18:38.082Z</updated>
-        <content type="html"><![CDATA[2021.12.31(금) 20:00]]></content>
     </entry>
 </feed>
