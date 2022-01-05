@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-01-05T04:35:15.707Z</updated>
+    <updated>2022-01-05T05:24:47.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,34 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5772"/>
         <updated>2022-01-05T03:23:43.583Z</updated>
         <content type="html"><![CDATA[2022.01.10(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈더데빌〉 마지막 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5770</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5770"/>
+        <updated>2022-01-05T05:22:02.274Z</updated>
+        <content type="html"><![CDATA[2022.01.11(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전자양 단독 공연 ‘팡파레’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5769</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5769"/>
+        <updated>2022-01-05T05:22:02.274Z</updated>
+        <content type="html"><![CDATA[2022.01.11(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 DEJAVU GROUP CONCERT：Wrote This Tomorrow－대구 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5767</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5767"/>
+        <updated>2022-01-05T05:22:02.275Z</updated>
+        <content type="html"><![CDATA[2022.01.07(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 DEJAVU GROUP CONCERT：Wrote This Tomorrow－서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5766</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5766"/>
+        <updated>2022-01-05T05:22:02.275Z</updated>
+        <content type="html"><![CDATA[2022.01.07(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 오프라인체험극－다크필드 〈FLIGHT〉 티켓 오픈 안내]]></title>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5761"/>
         <updated>2021-12-30T11:18:38.082Z</updated>
         <content type="html"><![CDATA[2021.12.31(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 마지막 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5760</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5760"/>
-        <updated>2021-12-30T02:39:16.227Z</updated>
-        <content type="html"><![CDATA[2022.01.05(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비범한 가족 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5759</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5759"/>
-        <updated>2021-12-31T03:23:38.900Z</updated>
-        <content type="html"><![CDATA[2021.12.31(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[406호 프로젝트 단독 콘서트 ‘CAMPING’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5758</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5758"/>
-        <updated>2021-12-30T03:22:39.077Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－백아 단독 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5757</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5757"/>
-        <updated>2021-12-30T03:22:39.077Z</updated>
-        <content type="html"><![CDATA[2022.01.06(목) 20:00]]></content>
     </entry>
 </feed>
